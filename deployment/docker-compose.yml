@@ -38,27 +38,36 @@ services:
     volumes:
       - my-db:/var/lib/mysql
   receiver:
+    image: receiver
     container_name: my-receiver
-    build: ./recevier
     ports:
       - "8080:8080"
-    restart: on-failure
+    depends_on: 
+      - kafka
   storage:
+    image: storage
     container_name: my-storage
-    build: ./storage
     ports:
       - "8090:8090"
+    depends_on:
+      - kafka
+      - db
   processing:
+    image: processing
     container_name: my-processor
-    build: ./processing
     ports:
       - "8100:8100"
+    network_mode: "host"
+    depends_on:
+      - storage
   audit:
+    image: audit_log
     container_name: my-aduitor
-    build: ./audit_log
     ports:
       - "8110:8110"
+    depends_on:
+      - kafka-pa
 
 # Names our volume
 volumes:
-  my-db:
+  my-db-secondary:
