@@ -1,0 +1,35 @@
+version: '3.8'
+services:
+  receiver:
+    container_name: my-receiver
+    build: ./recevier
+    ports:
+      - "8080:8080"
+    restart: on-failure
+    networks:
+      - temp-network
+  storage:
+    container_name: my-storage
+    build: ./storage
+    ports:
+      - "8090:8090"
+    networks:
+      - temp-network
+  processing:
+    container_name: my-processor
+    build: ./processing
+    ports:
+      - "8100:8100"
+    networks:
+      - temp-network
+  audit:
+    container_name: my-aduitor
+    build: ./audit_log
+    ports:
+      - "8110:8110"
+    networks:
+      - temp-network
+
+networks:
+  temp-network:
+    external: true
