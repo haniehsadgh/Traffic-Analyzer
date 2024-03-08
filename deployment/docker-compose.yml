@@ -42,7 +42,7 @@ services:
     volumes:
       - my-db:/var/lib/mysql
     networks:
-      - my-networks
+      - my-network
   receiver:
     image: receiver
     container_name: my-receiver
@@ -82,7 +82,7 @@ services:
     networks:
       - my-network
 
-      
+
 networks:
   my-network:
     driver: bridge
