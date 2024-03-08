@@ -5,6 +5,8 @@ services:
     ports:
       - "2181"
     hostname: zookeeper
+    networks:
+      - my-network
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
@@ -23,6 +25,8 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
     depends_on:
       - "zookeeper"
+    networks:
+      - my-network
   db:
     image: mysql:5.7
     restart: always
@@ -37,6 +41,8 @@ services:
       - '3306'
     volumes:
       - my-db:/var/lib/mysql
+    networks:
+      - my-networks
   receiver:
     image: receiver
     container_name: my-receiver
@@ -44,6 +50,8 @@ services:
       - "8080:8080"
     depends_on: 
       - kafka
+    networks:
+      - my-network
   storage:
     image: storage
     container_name: my-storage
@@ -52,6 +60,8 @@ services:
     depends_on:
       - kafka
       - db
+    networks:
+      - my-network
   processing:
     image: processing
     container_name: my-processor
@@ -60,6 +70,8 @@ services:
     network_mode: "host"
     depends_on:
       - storage
+    networks:
+      - my-network
   audit:
     image: audit_log
     container_name: my-aduitor
@@ -67,6 +79,13 @@ services:
       - "8110:8110"
     depends_on:
       - kafka
+    networks:
+      - my-network
+
+      
+networks:
+  my-network:
+    driver: bridge
 
 # Names our volume
 volumes:
