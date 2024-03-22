@@ -4,9 +4,9 @@ from sqlalchemy.orm import DeclarativeBase, mapped_column
 from sqlalchemy import Integer, String, DateTime, func
 import datetime
 
-# Base = declarative_base()
-class Base(DeclarativeBase):
-    pass
+Base = declarative_base()
+# class Base(DeclarativeBase):
+#     pass
 
 class TrafficFlow(Base):
     __tablename__ = 'traffic_report'

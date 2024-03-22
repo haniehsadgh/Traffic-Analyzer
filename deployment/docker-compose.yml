@@ -48,13 +48,13 @@ services:
     container_name: my-receiver
     ports:
       - "8080:8080"
-    depends_on: 
+    depends_on:
       - kafka
     networks:
       - my-network
   storage:
     image: storage
-    container_name: my-storage
+    container_name: storage
     ports:
       - "8090:8090"
     depends_on:
@@ -67,7 +67,7 @@ services:
     container_name: my-processor
     ports:
       - "8100:8100"
-    network_mode: "host"
+        #network_mode: "host"
     depends_on:
       - storage
     networks:
@@ -89,4 +89,4 @@ networks:
 
 # Names our volume
 volumes:
-  my-db-secondary:
+  my-db:

@@ -1,0 +1,721 @@
+
+2024-02-24 17:43:26,825 - basicLogger - INFO - Recieved event traffic request with a trace id of 41ca7dac-50df-4e67-a63e-5f8410726ed2)
+2024-02-24 17:43:29,754 - basicLogger - INFO - Returned event traffic response (Id: 41ca7dac-50df-4e67-a63e-5f8410726ed2) with status 500
+2024-02-24 17:45:14,282 - basicLogger - INFO - Recieved event traffic request with a trace id of 091dfa50-9405-4a16-84c5-f272a066b0d8)
+2024-02-24 17:45:16,397 - basicLogger - INFO - Returned event traffic response (Id: 091dfa50-9405-4a16-84c5-f272a066b0d8) with status 500
+2024-02-24 17:49:02,897 - basicLogger - INFO - Recieved event traffic request with a trace id of 65c3083d-2802-488c-aaa1-d779ff630502)
+2024-02-24 17:49:04,996 - basicLogger - INFO - Returned event traffic response (Id: 65c3083d-2802-488c-aaa1-d779ff630502) with status 500
+2024-02-24 17:51:04,809 - basicLogger - INFO - Recieved event traffic request with a trace id of 6deff5e1-359d-4ec8-89a5-6b5a0e8ce015)
+2024-02-24 17:51:06,872 - basicLogger - INFO - Returned event traffic response (Id: 6deff5e1-359d-4ec8-89a5-6b5a0e8ce015) with status 500
+2024-02-24 17:52:48,606 - basicLogger - INFO - Recieved event traffic request with a trace id of 146acb82-7bf8-4313-b2a5-c56bb4099370)
+2024-02-24 17:52:50,737 - basicLogger - INFO - Returned event traffic response (Id: 146acb82-7bf8-4313-b2a5-c56bb4099370) with status 500
+2024-02-24 18:05:16,538 - basicLogger - INFO - Recieved event traffic request with a trace id of 77da0070-adc7-4c9a-8956-ca67e0a498bf)
+2024-02-24 18:05:18,697 - basicLogger - INFO - Returned event traffic response (Id: 77da0070-adc7-4c9a-8956-ca67e0a498bf) with status 500
+2024-02-24 18:20:29,956 - basicLogger - INFO - Recieved event traffic request with a trace id of 6c5624fc-f99b-43a2-aabf-5b8cb4eec53e)
+2024-02-24 18:20:32,069 - basicLogger - INFO - Returned event traffic response (Id: 6c5624fc-f99b-43a2-aabf-5b8cb4eec53e) with status 500
+2024-02-24 18:23:57,307 - basicLogger - INFO - Recieved event traffic request with a trace id of e9137b66-c28d-489f-939d-1c41427b1686)
+2024-02-24 18:23:59,418 - basicLogger - INFO - Returned event traffic response (Id: e9137b66-c28d-489f-939d-1c41427b1686) with status 500
+2024-02-24 18:26:22,184 - basicLogger - INFO - Recieved event traffic request with a trace id of 07690b94-9ac1-475f-bd65-2c166c63df5b)
+2024-02-24 18:26:24,321 - basicLogger - INFO - Returned event traffic response (Id: 07690b94-9ac1-475f-bd65-2c166c63df5b) with status 500
+2024-02-25 13:15:37,968 - basicLogger - INFO - Recieved event traffic request with a trace id of 78028980-4bbf-4696-b088-46bc1d422789)
+2024-02-25 13:15:40,358 - basicLogger - INFO - Returned event traffic response (Id: 78028980-4bbf-4696-b088-46bc1d422789) with status 500
+2024-02-25 13:19:01,600 - basicLogger - INFO - Recieved event traffic request with a trace id of 1b5e95c3-683c-4228-a8e4-f7e021664c82)
+2024-02-25 13:19:03,762 - basicLogger - INFO - Returned event traffic response (Id: 1b5e95c3-683c-4228-a8e4-f7e021664c82) with status 500
+2024-02-25 13:26:38,886 - basicLogger - INFO - Recieved event traffic request with a trace id of e670e854-3bae-443a-a660-fe8b84b71a96)
+2024-02-25 13:26:40,993 - basicLogger - INFO - Returned event traffic response (Id: e670e854-3bae-443a-a660-fe8b84b71a96) with status 500
+2024-02-25 13:27:30,281 - basicLogger - INFO - Recieved event traffic request with a trace id of 9c927bac-9221-4fa9-97e9-f11bdc324d80)
+2024-02-25 13:27:32,393 - basicLogger - INFO - Returned event traffic response (Id: 9c927bac-9221-4fa9-97e9-f11bdc324d80) with status 500
+2024-02-25 13:27:47,130 - basicLogger - INFO - Recieved event traffic request with a trace id of 65dfb755-a560-49c7-9efc-52c220b914aa)
+2024-02-25 13:27:49,210 - basicLogger - INFO - Returned event traffic response (Id: 65dfb755-a560-49c7-9efc-52c220b914aa) with status 500
+2024-02-25 13:27:56,569 - basicLogger - INFO - Recieved event traffic request with a trace id of 5966df57-7a38-4905-998f-f50f4b120b1c)
+2024-02-25 13:27:58,752 - basicLogger - INFO - Returned event traffic response (Id: 5966df57-7a38-4905-998f-f50f4b120b1c) with status 500
+2024-02-25 13:31:37,454 - basicLogger - INFO - Recieved event traffic request with a trace id of 15edfb06-e240-433e-812d-2c966e65124e)
+2024-02-25 13:31:39,563 - basicLogger - INFO - Returned event traffic response (Id: 15edfb06-e240-433e-812d-2c966e65124e) with status 201
+2024-02-25 13:33:44,240 - basicLogger - INFO - Recieved event traffic request with a trace id of 9d6eedb1-471e-4b2e-a2b6-8459c15c5ad5)
+2024-02-25 13:33:44,240 - basicLogger - INFO - Recieved event traffic request with a trace id of a41e187d-547d-403e-9f27-92d2b8bbcfdf)
+2024-02-25 13:33:44,240 - basicLogger - INFO - Recieved event traffic request with a trace id of 4d7d25fb-9c49-4834-84af-3615c3e21be1)
+2024-02-25 13:33:44,240 - basicLogger - INFO - Recieved event traffic request with a trace id of 39f21cdb-fd10-4b0d-8095-4d2145e32e62)
+2024-02-25 13:33:44,326 - basicLogger - INFO - Recieved event traffic request with a trace id of daf6c42e-b7a0-4c22-be4b-54f752d4b990)
+2024-02-25 13:33:46,359 - basicLogger - INFO - Returned event traffic response (Id: a41e187d-547d-403e-9f27-92d2b8bbcfdf) with status 201
+2024-02-25 13:33:46,387 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 86f46e84-ec07-466f-a7fb-8356091f8425)
+2024-02-25 13:33:46,413 - basicLogger - INFO - Returned event traffic response (Id: 4d7d25fb-9c49-4834-84af-3615c3e21be1) with status 500
+2024-02-25 13:33:46,414 - basicLogger - INFO - Returned event traffic response (Id: 9d6eedb1-471e-4b2e-a2b6-8459c15c5ad5) with status 500
+2024-02-25 13:33:46,415 - basicLogger - INFO - Returned event traffic response (Id: 39f21cdb-fd10-4b0d-8095-4d2145e32e62) with status 500
+2024-02-25 13:33:46,424 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 19072b5d-7f8f-4846-aaa1-016e7ae39625)
+2024-02-25 13:33:46,424 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b32bb81e-b183-48a7-9036-4770c3077192)
+2024-02-25 13:33:46,425 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3a4e5cc6-e919-4d36-b6ab-d052a6ff7190)
+2024-02-25 13:33:46,425 - basicLogger - INFO - Returned event traffic response (Id: daf6c42e-b7a0-4c22-be4b-54f752d4b990) with status 201
+2024-02-25 13:33:46,432 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b005e029-0ffa-4f3f-9622-c3f1343b3473)
+2024-02-25 13:33:48,490 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 86f46e84-ec07-466f-a7fb-8356091f8425) with status 201
+2024-02-25 13:33:48,498 - basicLogger - INFO - Recieved event traffic request with a trace id of 45faf6f6-1bcb-4a97-b238-cbf288bc04c7)
+2024-02-25 13:33:48,525 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b32bb81e-b183-48a7-9036-4770c3077192) with status 500
+2024-02-25 13:33:48,531 - basicLogger - INFO - Recieved event traffic request with a trace id of 4528771d-4647-42cb-a699-499c25c3985b)
+2024-02-25 13:33:48,541 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b005e029-0ffa-4f3f-9622-c3f1343b3473) with status 500
+2024-02-25 13:33:48,546 - basicLogger - INFO - Recieved event traffic request with a trace id of f230f254-8b96-4d26-8d84-b169a19e4d7d)
+2024-02-25 13:33:48,553 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 19072b5d-7f8f-4846-aaa1-016e7ae39625) with status 500
+2024-02-25 13:33:48,554 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3a4e5cc6-e919-4d36-b6ab-d052a6ff7190) with status 201
+2024-02-25 13:33:48,560 - basicLogger - INFO - Recieved event traffic request with a trace id of 5822698e-409e-4a1b-b8cb-1205453f90b6)
+2024-02-25 13:33:48,561 - basicLogger - INFO - Recieved event traffic request with a trace id of 2d785dcc-baf5-4960-948d-f658e8eedabd)
+2024-02-25 13:33:50,568 - basicLogger - INFO - Returned event traffic response (Id: 45faf6f6-1bcb-4a97-b238-cbf288bc04c7) with status 201
+2024-02-25 13:33:50,578 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 146d43eb-3308-46b3-8e43-6c861f44efca)
+2024-02-25 13:33:50,583 - basicLogger - INFO - Returned event traffic response (Id: 4528771d-4647-42cb-a699-499c25c3985b) with status 201
+2024-02-25 13:33:50,590 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 16c7cbe8-6fbd-4346-b732-ff2fe9d17578)
+2024-02-25 13:33:50,597 - basicLogger - INFO - Returned event traffic response (Id: f230f254-8b96-4d26-8d84-b169a19e4d7d) with status 201
+2024-02-25 13:33:50,603 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 4f202759-408b-428f-9901-0b5323f640e0)
+2024-02-25 13:33:50,624 - basicLogger - INFO - Returned event traffic response (Id: 2d785dcc-baf5-4960-948d-f658e8eedabd) with status 500
+2024-02-25 13:33:50,624 - basicLogger - INFO - Returned event traffic response (Id: 5822698e-409e-4a1b-b8cb-1205453f90b6) with status 201
+2024-02-25 13:33:50,630 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0144f298-7640-4195-851e-e9abeb7dc530)
+2024-02-25 13:33:50,631 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 9b9c4a5c-3c46-4f60-82f3-771c92ff0221)
+2024-02-25 13:33:52,650 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 146d43eb-3308-46b3-8e43-6c861f44efca) with status 201
+2024-02-25 13:33:52,719 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 16c7cbe8-6fbd-4346-b732-ff2fe9d17578) with status 500
+2024-02-25 13:33:52,719 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 4f202759-408b-428f-9901-0b5323f640e0) with status 500
+2024-02-25 13:33:52,734 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 9b9c4a5c-3c46-4f60-82f3-771c92ff0221) with status 500
+2024-02-25 13:33:52,757 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0144f298-7640-4195-851e-e9abeb7dc530) with status 500
+2024-02-25 13:34:23,011 - basicLogger - INFO - Recieved event traffic request with a trace id of 16ecc2f2-cd2c-43dd-b694-957092be74b1)
+2024-02-25 13:34:23,220 - basicLogger - INFO - Recieved event traffic request with a trace id of 06463d62-c761-419f-a44b-166c132461cd)
+2024-02-25 13:34:23,410 - basicLogger - INFO - Recieved event traffic request with a trace id of 1412942b-acd3-404b-a4f7-2e7f1956d89e)
+2024-02-25 13:34:23,614 - basicLogger - INFO - Recieved event traffic request with a trace id of 8a81bb5f-1749-4708-a7f7-39d21223d277)
+2024-02-25 13:34:23,814 - basicLogger - INFO - Recieved event traffic request with a trace id of 8fb7f697-ccbe-42ab-90df-6f78a715db64)
+2024-02-25 13:34:25,084 - basicLogger - INFO - Returned event traffic response (Id: 16ecc2f2-cd2c-43dd-b694-957092be74b1) with status 500
+2024-02-25 13:34:25,088 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of f1286cce-1dda-4ae1-97bf-0cda5dadf72f)
+2024-02-25 13:34:25,310 - basicLogger - INFO - Returned event traffic response (Id: 06463d62-c761-419f-a44b-166c132461cd) with status 500
+2024-02-25 13:34:25,318 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 213f6dcf-7d8f-41f7-921b-88bdfb40a674)
+2024-02-25 13:34:25,502 - basicLogger - INFO - Returned event traffic response (Id: 1412942b-acd3-404b-a4f7-2e7f1956d89e) with status 500
+2024-02-25 13:34:25,511 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0c32bd59-72ab-4e4d-b4db-6644bd409ae7)
+2024-02-25 13:34:25,702 - basicLogger - INFO - Returned event traffic response (Id: 8a81bb5f-1749-4708-a7f7-39d21223d277) with status 500
+2024-02-25 13:34:25,711 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2530c8bb-78a7-4b46-92d7-5b644e6fb3d4)
+2024-02-25 13:34:25,902 - basicLogger - INFO - Returned event traffic response (Id: 8fb7f697-ccbe-42ab-90df-6f78a715db64) with status 500
+2024-02-25 13:34:25,912 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2a133a97-bf13-4dc4-8d6e-6f59523e94c9)
+2024-02-25 13:34:27,171 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: f1286cce-1dda-4ae1-97bf-0cda5dadf72f) with status 500
+2024-02-25 13:34:27,179 - basicLogger - INFO - Recieved event traffic request with a trace id of 100463f4-0d68-4e4f-8bf0-f3b06ec90ff8)
+2024-02-25 13:34:27,380 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 213f6dcf-7d8f-41f7-921b-88bdfb40a674) with status 500
+2024-02-25 13:34:27,385 - basicLogger - INFO - Recieved event traffic request with a trace id of 3f1e0542-0f0a-44c7-b9eb-2648f5f13b7d)
+2024-02-25 13:34:27,609 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0c32bd59-72ab-4e4d-b4db-6644bd409ae7) with status 500
+2024-02-25 13:34:27,619 - basicLogger - INFO - Recieved event traffic request with a trace id of e13ecd27-988f-4bf6-b32a-9ccda9716801)
+2024-02-25 13:34:27,799 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2530c8bb-78a7-4b46-92d7-5b644e6fb3d4) with status 500
+2024-02-25 13:34:27,808 - basicLogger - INFO - Recieved event traffic request with a trace id of 2123ed91-eccc-46de-903a-c1dcbc293a58)
+2024-02-25 13:34:28,005 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2a133a97-bf13-4dc4-8d6e-6f59523e94c9) with status 500
+2024-02-25 13:34:28,011 - basicLogger - INFO - Recieved event traffic request with a trace id of 42d034b7-ef9a-464c-8721-d11f3119ea42)
+2024-02-25 13:34:29,271 - basicLogger - INFO - Returned event traffic response (Id: 100463f4-0d68-4e4f-8bf0-f3b06ec90ff8) with status 500
+2024-02-25 13:34:29,281 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2f0231c4-3ed9-4d06-8499-32bc4883fce5)
+2024-02-25 13:34:29,473 - basicLogger - INFO - Returned event traffic response (Id: 3f1e0542-0f0a-44c7-b9eb-2648f5f13b7d) with status 500
+2024-02-25 13:34:29,480 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 07ce2df0-f906-40d9-921c-987ed5536623)
+2024-02-25 13:34:29,677 - basicLogger - INFO - Returned event traffic response (Id: e13ecd27-988f-4bf6-b32a-9ccda9716801) with status 500
+2024-02-25 13:34:29,683 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 111a9801-fa69-4e85-a334-c685445b144a)
+2024-02-25 13:34:29,897 - basicLogger - INFO - Returned event traffic response (Id: 2123ed91-eccc-46de-903a-c1dcbc293a58) with status 500
+2024-02-25 13:34:29,906 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 06b73c78-423e-4835-94cd-27ebafd1fdfe)
+2024-02-25 13:34:30,097 - basicLogger - INFO - Returned event traffic response (Id: 42d034b7-ef9a-464c-8721-d11f3119ea42) with status 500
+2024-02-25 13:34:31,394 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2f0231c4-3ed9-4d06-8499-32bc4883fce5) with status 500
+2024-02-25 13:34:31,582 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 07ce2df0-f906-40d9-921c-987ed5536623) with status 500
+2024-02-25 13:34:31,771 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 111a9801-fa69-4e85-a334-c685445b144a) with status 500
+2024-02-25 13:34:31,963 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 06b73c78-423e-4835-94cd-27ebafd1fdfe) with status 500
+2024-02-25 13:34:57,344 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 02712fc0-a09b-4c82-a3f8-7aa6a7299a9f)
+2024-02-25 13:34:57,553 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 41431a43-2c99-45aa-94b0-84659cc45001)
+2024-02-25 13:34:57,745 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of a62c0fa2-2035-4c00-809b-335fc1e3dd05)
+2024-02-25 13:34:57,946 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1d622521-744e-4384-9d6e-8262fb255a33)
+2024-02-25 13:34:58,143 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 05f69855-4abf-4df3-8f0e-e92e8ad67948)
+2024-02-25 13:34:59,424 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 02712fc0-a09b-4c82-a3f8-7aa6a7299a9f) with status 500
+2024-02-25 13:34:59,434 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3d5b0b5f-f9c2-41db-b58c-0c7cc4cd2b72)
+2024-02-25 13:34:59,635 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 41431a43-2c99-45aa-94b0-84659cc45001) with status 500
+2024-02-25 13:34:59,652 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 736c3acd-7168-47f5-b729-bb7b090ad18b)
+2024-02-25 13:34:59,845 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: a62c0fa2-2035-4c00-809b-335fc1e3dd05) with status 500
+2024-02-25 13:34:59,860 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0606a742-821a-46bf-b400-fbedd48cc9f3)
+2024-02-25 13:35:00,043 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1d622521-744e-4384-9d6e-8262fb255a33) with status 500
+2024-02-25 13:35:00,059 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of c5cdfd1b-075f-4310-99db-7c49cd58f28e)
+2024-02-25 13:35:00,224 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 05f69855-4abf-4df3-8f0e-e92e8ad67948) with status 500
+2024-02-25 13:35:00,238 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of c5e144dd-c63d-4aa3-9012-16bea3102ff9)
+2024-02-25 13:35:01,502 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3d5b0b5f-f9c2-41db-b58c-0c7cc4cd2b72) with status 500
+2024-02-25 13:35:01,728 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 736c3acd-7168-47f5-b729-bb7b090ad18b) with status 500
+2024-02-25 13:35:01,937 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0606a742-821a-46bf-b400-fbedd48cc9f3) with status 500
+2024-02-25 13:35:02,137 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: c5cdfd1b-075f-4310-99db-7c49cd58f28e) with status 500
+2024-02-25 13:35:02,301 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: c5e144dd-c63d-4aa3-9012-16bea3102ff9) with status 500
+2024-02-25 13:35:19,431 - basicLogger - INFO - Recieved event traffic request with a trace id of ead10f81-5275-4e9e-92db-700ccac81eb2)
+2024-02-25 13:35:19,631 - basicLogger - INFO - Recieved event traffic request with a trace id of 1005106b-1337-43e9-841e-d46617f90955)
+2024-02-25 13:35:19,834 - basicLogger - INFO - Recieved event traffic request with a trace id of be14584b-b0dd-4c9c-8eca-598a83107f84)
+2024-02-25 13:35:20,034 - basicLogger - INFO - Recieved event traffic request with a trace id of e53bfb21-c5cd-4b54-8e32-a02caa69b779)
+2024-02-25 13:35:20,234 - basicLogger - INFO - Recieved event traffic request with a trace id of b49fed31-1f33-4ba8-9528-b7f8182acc96)
+2024-02-25 13:35:21,529 - basicLogger - INFO - Returned event traffic response (Id: ead10f81-5275-4e9e-92db-700ccac81eb2) with status 500
+2024-02-25 13:35:21,537 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 71b63bf0-d023-4d85-abc3-72906d63b381)
+2024-02-25 13:35:21,729 - basicLogger - INFO - Returned event traffic response (Id: 1005106b-1337-43e9-841e-d46617f90955) with status 500
+2024-02-25 13:35:21,739 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of e0cb8dbd-360a-437f-949a-043d26dc1772)
+2024-02-25 13:35:21,924 - basicLogger - INFO - Returned event traffic response (Id: be14584b-b0dd-4c9c-8eca-598a83107f84) with status 500
+2024-02-25 13:35:21,931 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of aa8b4e4f-a983-4516-9220-f9cb0868b30e)
+2024-02-25 13:35:22,131 - basicLogger - INFO - Returned event traffic response (Id: e53bfb21-c5cd-4b54-8e32-a02caa69b779) with status 500
+2024-02-25 13:35:22,139 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of c2e2a175-c97a-406b-9231-5c27c2a3d215)
+2024-02-25 13:35:22,317 - basicLogger - INFO - Returned event traffic response (Id: b49fed31-1f33-4ba8-9528-b7f8182acc96) with status 500
+2024-02-25 13:35:22,328 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1aebb8b5-6017-42b9-8123-531b53e26394)
+2024-02-25 13:35:23,620 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 71b63bf0-d023-4d85-abc3-72906d63b381) with status 500
+2024-02-25 13:35:23,626 - basicLogger - INFO - Recieved event traffic request with a trace id of 8d85d8a6-8309-4c4b-b896-811c87a92d4c)
+2024-02-25 13:35:23,807 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: e0cb8dbd-360a-437f-949a-043d26dc1772) with status 500
+2024-02-25 13:35:23,813 - basicLogger - INFO - Recieved event traffic request with a trace id of ccf5f205-3ff5-42a3-a6db-c78c777a5680)
+2024-02-25 13:35:24,025 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: aa8b4e4f-a983-4516-9220-f9cb0868b30e) with status 500
+2024-02-25 13:35:24,033 - basicLogger - INFO - Recieved event traffic request with a trace id of c0443908-82a1-4130-8781-ed9e92919f7e)
+2024-02-25 13:35:24,207 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: c2e2a175-c97a-406b-9231-5c27c2a3d215) with status 500
+2024-02-25 13:35:24,213 - basicLogger - INFO - Recieved event traffic request with a trace id of 7cf43bb2-95cd-4fa0-9438-84dcb8e30ace)
+2024-02-25 13:35:24,380 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1aebb8b5-6017-42b9-8123-531b53e26394) with status 500
+2024-02-25 13:35:25,706 - basicLogger - INFO - Returned event traffic response (Id: 8d85d8a6-8309-4c4b-b896-811c87a92d4c) with status 500
+2024-02-25 13:35:25,877 - basicLogger - INFO - Returned event traffic response (Id: ccf5f205-3ff5-42a3-a6db-c78c777a5680) with status 500
+2024-02-25 13:35:26,127 - basicLogger - INFO - Returned event traffic response (Id: c0443908-82a1-4130-8781-ed9e92919f7e) with status 500
+2024-02-25 13:35:26,286 - basicLogger - INFO - Returned event traffic response (Id: 7cf43bb2-95cd-4fa0-9438-84dcb8e30ace) with status 500
+2024-02-25 13:36:06,845 - basicLogger - INFO - Recieved event traffic request with a trace id of 565ea8f6-379a-4552-b885-46997774c542)
+2024-02-25 13:36:07,064 - basicLogger - INFO - Recieved event traffic request with a trace id of 99270846-5726-4324-97c8-8dc97118674d)
+2024-02-25 13:36:07,271 - basicLogger - INFO - Recieved event traffic request with a trace id of 7bddc9aa-ab7f-40aa-aaf1-7a0b99922d45)
+2024-02-25 13:36:07,450 - basicLogger - INFO - Recieved event traffic request with a trace id of 4944e9c6-dfa9-40a5-8543-5bb1def174cc)
+2024-02-25 13:36:07,651 - basicLogger - INFO - Recieved event traffic request with a trace id of 5fbcb498-20c6-4b52-921c-b5cf2e07fae4)
+2024-02-25 13:36:08,935 - basicLogger - INFO - Returned event traffic response (Id: 565ea8f6-379a-4552-b885-46997774c542) with status 500
+2024-02-25 13:36:08,945 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 22591d20-9b66-499e-952c-fc7e8c28bcff)
+2024-02-25 13:36:09,136 - basicLogger - INFO - Returned event traffic response (Id: 99270846-5726-4324-97c8-8dc97118674d) with status 500
+2024-02-25 13:36:09,144 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 7893b3c3-4bc3-4233-9197-adefcc59a29b)
+2024-02-25 13:36:09,358 - basicLogger - INFO - Returned event traffic response (Id: 7bddc9aa-ab7f-40aa-aaf1-7a0b99922d45) with status 500
+2024-02-25 13:36:09,369 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of bc5d6247-e21c-4c4e-b87a-428ddfc271b0)
+2024-02-25 13:36:09,517 - basicLogger - INFO - Returned event traffic response (Id: 4944e9c6-dfa9-40a5-8543-5bb1def174cc) with status 500
+2024-02-25 13:36:09,523 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of de326993-9ed5-46b6-aa04-a4336f97fe95)
+2024-02-25 13:36:09,725 - basicLogger - INFO - Returned event traffic response (Id: 5fbcb498-20c6-4b52-921c-b5cf2e07fae4) with status 500
+2024-02-25 13:36:09,734 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2012caf9-d3ff-403f-8904-b5bcc404fc74)
+2024-02-25 13:36:11,041 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 22591d20-9b66-499e-952c-fc7e8c28bcff) with status 500
+2024-02-25 13:36:11,053 - basicLogger - INFO - Recieved event traffic request with a trace id of 70c45b1b-f03f-42a0-912f-f2b6fe95bd92)
+2024-02-25 13:36:11,233 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 7893b3c3-4bc3-4233-9197-adefcc59a29b) with status 500
+2024-02-25 13:36:11,243 - basicLogger - INFO - Recieved event traffic request with a trace id of 1d31a949-154c-4673-8e8e-7f462370b9db)
+2024-02-25 13:36:11,459 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: bc5d6247-e21c-4c4e-b87a-428ddfc271b0) with status 500
+2024-02-25 13:36:11,465 - basicLogger - INFO - Recieved event traffic request with a trace id of be4898d3-db61-4123-93cd-9abbadeee586)
+2024-02-25 13:36:11,621 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: de326993-9ed5-46b6-aa04-a4336f97fe95) with status 500
+2024-02-25 13:36:11,630 - basicLogger - INFO - Recieved event traffic request with a trace id of ae75b3cd-6bdf-40bf-abf2-679107c959ee)
+2024-02-25 13:36:11,820 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2012caf9-d3ff-403f-8904-b5bcc404fc74) with status 500
+2024-02-25 13:36:11,827 - basicLogger - INFO - Recieved event traffic request with a trace id of 6b658cd9-2f55-4950-b3f8-5e35c0de76f6)
+2024-02-25 13:36:13,148 - basicLogger - INFO - Returned event traffic response (Id: 70c45b1b-f03f-42a0-912f-f2b6fe95bd92) with status 500
+2024-02-25 13:36:13,156 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3b0775ed-ceb0-4629-a1b1-95167e9b3d78)
+2024-02-25 13:36:13,338 - basicLogger - INFO - Returned event traffic response (Id: 1d31a949-154c-4673-8e8e-7f462370b9db) with status 500
+2024-02-25 13:36:13,344 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d2b1fd16-ebfb-4d9c-b6ca-1e1bb8d4ced3)
+2024-02-25 13:36:13,549 - basicLogger - INFO - Returned event traffic response (Id: be4898d3-db61-4123-93cd-9abbadeee586) with status 500
+2024-02-25 13:36:13,558 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1f0c6bf7-6b8d-4c93-adaf-4d9b0ff356fa)
+2024-02-25 13:36:13,709 - basicLogger - INFO - Returned event traffic response (Id: ae75b3cd-6bdf-40bf-abf2-679107c959ee) with status 500
+2024-02-25 13:36:13,716 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of dcdddc99-fed9-4895-9b01-ce19a1afb4d5)
+2024-02-25 13:36:13,905 - basicLogger - INFO - Returned event traffic response (Id: 6b658cd9-2f55-4950-b3f8-5e35c0de76f6) with status 500
+2024-02-25 13:36:13,912 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of da888a6c-5490-472c-95c7-b50b871568ad)
+2024-02-25 13:36:15,233 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3b0775ed-ceb0-4629-a1b1-95167e9b3d78) with status 500
+2024-02-25 13:36:15,438 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d2b1fd16-ebfb-4d9c-b6ca-1e1bb8d4ced3) with status 500
+2024-02-25 13:36:15,626 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1f0c6bf7-6b8d-4c93-adaf-4d9b0ff356fa) with status 500
+2024-02-25 13:36:15,860 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: dcdddc99-fed9-4895-9b01-ce19a1afb4d5) with status 500
+2024-02-25 13:36:16,004 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: da888a6c-5490-472c-95c7-b50b871568ad) with status 500
+2024-02-25 13:36:55,654 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 5e39b839-eee5-48c9-b7ee-689e70c66b40)
+2024-02-25 13:36:55,854 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 971f5e9f-931d-4e60-904b-e0f49c755bb4)
+2024-02-25 13:36:56,064 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of fdd7e2fa-0d94-4262-8e52-7cd1b69725aa)
+2024-02-25 13:36:56,265 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 42820cb2-7001-4ab6-a8bd-b80b7ba356d4)
+2024-02-25 13:36:56,467 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0d25e928-c358-4b6e-b552-a9ba597a19a0)
+2024-02-25 13:36:57,746 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 5e39b839-eee5-48c9-b7ee-689e70c66b40) with status 500
+2024-02-25 13:36:57,757 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1cc749be-4c67-421f-b825-d428b34914f6)
+2024-02-25 13:36:57,956 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 971f5e9f-931d-4e60-904b-e0f49c755bb4) with status 500
+2024-02-25 13:36:57,974 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 9d60a6a6-4ae8-4004-9551-5d82d58624e3)
+2024-02-25 13:36:58,136 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: fdd7e2fa-0d94-4262-8e52-7cd1b69725aa) with status 500
+2024-02-25 13:36:58,147 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of cb5f28f6-b0aa-4399-847f-8f9d442d40a4)
+2024-02-25 13:36:58,355 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 42820cb2-7001-4ab6-a8bd-b80b7ba356d4) with status 500
+2024-02-25 13:36:58,366 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of be6845dd-675b-4585-8244-2885e861a98f)
+2024-02-25 13:36:58,558 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0d25e928-c358-4b6e-b552-a9ba597a19a0) with status 500
+2024-02-25 13:36:58,568 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ed9bcea8-221c-4ffd-b18d-ab1070dc8e6f)
+2024-02-25 13:36:59,838 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1cc749be-4c67-421f-b825-d428b34914f6) with status 500
+2024-02-25 13:37:00,060 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 9d60a6a6-4ae8-4004-9551-5d82d58624e3) with status 500
+2024-02-25 13:37:00,237 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: cb5f28f6-b0aa-4399-847f-8f9d442d40a4) with status 500
+2024-02-25 13:37:00,440 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: be6845dd-675b-4585-8244-2885e861a98f) with status 500
+2024-02-25 13:37:00,658 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ed9bcea8-221c-4ffd-b18d-ab1070dc8e6f) with status 500
+2024-02-25 13:38:23,694 - basicLogger - INFO - Recieved event traffic request with a trace id of cd80c76f-61a1-45dd-bf58-05c4e82ad413)
+2024-02-25 13:38:25,802 - basicLogger - INFO - Returned event traffic response (Id: cd80c76f-61a1-45dd-bf58-05c4e82ad413) with status 201
+2024-02-25 13:39:46,495 - basicLogger - INFO - Recieved event traffic request with a trace id of 518b0d43-1415-483d-a311-0e63c9239ced)
+2024-02-25 13:39:46,699 - basicLogger - INFO - Recieved event traffic request with a trace id of 0c876429-2a1a-44c7-b59c-5e9934123595)
+2024-02-25 13:39:46,899 - basicLogger - INFO - Recieved event traffic request with a trace id of d31ed938-074d-4e81-a885-c305a44c4e1f)
+2024-02-25 13:39:47,098 - basicLogger - INFO - Recieved event traffic request with a trace id of 5100c78b-78c3-4a3b-8094-cfcec3b7bf16)
+2024-02-25 13:39:47,300 - basicLogger - INFO - Recieved event traffic request with a trace id of 51aede43-57dd-4162-a0cc-e5c07f6504cd)
+2024-02-25 13:39:48,576 - basicLogger - INFO - Returned event traffic response (Id: 518b0d43-1415-483d-a311-0e63c9239ced) with status 201
+2024-02-25 13:39:48,588 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of eb3b6347-c974-472d-967f-fa5f0a6f4fb2)
+2024-02-25 13:39:48,782 - basicLogger - INFO - Returned event traffic response (Id: 0c876429-2a1a-44c7-b59c-5e9934123595) with status 201
+2024-02-25 13:39:48,795 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d82710b3-2f9e-4e19-95bb-8a95a4a7f119)
+2024-02-25 13:39:48,964 - basicLogger - INFO - Returned event traffic response (Id: d31ed938-074d-4e81-a885-c305a44c4e1f) with status 201
+2024-02-25 13:39:48,977 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2678429f-ae99-432b-9fa6-45cc3d9544b0)
+2024-02-25 13:39:49,172 - basicLogger - INFO - Returned event traffic response (Id: 5100c78b-78c3-4a3b-8094-cfcec3b7bf16) with status 201
+2024-02-25 13:39:49,184 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 7d6a1a6d-3bfb-449c-a4c2-a4f58650a848)
+2024-02-25 13:39:49,368 - basicLogger - INFO - Returned event traffic response (Id: 51aede43-57dd-4162-a0cc-e5c07f6504cd) with status 201
+2024-02-25 13:39:49,380 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of fcf2beaa-5095-4b0d-aea6-a2a78037705d)
+2024-02-25 13:39:50,663 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: eb3b6347-c974-472d-967f-fa5f0a6f4fb2) with status 201
+2024-02-25 13:39:50,674 - basicLogger - INFO - Recieved event traffic request with a trace id of 68562f4f-13d0-466f-ac63-bde423e6de9f)
+2024-02-25 13:39:50,875 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d82710b3-2f9e-4e19-95bb-8a95a4a7f119) with status 201
+2024-02-25 13:39:50,888 - basicLogger - INFO - Recieved event traffic request with a trace id of f786f5b2-c849-4ab9-9bf6-440991550c4a)
+2024-02-25 13:39:51,035 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2678429f-ae99-432b-9fa6-45cc3d9544b0) with status 201
+2024-02-25 13:39:51,048 - basicLogger - INFO - Recieved event traffic request with a trace id of f380d73e-b6bd-4c46-9c9e-35eff4fde1f9)
+2024-02-25 13:39:51,259 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 7d6a1a6d-3bfb-449c-a4c2-a4f58650a848) with status 201
+2024-02-25 13:39:51,272 - basicLogger - INFO - Recieved event traffic request with a trace id of b78c8907-31e5-460a-9cbe-85a8530c6fed)
+2024-02-25 13:39:51,461 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: fcf2beaa-5095-4b0d-aea6-a2a78037705d) with status 201
+2024-02-25 13:39:51,475 - basicLogger - INFO - Recieved event traffic request with a trace id of 6b2e638d-5afc-4bc4-99f5-4cb7a04acddd)
+2024-02-25 13:39:52,751 - basicLogger - INFO - Returned event traffic response (Id: 68562f4f-13d0-466f-ac63-bde423e6de9f) with status 201
+2024-02-25 13:39:52,764 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3066b8c3-aff8-45d3-9d5e-dd59b2771fca)
+2024-02-25 13:39:52,969 - basicLogger - INFO - Returned event traffic response (Id: f786f5b2-c849-4ab9-9bf6-440991550c4a) with status 201
+2024-02-25 13:39:52,982 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 7936afe2-b7f7-43e9-a553-c00298c2b1ca)
+2024-02-25 13:39:53,132 - basicLogger - INFO - Returned event traffic response (Id: f380d73e-b6bd-4c46-9c9e-35eff4fde1f9) with status 201
+2024-02-25 13:39:53,144 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of fa28b844-0a25-4f13-8601-b9b53f376868)
+2024-02-25 13:39:53,352 - basicLogger - INFO - Returned event traffic response (Id: b78c8907-31e5-460a-9cbe-85a8530c6fed) with status 201
+2024-02-25 13:39:53,364 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1a00b0d0-7cf8-484d-8ade-510215bc094f)
+2024-02-25 13:39:53,554 - basicLogger - INFO - Returned event traffic response (Id: 6b2e638d-5afc-4bc4-99f5-4cb7a04acddd) with status 201
+2024-02-25 13:39:53,566 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of bca91c09-9501-4cf7-8b5a-f894534e00d8)
+2024-02-25 13:39:54,852 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3066b8c3-aff8-45d3-9d5e-dd59b2771fca) with status 201
+2024-02-25 13:39:55,071 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 7936afe2-b7f7-43e9-a553-c00298c2b1ca) with status 201
+2024-02-25 13:39:55,228 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: fa28b844-0a25-4f13-8601-b9b53f376868) with status 201
+2024-02-25 13:39:55,457 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1a00b0d0-7cf8-484d-8ade-510215bc094f) with status 201
+2024-02-25 13:39:55,634 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: bca91c09-9501-4cf7-8b5a-f894534e00d8) with status 201
+2024-02-25 13:40:18,491 - basicLogger - INFO - Recieved event traffic request with a trace id of d8dd143b-6aaf-499b-8f5f-977b712ea643)
+2024-02-25 13:40:18,697 - basicLogger - INFO - Recieved event traffic request with a trace id of 348a96f0-34f9-4404-8d0e-15d9c3b4c9f6)
+2024-02-25 13:40:18,899 - basicLogger - INFO - Recieved event traffic request with a trace id of a9009eb9-7491-45dd-bbed-0866ce36ff60)
+2024-02-25 13:40:19,098 - basicLogger - INFO - Recieved event traffic request with a trace id of 450725e1-0759-47cd-a339-5ad704bf27d0)
+2024-02-25 13:40:19,298 - basicLogger - INFO - Recieved event traffic request with a trace id of c23aabd6-a31d-4a11-b265-87c65460df45)
+2024-02-25 13:40:20,568 - basicLogger - INFO - Returned event traffic response (Id: d8dd143b-6aaf-499b-8f5f-977b712ea643) with status 201
+2024-02-25 13:40:20,580 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d35e7897-2ce5-4255-b4d1-70ad385f0f67)
+2024-02-25 13:40:20,786 - basicLogger - INFO - Returned event traffic response (Id: 348a96f0-34f9-4404-8d0e-15d9c3b4c9f6) with status 201
+2024-02-25 13:40:20,799 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ba578575-295d-4220-a9ff-807974495054)
+2024-02-25 13:40:20,980 - basicLogger - INFO - Returned event traffic response (Id: a9009eb9-7491-45dd-bbed-0866ce36ff60) with status 201
+2024-02-25 13:40:20,990 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 012ff0b7-023f-49d1-ba34-0e2c9e84713e)
+2024-02-25 13:40:21,194 - basicLogger - INFO - Returned event traffic response (Id: 450725e1-0759-47cd-a339-5ad704bf27d0) with status 201
+2024-02-25 13:40:21,207 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 44ca8b2e-4c7b-4e38-aed6-e6d55806550a)
+2024-02-25 13:40:21,368 - basicLogger - INFO - Returned event traffic response (Id: c23aabd6-a31d-4a11-b265-87c65460df45) with status 201
+2024-02-25 13:40:21,381 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of caf010f8-a642-4d8c-89bc-3925f93c0d2f)
+2024-02-25 13:40:22,652 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d35e7897-2ce5-4255-b4d1-70ad385f0f67) with status 201
+2024-02-25 13:40:22,665 - basicLogger - INFO - Recieved event traffic request with a trace id of 38797ca6-f724-4b85-a5a6-56306c4255aa)
+2024-02-25 13:40:22,889 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ba578575-295d-4220-a9ff-807974495054) with status 201
+2024-02-25 13:40:22,901 - basicLogger - INFO - Recieved event traffic request with a trace id of 4caad43c-edee-48dc-b78b-e8a3350d4c70)
+2024-02-25 13:40:23,062 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 012ff0b7-023f-49d1-ba34-0e2c9e84713e) with status 201
+2024-02-25 13:40:23,076 - basicLogger - INFO - Recieved event traffic request with a trace id of 6bddc570-4d3c-4626-b261-0d2a97287166)
+2024-02-25 13:40:23,278 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 44ca8b2e-4c7b-4e38-aed6-e6d55806550a) with status 201
+2024-02-25 13:40:23,290 - basicLogger - INFO - Recieved event traffic request with a trace id of 947e6870-3c67-415b-9d84-8b97ac8732c4)
+2024-02-25 13:40:23,455 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: caf010f8-a642-4d8c-89bc-3925f93c0d2f) with status 201
+2024-02-25 13:40:23,468 - basicLogger - INFO - Recieved event traffic request with a trace id of 6ef13b42-cf23-4e6a-be3e-5d76f2eeaae2)
+2024-02-25 13:40:24,755 - basicLogger - INFO - Returned event traffic response (Id: 38797ca6-f724-4b85-a5a6-56306c4255aa) with status 201
+2024-02-25 13:40:24,767 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 80667838-ddb1-49cb-9096-a19a394e72fe)
+2024-02-25 13:40:24,972 - basicLogger - INFO - Returned event traffic response (Id: 4caad43c-edee-48dc-b78b-e8a3350d4c70) with status 201
+2024-02-25 13:40:24,985 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0b36912d-53c5-4b30-ae42-0ab2be17284a)
+2024-02-25 13:40:25,153 - basicLogger - INFO - Returned event traffic response (Id: 6bddc570-4d3c-4626-b261-0d2a97287166) with status 201
+2024-02-25 13:40:25,166 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 393366e0-c89c-4265-b392-a46e68649453)
+2024-02-25 13:40:25,362 - basicLogger - INFO - Returned event traffic response (Id: 947e6870-3c67-415b-9d84-8b97ac8732c4) with status 201
+2024-02-25 13:40:25,374 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of aede6071-7558-4ca1-9e1a-c989a29a4b36)
+2024-02-25 13:40:25,551 - basicLogger - INFO - Returned event traffic response (Id: 6ef13b42-cf23-4e6a-be3e-5d76f2eeaae2) with status 201
+2024-02-25 13:40:25,562 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of e9062104-35c3-4d5b-98c4-ad3110f39c2a)
+2024-02-25 13:40:26,850 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 80667838-ddb1-49cb-9096-a19a394e72fe) with status 201
+2024-02-25 13:40:27,072 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0b36912d-53c5-4b30-ae42-0ab2be17284a) with status 201
+2024-02-25 13:40:27,249 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 393366e0-c89c-4265-b392-a46e68649453) with status 201
+2024-02-25 13:40:27,446 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: aede6071-7558-4ca1-9e1a-c989a29a4b36) with status 201
+2024-02-25 13:40:27,647 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: e9062104-35c3-4d5b-98c4-ad3110f39c2a) with status 201
+2024-02-25 13:41:07,442 - basicLogger - INFO - Recieved event traffic request with a trace id of 84a0a6ec-0c9a-4fcc-818c-229a390128d0)
+2024-02-25 13:41:07,644 - basicLogger - INFO - Recieved event traffic request with a trace id of 3c7a8e8d-717b-43fb-96ec-acdadc320a5d)
+2024-02-25 13:41:07,849 - basicLogger - INFO - Recieved event traffic request with a trace id of e889399c-c51f-4807-9df9-0ae91cde1c8b)
+2024-02-25 13:41:08,047 - basicLogger - INFO - Recieved event traffic request with a trace id of c6a19c73-37e7-47e9-91de-6d816e276549)
+2024-02-25 13:41:08,245 - basicLogger - INFO - Recieved event traffic request with a trace id of c2bfeb83-0a7f-4db9-bf32-2752d72e8c34)
+2024-02-25 13:41:09,513 - basicLogger - INFO - Returned event traffic response (Id: 84a0a6ec-0c9a-4fcc-818c-229a390128d0) with status 201
+2024-02-25 13:41:09,527 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 723f6471-bc37-4d6e-a2fe-10afca1f0b73)
+2024-02-25 13:41:09,713 - basicLogger - INFO - Returned event traffic response (Id: 3c7a8e8d-717b-43fb-96ec-acdadc320a5d) with status 201
+2024-02-25 13:41:09,721 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 973006fa-14c7-44dc-9176-390f43cee1d0)
+2024-02-25 13:41:09,913 - basicLogger - INFO - Returned event traffic response (Id: e889399c-c51f-4807-9df9-0ae91cde1c8b) with status 201
+2024-02-25 13:41:09,925 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 33ad2f5b-d06c-4e16-bae7-f5173de6e4a5)
+2024-02-25 13:41:10,115 - basicLogger - INFO - Returned event traffic response (Id: c6a19c73-37e7-47e9-91de-6d816e276549) with status 201
+2024-02-25 13:41:10,127 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2c163582-eaf4-4bc2-a55e-c0308d48bae6)
+2024-02-25 13:41:10,329 - basicLogger - INFO - Returned event traffic response (Id: c2bfeb83-0a7f-4db9-bf32-2752d72e8c34) with status 201
+2024-02-25 13:41:10,342 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of f1917a41-4274-4436-85b1-c372717e9117)
+2024-02-25 13:41:11,611 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 723f6471-bc37-4d6e-a2fe-10afca1f0b73) with status 201
+2024-02-25 13:41:11,622 - basicLogger - INFO - Recieved event traffic request with a trace id of 066e39a3-debe-441c-8a0f-64415d2f11f5)
+2024-02-25 13:41:11,800 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 973006fa-14c7-44dc-9176-390f43cee1d0) with status 201
+2024-02-25 13:41:11,813 - basicLogger - INFO - Recieved event traffic request with a trace id of 9133b34f-77a0-4abb-b0b3-08ba7b729aa4)
+2024-02-25 13:41:12,001 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 33ad2f5b-d06c-4e16-bae7-f5173de6e4a5) with status 201
+2024-02-25 13:41:12,010 - basicLogger - INFO - Recieved event traffic request with a trace id of 4bb40f33-13a8-4d0e-b80a-adea41e12dc5)
+2024-02-25 13:41:12,187 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2c163582-eaf4-4bc2-a55e-c0308d48bae6) with status 201
+2024-02-25 13:41:12,196 - basicLogger - INFO - Recieved event traffic request with a trace id of 95c1a524-e1d0-4f3b-8551-d3a850d76aec)
+2024-02-25 13:41:12,420 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: f1917a41-4274-4436-85b1-c372717e9117) with status 201
+2024-02-25 13:41:12,432 - basicLogger - INFO - Recieved event traffic request with a trace id of 66b50f22-9f22-4fac-873c-2de810d6d5fe)
+2024-02-25 13:41:13,710 - basicLogger - INFO - Returned event traffic response (Id: 066e39a3-debe-441c-8a0f-64415d2f11f5) with status 201
+2024-02-25 13:41:13,722 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of f6bcca1f-9efc-47d0-ad03-fb41e73e2437)
+2024-02-25 13:41:13,882 - basicLogger - INFO - Returned event traffic response (Id: 9133b34f-77a0-4abb-b0b3-08ba7b729aa4) with status 201
+2024-02-25 13:41:13,892 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ac23a2e9-8f7c-4c19-8a5e-f56483741d7e)
+2024-02-25 13:41:14,087 - basicLogger - INFO - Returned event traffic response (Id: 4bb40f33-13a8-4d0e-b80a-adea41e12dc5) with status 201
+2024-02-25 13:41:14,098 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b9de9f30-490c-44d4-94d9-c5e28c972194)
+2024-02-25 13:41:14,269 - basicLogger - INFO - Returned event traffic response (Id: 95c1a524-e1d0-4f3b-8551-d3a850d76aec) with status 201
+2024-02-25 13:41:14,281 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 605b45c5-bd14-4084-a989-9f4e572c5f9b)
+2024-02-25 13:41:14,505 - basicLogger - INFO - Returned event traffic response (Id: 66b50f22-9f22-4fac-873c-2de810d6d5fe) with status 201
+2024-02-25 13:41:14,516 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1f6a0226-4aa5-4635-8872-1a278b67796b)
+2024-02-25 13:41:15,796 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: f6bcca1f-9efc-47d0-ad03-fb41e73e2437) with status 201
+2024-02-25 13:41:15,962 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ac23a2e9-8f7c-4c19-8a5e-f56483741d7e) with status 201
+2024-02-25 13:41:16,169 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b9de9f30-490c-44d4-94d9-c5e28c972194) with status 201
+2024-02-25 13:41:16,331 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 605b45c5-bd14-4084-a989-9f4e572c5f9b) with status 201
+2024-02-25 13:41:16,599 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1f6a0226-4aa5-4635-8872-1a278b67796b) with status 201
+2024-02-25 13:56:30,213 - basicLogger - INFO - Recieved event traffic request with a trace id of 75d85df0-7b6a-4c60-9446-26fbe00cb3be)
+2024-02-25 13:56:32,282 - basicLogger - INFO - Returned event traffic response (Id: 75d85df0-7b6a-4c60-9446-26fbe00cb3be) with status 201
+2024-02-25 14:10:55,660 - basicLogger - INFO - Recieved event traffic request with a trace id of d5b768b9-1d1e-48cc-9718-728b443b2fc0)
+2024-02-25 14:10:57,776 - basicLogger - INFO - Returned event traffic response (Id: d5b768b9-1d1e-48cc-9718-728b443b2fc0) with status 201
+2024-02-25 14:11:37,235 - basicLogger - INFO - Recieved event traffic request with a trace id of 17ce7bd6-22de-458b-98b9-8a3c05e8e4ed)
+2024-02-25 14:11:39,275 - basicLogger - INFO - Returned event traffic response (Id: 17ce7bd6-22de-458b-98b9-8a3c05e8e4ed) with status 201
+2024-02-25 14:11:58,258 - basicLogger - INFO - Recieved event traffic request with a trace id of 7169cd76-6f3a-4e87-b4df-0c503db9103b)
+2024-02-25 14:12:00,344 - basicLogger - INFO - Returned event traffic response (Id: 7169cd76-6f3a-4e87-b4df-0c503db9103b) with status 201
+2024-02-25 14:13:02,338 - basicLogger - INFO - Recieved event traffic request with a trace id of bbfd5a47-c881-455d-b744-b15e9234fa95)
+2024-02-25 14:13:04,429 - basicLogger - INFO - Returned event traffic response (Id: bbfd5a47-c881-455d-b744-b15e9234fa95) with status 201
+2024-02-25 14:17:39,313 - basicLogger - INFO - Recieved event traffic request with a trace id of c0c26d67-7d30-46ad-9e59-a03d8a0e8281)
+2024-02-25 14:17:41,434 - basicLogger - INFO - Returned event traffic response (Id: c0c26d67-7d30-46ad-9e59-a03d8a0e8281) with status 201
+2024-02-25 14:19:24,427 - basicLogger - INFO - Recieved event traffic request with a trace id of c162bb29-6808-4205-81e0-dc9b53e4d211)
+2024-02-25 14:19:26,501 - basicLogger - INFO - Returned event traffic response (Id: c162bb29-6808-4205-81e0-dc9b53e4d211) with status 201
+2024-02-25 16:57:41,584 - basicLogger - INFO - Recieved event traffic request with a trace id of 037c137d-41e5-4a16-8eb8-f21079ec8d8a)
+2024-02-25 16:57:43,675 - basicLogger - INFO - Returned event traffic response (Id: 037c137d-41e5-4a16-8eb8-f21079ec8d8a) with status 201
+2024-02-25 17:04:49,704 - basicLogger - INFO - Recieved event traffic request with a trace id of 54177916-f310-4ef6-9cd0-b71322f7dc05)
+2024-02-25 17:04:51,788 - basicLogger - INFO - Returned event traffic response (Id: 54177916-f310-4ef6-9cd0-b71322f7dc05) with status 201
+2024-02-25 17:06:18,899 - basicLogger - INFO - Recieved event traffic request with a trace id of 4ba0433d-93cc-46af-9207-fbc0c4b0bcc6)
+2024-02-25 17:06:20,988 - basicLogger - INFO - Returned event traffic response (Id: 4ba0433d-93cc-46af-9207-fbc0c4b0bcc6) with status 201
+2024-02-25 17:07:30,275 - basicLogger - INFO - Recieved event traffic request with a trace id of 94cdad8f-50f2-4f21-a58b-47a04a9cde07)
+2024-02-25 17:07:30,480 - basicLogger - INFO - Recieved event traffic request with a trace id of 28b8b1dd-d902-4bac-95d8-393f22986f9c)
+2024-02-25 17:07:30,676 - basicLogger - INFO - Recieved event traffic request with a trace id of 5dacb489-91f9-4c54-af3e-c04df7c397bf)
+2024-02-25 17:07:30,882 - basicLogger - INFO - Recieved event traffic request with a trace id of 91b61f8e-d468-4c32-a0d5-e66ce1e1ec3d)
+2024-02-25 17:07:31,081 - basicLogger - INFO - Recieved event traffic request with a trace id of 08abe806-a76d-4e25-a935-8953ce1b2d5d)
+2024-02-25 17:07:32,343 - basicLogger - INFO - Returned event traffic response (Id: 94cdad8f-50f2-4f21-a58b-47a04a9cde07) with status 201
+2024-02-25 17:07:32,354 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ce645ef5-1576-4565-ae0f-c288d350b99f)
+2024-02-25 17:07:32,546 - basicLogger - INFO - Returned event traffic response (Id: 28b8b1dd-d902-4bac-95d8-393f22986f9c) with status 201
+2024-02-25 17:07:32,557 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d9ae5819-c1f7-40f4-ab73-5c1265b0348f)
+2024-02-25 17:07:32,748 - basicLogger - INFO - Returned event traffic response (Id: 5dacb489-91f9-4c54-af3e-c04df7c397bf) with status 201
+2024-02-25 17:07:32,761 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of aee33bc5-da4d-48e0-881d-6a6b327b2555)
+2024-02-25 17:07:32,969 - basicLogger - INFO - Returned event traffic response (Id: 91b61f8e-d468-4c32-a0d5-e66ce1e1ec3d) with status 201
+2024-02-25 17:07:32,979 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0fee229d-7b5f-45b2-af2c-a303baab96b5)
+2024-02-25 17:07:33,160 - basicLogger - INFO - Returned event traffic response (Id: 08abe806-a76d-4e25-a935-8953ce1b2d5d) with status 201
+2024-02-25 17:07:33,172 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ef8b0159-c203-46df-8d90-36febc9c114a)
+2024-02-25 17:07:34,441 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ce645ef5-1576-4565-ae0f-c288d350b99f) with status 201
+2024-02-25 17:07:34,455 - basicLogger - INFO - Recieved event traffic request with a trace id of 23206cb1-b22f-474e-aaed-977ebc08b42d)
+2024-02-25 17:07:34,639 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d9ae5819-c1f7-40f4-ab73-5c1265b0348f) with status 201
+2024-02-25 17:07:34,652 - basicLogger - INFO - Recieved event traffic request with a trace id of 1d23c372-d369-47eb-8c95-59b54f3f823a)
+2024-02-25 17:07:34,832 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: aee33bc5-da4d-48e0-881d-6a6b327b2555) with status 201
+2024-02-25 17:07:34,841 - basicLogger - INFO - Recieved event traffic request with a trace id of 6ecffa30-421d-412e-b80b-b8e559718a5a)
+2024-02-25 17:07:35,038 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0fee229d-7b5f-45b2-af2c-a303baab96b5) with status 201
+2024-02-25 17:07:35,050 - basicLogger - INFO - Recieved event traffic request with a trace id of 1f6c8786-ad0a-428c-a2c5-ecf250be067e)
+2024-02-25 17:07:35,248 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ef8b0159-c203-46df-8d90-36febc9c114a) with status 201
+2024-02-25 17:07:35,257 - basicLogger - INFO - Recieved event traffic request with a trace id of 7b52efb4-5cf5-4718-8c26-2241bb974593)
+2024-02-25 17:07:36,530 - basicLogger - INFO - Returned event traffic response (Id: 23206cb1-b22f-474e-aaed-977ebc08b42d) with status 201
+2024-02-25 17:07:36,541 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 6b5a969d-dd9b-4abe-ab6d-1bf27d18a3a7)
+2024-02-25 17:07:36,733 - basicLogger - INFO - Returned event traffic response (Id: 1d23c372-d369-47eb-8c95-59b54f3f823a) with status 201
+2024-02-25 17:07:36,744 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of f02c7c03-ccb5-4b7a-b33a-758733650186)
+2024-02-25 17:07:36,919 - basicLogger - INFO - Returned event traffic response (Id: 6ecffa30-421d-412e-b80b-b8e559718a5a) with status 201
+2024-02-25 17:07:36,930 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 8b634182-dfd7-43e5-88a8-b0e018c1a0c8)
+2024-02-25 17:07:37,114 - basicLogger - INFO - Returned event traffic response (Id: 1f6c8786-ad0a-428c-a2c5-ecf250be067e) with status 201
+2024-02-25 17:07:37,125 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b96c6105-f0fa-4d1b-b8c7-01e5486f032a)
+2024-02-25 17:07:37,331 - basicLogger - INFO - Returned event traffic response (Id: 7b52efb4-5cf5-4718-8c26-2241bb974593) with status 201
+2024-02-25 17:07:37,343 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 38acc708-7dd5-4f27-bb56-a82b86701dbf)
+2024-02-25 17:07:38,630 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 6b5a969d-dd9b-4abe-ab6d-1bf27d18a3a7) with status 201
+2024-02-25 17:07:38,830 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: f02c7c03-ccb5-4b7a-b33a-758733650186) with status 201
+2024-02-25 17:07:39,016 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 8b634182-dfd7-43e5-88a8-b0e018c1a0c8) with status 201
+2024-02-25 17:07:39,204 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b96c6105-f0fa-4d1b-b8c7-01e5486f032a) with status 201
+2024-02-25 17:07:39,421 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 38acc708-7dd5-4f27-bb56-a82b86701dbf) with status 201
+2024-02-25 17:12:25,908 - basicLogger - INFO - Recieved event traffic request with a trace id of a4de7b4f-8b69-49b6-8015-d28a6d3ba91c)
+2024-02-25 17:12:26,112 - basicLogger - INFO - Recieved event traffic request with a trace id of bae0ed1d-4ff5-4bb6-87dc-4a358cabc0d2)
+2024-02-25 17:12:26,315 - basicLogger - INFO - Recieved event traffic request with a trace id of e9c8092d-d10c-42b3-8533-9a1109b26a0e)
+2024-02-25 17:12:26,509 - basicLogger - INFO - Recieved event traffic request with a trace id of bf7102ed-fe65-4377-a77e-da1d7bf5fcac)
+2024-02-25 17:12:26,709 - basicLogger - INFO - Recieved event traffic request with a trace id of b962f0a0-4ca5-470b-8e74-f3cb65070865)
+2024-02-25 17:12:27,981 - basicLogger - INFO - Returned event traffic response (Id: a4de7b4f-8b69-49b6-8015-d28a6d3ba91c) with status 201
+2024-02-25 17:12:27,994 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 168aa13a-da02-426c-a4a8-e69574816298)
+2024-02-25 17:12:28,194 - basicLogger - INFO - Returned event traffic response (Id: bae0ed1d-4ff5-4bb6-87dc-4a358cabc0d2) with status 201
+2024-02-25 17:12:28,202 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of cebe27af-2af7-4b1f-a59c-d66563ca5bcc)
+2024-02-25 17:12:28,382 - basicLogger - INFO - Returned event traffic response (Id: e9c8092d-d10c-42b3-8533-9a1109b26a0e) with status 201
+2024-02-25 17:12:28,393 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 76224dad-dc5f-4422-88ed-2ca3dfcae1da)
+2024-02-25 17:12:28,598 - basicLogger - INFO - Returned event traffic response (Id: bf7102ed-fe65-4377-a77e-da1d7bf5fcac) with status 201
+2024-02-25 17:12:28,610 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0a82f33d-e404-4444-9be5-759e7e3d276b)
+2024-02-25 17:12:28,792 - basicLogger - INFO - Returned event traffic response (Id: b962f0a0-4ca5-470b-8e74-f3cb65070865) with status 201
+2024-02-25 17:12:28,804 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of a59e890a-2d5d-4e5b-9716-cc40afd689b3)
+2024-02-25 17:12:30,070 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 168aa13a-da02-426c-a4a8-e69574816298) with status 201
+2024-02-25 17:12:30,082 - basicLogger - INFO - Recieved event traffic request with a trace id of 24403f38-647c-4f15-8a15-ad254ec3cc68)
+2024-02-25 17:12:30,273 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: cebe27af-2af7-4b1f-a59c-d66563ca5bcc) with status 201
+2024-02-25 17:12:30,284 - basicLogger - INFO - Recieved event traffic request with a trace id of c87fa7f6-b615-41f7-970a-1215005d54d6)
+2024-02-25 17:12:30,478 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 76224dad-dc5f-4422-88ed-2ca3dfcae1da) with status 201
+2024-02-25 17:12:30,487 - basicLogger - INFO - Recieved event traffic request with a trace id of d3f8c311-5c30-4fe6-8b05-55d6cc602b1f)
+2024-02-25 17:12:30,684 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0a82f33d-e404-4444-9be5-759e7e3d276b) with status 201
+2024-02-25 17:12:30,695 - basicLogger - INFO - Recieved event traffic request with a trace id of 8844f045-46d9-4cc6-a043-e414ba69dc52)
+2024-02-25 17:12:30,860 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: a59e890a-2d5d-4e5b-9716-cc40afd689b3) with status 201
+2024-02-25 17:12:30,871 - basicLogger - INFO - Recieved event traffic request with a trace id of 3ba54632-8460-40fc-abeb-5a7f948d743a)
+2024-02-25 17:12:32,145 - basicLogger - INFO - Returned event traffic response (Id: 24403f38-647c-4f15-8a15-ad254ec3cc68) with status 201
+2024-02-25 17:12:32,157 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 9f168e8b-0a91-47b4-9d17-1f5659f0e81c)
+2024-02-25 17:12:32,347 - basicLogger - INFO - Returned event traffic response (Id: c87fa7f6-b615-41f7-970a-1215005d54d6) with status 201
+2024-02-25 17:12:32,358 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of c69fc698-9331-4f6d-9108-e3d0f392c3d1)
+2024-02-25 17:12:32,554 - basicLogger - INFO - Returned event traffic response (Id: d3f8c311-5c30-4fe6-8b05-55d6cc602b1f) with status 201
+2024-02-25 17:12:32,565 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ee59964e-8541-479a-9bb5-e7dca07e7195)
+2024-02-25 17:12:32,759 - basicLogger - INFO - Returned event traffic response (Id: 8844f045-46d9-4cc6-a043-e414ba69dc52) with status 201
+2024-02-25 17:12:32,765 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 9922f4ef-88bd-4ef7-843a-f87241532ab6)
+2024-02-25 17:12:32,963 - basicLogger - INFO - Returned event traffic response (Id: 3ba54632-8460-40fc-abeb-5a7f948d743a) with status 201
+2024-02-25 17:12:32,973 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of de7deb37-8dcb-43f0-a203-2ffda05cdeac)
+2024-02-25 17:12:34,225 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 9f168e8b-0a91-47b4-9d17-1f5659f0e81c) with status 201
+2024-02-25 17:12:34,438 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: c69fc698-9331-4f6d-9108-e3d0f392c3d1) with status 201
+2024-02-25 17:12:34,643 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ee59964e-8541-479a-9bb5-e7dca07e7195) with status 201
+2024-02-25 17:12:34,819 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 9922f4ef-88bd-4ef7-843a-f87241532ab6) with status 201
+2024-02-25 17:12:35,041 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: de7deb37-8dcb-43f0-a203-2ffda05cdeac) with status 201
+2024-02-25 17:46:50,181 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of e1e2e2cb-0926-4c77-ae7e-ce4174e7ef90)
+2024-02-25 17:46:52,290 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: e1e2e2cb-0926-4c77-ae7e-ce4174e7ef90) with status 201
+2024-02-25 18:05:23,330 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 81a3ed86-cfcf-4a76-997c-f0020945ad62)
+2024-02-25 18:05:25,420 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 81a3ed86-cfcf-4a76-997c-f0020945ad62) with status 201
+2024-02-25 18:10:30,671 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 4df64016-2d8d-439f-b286-2213f5dc81fc)
+2024-02-25 18:10:32,779 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 4df64016-2d8d-439f-b286-2213f5dc81fc) with status 201
+2024-02-25 18:11:07,521 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d511d84c-8f6f-4313-9ab4-368936ee4c95)
+2024-02-25 18:11:09,603 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d511d84c-8f6f-4313-9ab4-368936ee4c95) with status 201
+2024-02-25 18:17:25,201 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ec5392c1-00d6-4df0-9000-7012efa0e44b)
+2024-02-25 18:17:27,306 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ec5392c1-00d6-4df0-9000-7012efa0e44b) with status 201
+2024-02-25 18:19:04,356 - basicLogger - INFO - Recieved event traffic request with a trace id of 07d68f51-2e0c-4456-8d0d-e2575aef0c44)
+2024-02-25 18:19:04,560 - basicLogger - INFO - Recieved event traffic request with a trace id of eccd7536-601a-4d40-a6f1-cc0cf3c55f99)
+2024-02-25 18:19:04,761 - basicLogger - INFO - Recieved event traffic request with a trace id of c7d58246-1c10-490d-9515-405e182376ed)
+2024-02-25 18:19:04,963 - basicLogger - INFO - Recieved event traffic request with a trace id of 5847c042-3591-4253-bc9a-f315c79fd047)
+2024-02-25 18:19:05,160 - basicLogger - INFO - Recieved event traffic request with a trace id of 3863e3c1-9ef4-4797-bda0-0a235e2a30b4)
+2024-02-25 18:19:06,435 - basicLogger - INFO - Returned event traffic response (Id: 07d68f51-2e0c-4456-8d0d-e2575aef0c44) with status 201
+2024-02-25 18:19:06,454 - basicLogger - INFO - Recieved event traffic request with a trace id of 7ca304d6-128a-40dc-a52b-e3f416843499)
+2024-02-25 18:19:06,649 - basicLogger - INFO - Returned event traffic response (Id: eccd7536-601a-4d40-a6f1-cc0cf3c55f99) with status 201
+2024-02-25 18:19:06,669 - basicLogger - INFO - Recieved event traffic request with a trace id of ec101a40-9e93-4b38-9c90-2c558ae8ecfa)
+2024-02-25 18:19:06,846 - basicLogger - INFO - Returned event traffic response (Id: c7d58246-1c10-490d-9515-405e182376ed) with status 201
+2024-02-25 18:19:06,866 - basicLogger - INFO - Recieved event traffic request with a trace id of 61a4f990-88bf-4706-9388-e889f1be39c6)
+2024-02-25 18:19:07,032 - basicLogger - INFO - Returned event traffic response (Id: 5847c042-3591-4253-bc9a-f315c79fd047) with status 201
+2024-02-25 18:19:07,051 - basicLogger - INFO - Recieved event traffic request with a trace id of 761052fd-a0d4-4583-93f8-ae32fa55b9a0)
+2024-02-25 18:19:07,234 - basicLogger - INFO - Returned event traffic response (Id: 3863e3c1-9ef4-4797-bda0-0a235e2a30b4) with status 201
+2024-02-25 18:19:07,253 - basicLogger - INFO - Recieved event traffic request with a trace id of c44cb9c7-fd73-4915-a214-a794ae6c76a3)
+2024-02-25 18:19:08,542 - basicLogger - INFO - Returned event traffic response (Id: 7ca304d6-128a-40dc-a52b-e3f416843499) with status 201
+2024-02-25 18:19:08,745 - basicLogger - INFO - Returned event traffic response (Id: ec101a40-9e93-4b38-9c90-2c558ae8ecfa) with status 201
+2024-02-25 18:19:08,929 - basicLogger - INFO - Returned event traffic response (Id: 61a4f990-88bf-4706-9388-e889f1be39c6) with status 201
+2024-02-25 18:19:09,118 - basicLogger - INFO - Returned event traffic response (Id: 761052fd-a0d4-4583-93f8-ae32fa55b9a0) with status 201
+2024-02-25 18:19:09,317 - basicLogger - INFO - Returned event traffic response (Id: c44cb9c7-fd73-4915-a214-a794ae6c76a3) with status 201
+2024-02-25 18:19:19,676 - basicLogger - INFO - Recieved event traffic request with a trace id of fa220868-006d-45a9-820b-a196b68503f8)
+2024-02-25 18:19:19,882 - basicLogger - INFO - Recieved event traffic request with a trace id of cedf5646-44b3-4b5c-a63e-02d7be21c0df)
+2024-02-25 18:19:20,077 - basicLogger - INFO - Recieved event traffic request with a trace id of a49bf9fc-0f2a-4494-9b25-bd31445d8333)
+2024-02-25 18:19:20,274 - basicLogger - INFO - Recieved event traffic request with a trace id of 2b68a108-f484-46f8-8646-018e8753898f)
+2024-02-25 18:19:20,475 - basicLogger - INFO - Recieved event traffic request with a trace id of e6ec68c3-64ad-4ddb-b788-d0cf70516752)
+2024-02-25 18:19:21,749 - basicLogger - INFO - Returned event traffic response (Id: fa220868-006d-45a9-820b-a196b68503f8) with status 201
+2024-02-25 18:19:21,765 - basicLogger - INFO - Recieved event traffic request with a trace id of 892789ae-a5a7-4fee-a4ff-0ed366b1b73e)
+2024-02-25 18:19:21,957 - basicLogger - INFO - Returned event traffic response (Id: cedf5646-44b3-4b5c-a63e-02d7be21c0df) with status 201
+2024-02-25 18:19:21,975 - basicLogger - INFO - Recieved event traffic request with a trace id of 2db13835-c7cf-4005-8875-56559d8817f6)
+2024-02-25 18:19:22,144 - basicLogger - INFO - Returned event traffic response (Id: a49bf9fc-0f2a-4494-9b25-bd31445d8333) with status 201
+2024-02-25 18:19:22,164 - basicLogger - INFO - Recieved event traffic request with a trace id of 0306e522-b565-4d5e-b6fd-8907bd9c11a2)
+2024-02-25 18:19:22,344 - basicLogger - INFO - Returned event traffic response (Id: 2b68a108-f484-46f8-8646-018e8753898f) with status 201
+2024-02-25 18:19:22,362 - basicLogger - INFO - Recieved event traffic request with a trace id of 4752ecdb-4603-4330-a17e-501740b91310)
+2024-02-25 18:19:22,547 - basicLogger - INFO - Returned event traffic response (Id: e6ec68c3-64ad-4ddb-b788-d0cf70516752) with status 201
+2024-02-25 18:19:22,565 - basicLogger - INFO - Recieved event traffic request with a trace id of 3284152e-57cf-48d8-bcf9-fade50cd1f28)
+2024-02-25 18:19:23,843 - basicLogger - INFO - Returned event traffic response (Id: 892789ae-a5a7-4fee-a4ff-0ed366b1b73e) with status 201
+2024-02-25 18:19:24,049 - basicLogger - INFO - Returned event traffic response (Id: 2db13835-c7cf-4005-8875-56559d8817f6) with status 201
+2024-02-25 18:19:24,244 - basicLogger - INFO - Returned event traffic response (Id: 0306e522-b565-4d5e-b6fd-8907bd9c11a2) with status 201
+2024-02-25 18:19:24,432 - basicLogger - INFO - Returned event traffic response (Id: 4752ecdb-4603-4330-a17e-501740b91310) with status 201
+2024-02-25 18:19:24,639 - basicLogger - INFO - Returned event traffic response (Id: 3284152e-57cf-48d8-bcf9-fade50cd1f28) with status 201
+2024-02-25 18:20:30,242 - basicLogger - INFO - Recieved event traffic request with a trace id of b2582e39-9d8b-4f45-8fc6-c6f8bba1f84f)
+2024-02-25 18:20:30,450 - basicLogger - INFO - Recieved event traffic request with a trace id of e9191d9f-6f76-41a6-a0f7-8c79183f9ce8)
+2024-02-25 18:20:30,654 - basicLogger - INFO - Recieved event traffic request with a trace id of e2d25656-a5da-4c91-b0b5-6fedb040f07f)
+2024-02-25 18:20:30,846 - basicLogger - INFO - Recieved event traffic request with a trace id of 6ba7e057-4fa2-4ab2-87d3-9ae30c77a26f)
+2024-02-25 18:20:31,047 - basicLogger - INFO - Recieved event traffic request with a trace id of 710c8170-ae60-4b63-b4a0-6c4d5c3e65c8)
+2024-02-25 18:20:32,313 - basicLogger - INFO - Returned event traffic response (Id: b2582e39-9d8b-4f45-8fc6-c6f8bba1f84f) with status 201
+2024-02-25 18:20:32,323 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d4955e64-58e7-464a-a97e-11b76ed06289)
+2024-02-25 18:20:32,527 - basicLogger - INFO - Returned event traffic response (Id: e9191d9f-6f76-41a6-a0f7-8c79183f9ce8) with status 201
+2024-02-25 18:20:32,539 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 7bdc6f15-2068-4f76-a1dc-f457e30e75cb)
+2024-02-25 18:20:32,729 - basicLogger - INFO - Returned event traffic response (Id: e2d25656-a5da-4c91-b0b5-6fedb040f07f) with status 201
+2024-02-25 18:20:32,741 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of bd49a803-5544-412b-a6dc-4b3156e72505)
+2024-02-25 18:20:32,920 - basicLogger - INFO - Returned event traffic response (Id: 6ba7e057-4fa2-4ab2-87d3-9ae30c77a26f) with status 201
+2024-02-25 18:20:32,930 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 05879458-1627-4da2-9bfa-e3642c1a1f26)
+2024-02-25 18:20:33,120 - basicLogger - INFO - Returned event traffic response (Id: 710c8170-ae60-4b63-b4a0-6c4d5c3e65c8) with status 201
+2024-02-25 18:20:33,132 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b5f154b9-c826-4124-80ea-1586b040c60c)
+2024-02-25 18:20:34,394 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d4955e64-58e7-464a-a97e-11b76ed06289) with status 201
+2024-02-25 18:20:34,401 - basicLogger - INFO - Recieved event traffic request with a trace id of f1ce9903-22cc-4dc6-a3a9-b439f5c7f637)
+2024-02-25 18:20:34,604 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 7bdc6f15-2068-4f76-a1dc-f457e30e75cb) with status 201
+2024-02-25 18:20:34,614 - basicLogger - INFO - Recieved event traffic request with a trace id of e011ca3d-5236-407e-96f6-abef5b3065b1)
+2024-02-25 18:20:34,804 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: bd49a803-5544-412b-a6dc-4b3156e72505) with status 201
+2024-02-25 18:20:34,814 - basicLogger - INFO - Recieved event traffic request with a trace id of dc3102f8-a543-4dd6-b2c4-488579b51dee)
+2024-02-25 18:20:34,991 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 05879458-1627-4da2-9bfa-e3642c1a1f26) with status 201
+2024-02-25 18:20:35,001 - basicLogger - INFO - Recieved event traffic request with a trace id of f51fa841-d8d3-4eea-ae2d-de4eb2ea434a)
+2024-02-25 18:20:35,193 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b5f154b9-c826-4124-80ea-1586b040c60c) with status 201
+2024-02-25 18:20:35,206 - basicLogger - INFO - Recieved event traffic request with a trace id of b8402b11-ace7-4bb3-aa9e-19702a82ac5a)
+2024-02-25 18:20:36,491 - basicLogger - INFO - Returned event traffic response (Id: f1ce9903-22cc-4dc6-a3a9-b439f5c7f637) with status 201
+2024-02-25 18:20:36,500 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 7e3dcf4e-cee9-4602-b599-6e723a06a775)
+2024-02-25 18:20:36,691 - basicLogger - INFO - Returned event traffic response (Id: e011ca3d-5236-407e-96f6-abef5b3065b1) with status 201
+2024-02-25 18:20:36,704 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3e57bedd-bba1-4ba6-a3fd-8adb29494e1c)
+2024-02-25 18:20:36,876 - basicLogger - INFO - Returned event traffic response (Id: dc3102f8-a543-4dd6-b2c4-488579b51dee) with status 201
+2024-02-25 18:20:36,885 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b8a87884-5110-474d-9db7-6d59d67700cd)
+2024-02-25 18:20:37,079 - basicLogger - INFO - Returned event traffic response (Id: f51fa841-d8d3-4eea-ae2d-de4eb2ea434a) with status 201
+2024-02-25 18:20:37,091 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 247b52a9-1660-4bdf-9036-dc1d7af65d3d)
+2024-02-25 18:20:37,278 - basicLogger - INFO - Returned event traffic response (Id: b8402b11-ace7-4bb3-aa9e-19702a82ac5a) with status 201
+2024-02-25 18:20:37,289 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 25d6bbd5-ecc3-4e31-b1e4-09ba0f9520bf)
+2024-02-25 18:20:38,573 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 7e3dcf4e-cee9-4602-b599-6e723a06a775) with status 201
+2024-02-25 18:20:38,782 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3e57bedd-bba1-4ba6-a3fd-8adb29494e1c) with status 201
+2024-02-25 18:20:38,941 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b8a87884-5110-474d-9db7-6d59d67700cd) with status 201
+2024-02-25 18:20:39,172 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 247b52a9-1660-4bdf-9036-dc1d7af65d3d) with status 201
+2024-02-25 18:20:39,373 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 25d6bbd5-ecc3-4e31-b1e4-09ba0f9520bf) with status 201
+2024-02-25 20:31:14,876 - basicLogger - INFO - Recieved event traffic request with a trace id of a625079c-b51b-4cca-92a1-9c10ae742305)
+2024-02-25 20:31:40,309 - basicLogger - INFO - Recieved event traffic request with a trace id of 2cfc3828-2813-4e08-b282-68b4fa063026)
+2024-02-25 20:34:53,388 - basicLogger - INFO - Recieved event traffic request with a trace id of fad893ec-7278-4289-a117-69fec9746277)
+2024-02-25 20:34:58,279 - basicLogger - INFO - Recieved event traffic request with a trace id of e9a074f7-540a-4de0-a9ab-abf097ceceba)
+2024-02-25 20:34:59,631 - basicLogger - INFO - Recieved event traffic request with a trace id of 381f8a63-8e2b-4220-a536-124bb98984f6)
+2024-02-25 20:35:46,186 - basicLogger - INFO - Recieved event traffic request with a trace id of 69b2ab8d-7569-498e-b528-a21ca6b4dca0)
+2024-02-25 20:35:46,708 - basicLogger - INFO - Returned event traffic response (Id: 69b2ab8d-7569-498e-b528-a21ca6b4dca0) with status 201
+2024-02-25 20:38:06,102 - basicLogger - INFO - Recieved event traffic request with a trace id of d0b81c17-6195-474c-8661-35f19f1a9834)
+2024-02-25 20:38:06,594 - basicLogger - INFO - Returned event traffic response (Id: d0b81c17-6195-474c-8661-35f19f1a9834) with status 201
+2024-02-25 20:38:24,091 - basicLogger - INFO - Recieved event traffic request with a trace id of 47c6bf0d-949c-4f5f-ba70-9b5c51a1c4f8)
+2024-02-25 20:38:24,583 - basicLogger - INFO - Returned event traffic response (Id: 47c6bf0d-949c-4f5f-ba70-9b5c51a1c4f8) with status 201
+2024-02-25 20:38:45,365 - basicLogger - INFO - Recieved event traffic request with a trace id of b17fe318-1295-43fe-a423-a3a17af62e13)
+2024-02-25 20:38:45,836 - basicLogger - INFO - Returned event traffic response (Id: b17fe318-1295-43fe-a423-a3a17af62e13) with status 201
+2024-02-25 20:45:09,271 - basicLogger - INFO - Recieved event traffic request with a trace id of 1884b18d-4250-4c90-a7a2-52b66a2a25e6)
+2024-02-25 20:45:09,747 - basicLogger - INFO - Returned event traffic response (Id: 1884b18d-4250-4c90-a7a2-52b66a2a25e6) with status 201
+2024-02-25 20:52:05,258 - basicLogger - INFO - Recieved event traffic request with a trace id of 4b25f6b7-9b98-4d1f-b055-82066199c3f5)
+2024-02-25 20:54:38,243 - basicLogger - INFO - Recieved event traffic request with a trace id of a0fd8c86-43c3-4d2d-bedc-fa3615e2ec43)
+2024-02-25 20:54:38,739 - basicLogger - INFO - Returned event traffic response (Id: a0fd8c86-43c3-4d2d-bedc-fa3615e2ec43) with status 201
+2024-02-28 14:19:26,447 - basicLogger - INFO - Recieved event traffic request with a trace id of 666ef9d8-644f-4c5b-aeb8-ea80b8cbf0d8)
+2024-02-28 14:29:26,530 - basicLogger - INFO - Recieved event traffic request with a trace id of 13750177-4ae2-4215-93b1-d4884cad7984)
+2024-02-28 14:35:00,309 - basicLogger - INFO - Recieved event traffic request with a trace id of ef8e9f69-833b-43b8-a79d-5c711c0df331)
+2024-02-28 14:35:01,035 - basicLogger - INFO - Returned event traffic response (Id: ef8e9f69-833b-43b8-a79d-5c711c0df331) with status 201
+2024-02-28 16:34:43,574 - basicLogger - INFO - Recieved event traffic request with a trace id of 6e829a6c-5ef5-4632-a5fd-a9f4ce57e402)
+2024-02-28 16:38:32,835 - basicLogger - INFO - Recieved event traffic request with a trace id of 9949c3cb-b378-4d0b-b60a-bbaac07ae39b)
+2024-02-28 16:48:55,463 - basicLogger - INFO - Recieved event traffic request with a trace id of d1105767-7ed5-435e-ad71-a9dadb116555)
+2024-02-28 16:48:56,242 - basicLogger - INFO - Returned event traffic response (Id: d1105767-7ed5-435e-ad71-a9dadb116555) with status 201
+2024-02-28 17:11:22,613 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 9c26cb06-3b8e-477a-9842-afd2bc348295)
+2024-02-28 17:11:32,169 - basicLogger - INFO - Recieved event traffic request with a trace id of 61bbb8d0-8657-4632-91ac-09ab927f372c)
+2024-02-28 17:11:33,001 - basicLogger - INFO - Returned event traffic response (Id: 61bbb8d0-8657-4632-91ac-09ab927f372c) with status 201
+2024-02-28 17:22:57,056 - basicLogger - INFO - Recieved event traffic request with a trace id of 675271d0-5866-4860-968c-3e9689d802ee)
+2024-02-28 17:22:57,841 - basicLogger - INFO - Returned event traffic response (Id: 675271d0-5866-4860-968c-3e9689d802ee) with status 201
+2024-02-28 17:23:17,667 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 9b9edf61-d4e1-468e-b105-e8455df6f459)
+2024-02-28 17:24:37,303 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ed244560-a82f-49d6-af44-b9746256195e)
+2024-02-28 17:24:38,178 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ed244560-a82f-49d6-af44-b9746256195e) with status 201
+2024-02-28 17:44:52,987 - basicLogger - INFO - Recieved event traffic request with a trace id of 1cd92b56-ad49-40bb-943a-e839daf56c8d)
+2024-02-28 17:44:53,750 - basicLogger - INFO - Returned event traffic response (Id: 1cd92b56-ad49-40bb-943a-e839daf56c8d) with status 201
+2024-02-28 17:45:06,847 - basicLogger - INFO - Recieved event traffic request with a trace id of 85a7bc47-b9c7-48e6-ac08-493aa2e0712f)
+2024-02-28 17:45:07,699 - basicLogger - INFO - Returned event traffic response (Id: 85a7bc47-b9c7-48e6-ac08-493aa2e0712f) with status 201
+2024-02-28 18:08:48,548 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 4eb6c22b-5385-4e0a-9caf-33c076cc1407)
+2024-02-28 18:08:49,324 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 4eb6c22b-5385-4e0a-9caf-33c076cc1407) with status 201
+2024-03-03 19:32:08,854 - basicLogger - INFO - Recieved event traffic request with a trace id of 57441479-cb34-415e-b878-60f160f00a2a)
+2024-03-03 19:32:09,441 - basicLogger - INFO - Returned event traffic response (Id: 57441479-cb34-415e-b878-60f160f00a2a) with status 201
+2024-03-03 19:36:36,560 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 679fa4f5-041f-4127-a3c5-6b9c4fa9d818)
+2024-03-03 19:36:37,082 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 679fa4f5-041f-4127-a3c5-6b9c4fa9d818) with status 201
+2024-03-03 19:39:04,157 - basicLogger - INFO - Recieved event traffic request with a trace id of e04a129a-5588-45e9-b95b-0d72a352a1be)
+2024-03-03 19:39:04,158 - basicLogger - INFO - Recieved event traffic request with a trace id of 19c69217-f81e-433b-879a-e384dc556474)
+2024-03-03 19:39:04,160 - basicLogger - INFO - Recieved event traffic request with a trace id of 4ee1a7fe-083b-4ab5-b50b-18df1a0f4050)
+2024-03-03 19:39:04,160 - basicLogger - INFO - Recieved event traffic request with a trace id of 3040e7cd-d591-4cad-b287-c807c4d152e4)
+2024-03-03 19:39:04,160 - basicLogger - INFO - Recieved event traffic request with a trace id of 50c6b886-e845-4302-98fe-ee93c0ab459a)
+2024-03-03 19:39:04,710 - basicLogger - INFO - Returned event traffic response (Id: 3040e7cd-d591-4cad-b287-c807c4d152e4) with status 201
+2024-03-03 19:39:04,710 - basicLogger - INFO - Returned event traffic response (Id: 50c6b886-e845-4302-98fe-ee93c0ab459a) with status 201
+2024-03-03 19:39:04,734 - basicLogger - INFO - Returned event traffic response (Id: 19c69217-f81e-433b-879a-e384dc556474) with status 201
+2024-03-03 19:39:04,735 - basicLogger - INFO - Returned event traffic response (Id: e04a129a-5588-45e9-b95b-0d72a352a1be) with status 201
+2024-03-03 19:39:04,737 - basicLogger - INFO - Returned event traffic response (Id: 4ee1a7fe-083b-4ab5-b50b-18df1a0f4050) with status 201
+2024-03-03 19:39:09,801 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of c2e8167d-b93d-43fb-8e79-cc01622400e6)
+2024-03-03 19:39:09,802 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b8d94292-b256-4545-b7b4-6febeb7f3c1d)
+2024-03-03 19:39:09,803 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0b5ce848-31df-48fa-90d0-ae9db90f8496)
+2024-03-03 19:39:09,804 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 2154d74c-bca4-458c-96ae-460022c029d1)
+2024-03-03 19:39:09,805 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 85d02c3f-1730-4acd-b440-f4eb093a40d7)
+2024-03-03 19:39:10,336 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 2154d74c-bca4-458c-96ae-460022c029d1) with status 201
+2024-03-03 19:39:10,344 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 85d02c3f-1730-4acd-b440-f4eb093a40d7) with status 201
+2024-03-03 19:39:10,368 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0b5ce848-31df-48fa-90d0-ae9db90f8496) with status 201
+2024-03-03 19:39:10,375 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: c2e8167d-b93d-43fb-8e79-cc01622400e6) with status 201
+2024-03-03 19:39:10,376 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b8d94292-b256-4545-b7b4-6febeb7f3c1d) with status 201
+2024-03-03 19:39:15,370 - basicLogger - INFO - Recieved event traffic request with a trace id of 3880de75-fa09-4ca8-a21b-5731a1e70abe)
+2024-03-03 19:39:15,371 - basicLogger - INFO - Recieved event traffic request with a trace id of 0fa0b808-9281-48af-b69d-049acf213256)
+2024-03-03 19:39:15,411 - basicLogger - INFO - Recieved event traffic request with a trace id of a4e9d75c-9a6d-4769-a5be-881a170be5d6)
+2024-03-03 19:39:15,412 - basicLogger - INFO - Recieved event traffic request with a trace id of 68ff40a4-f700-42b8-8395-3939e51b88d2)
+2024-03-03 19:39:15,413 - basicLogger - INFO - Recieved event traffic request with a trace id of bc06a22a-19c5-4dda-a346-19e97d0ae9bb)
+2024-03-03 19:39:15,925 - basicLogger - INFO - Returned event traffic response (Id: 3880de75-fa09-4ca8-a21b-5731a1e70abe) with status 201
+2024-03-03 19:39:15,926 - basicLogger - INFO - Returned event traffic response (Id: 0fa0b808-9281-48af-b69d-049acf213256) with status 201
+2024-03-03 19:39:15,931 - basicLogger - INFO - Returned event traffic response (Id: bc06a22a-19c5-4dda-a346-19e97d0ae9bb) with status 201
+2024-03-03 19:39:15,951 - basicLogger - INFO - Returned event traffic response (Id: 68ff40a4-f700-42b8-8395-3939e51b88d2) with status 201
+2024-03-03 19:39:15,951 - basicLogger - INFO - Returned event traffic response (Id: a4e9d75c-9a6d-4769-a5be-881a170be5d6) with status 201
+2024-03-03 19:39:20,951 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 66081dac-afc9-405e-9e53-0d7ddb6fa45d)
+2024-03-03 19:39:20,953 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 435dad16-9ef6-462d-83e2-383c01eed83c)
+2024-03-03 19:39:20,977 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of f19c6e2b-ec64-48f7-9930-bf206bdc21c3)
+2024-03-03 19:39:20,998 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of ed7795c2-4021-4420-9f40-c6d9c9ad15e6)
+2024-03-03 19:39:20,999 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 23d179a2-5b34-4fa5-9cca-4723dfabf75d)
+2024-03-03 19:39:21,497 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: f19c6e2b-ec64-48f7-9930-bf206bdc21c3) with status 201
+2024-03-03 19:39:21,498 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 435dad16-9ef6-462d-83e2-383c01eed83c) with status 201
+2024-03-03 19:39:21,511 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 66081dac-afc9-405e-9e53-0d7ddb6fa45d) with status 201
+2024-03-03 19:39:21,511 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: ed7795c2-4021-4420-9f40-c6d9c9ad15e6) with status 201
+2024-03-03 19:39:21,533 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 23d179a2-5b34-4fa5-9cca-4723dfabf75d) with status 201
+2024-03-07 15:28:33,041 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of b6e0cb58-f031-4b36-b8a4-572a4dd00a12)
+2024-03-07 15:28:33,650 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: b6e0cb58-f031-4b36-b8a4-572a4dd00a12) with status 201
+2024-03-07 15:29:00,829 - basicLogger - INFO - Recieved event traffic request with a trace id of 508e5cf7-5dbd-4d8d-b826-11d8a701e1fd)
+2024-03-07 15:29:01,330 - basicLogger - INFO - Returned event traffic response (Id: 508e5cf7-5dbd-4d8d-b826-11d8a701e1fd) with status 201
+2024-03-08 13:38:00,703 - basicLogger - INFO - Recieved event traffic request with a trace id of f88c866d-a5b9-46c2-8a6b-3b44a2bc0b8d)
+2024-03-08 13:38:01,226 - basicLogger - INFO - Returned event traffic response (Id: f88c866d-a5b9-46c2-8a6b-3b44a2bc0b8d) with status 201
+2024-03-17 11:09:27,566 - basicLogger - INFO - Recieved event traffic request with a trace id of c0b59f2f-9f3f-4039-8281-a7d066035e69)
+2024-03-17 11:09:27,567 - basicLogger - INFO - Recieved event traffic request with a trace id of 1ae6d5ea-d7a0-40a6-a87b-af469ee8f90d)
+2024-03-17 11:09:27,567 - basicLogger - INFO - Recieved event traffic request with a trace id of 7c109fdd-d5fa-4a01-9500-373183d8a8dd)
+2024-03-17 11:09:27,568 - basicLogger - INFO - Recieved event traffic request with a trace id of 0f592027-fd2f-4fc9-b209-6bbcfd12ed11)
+2024-03-17 11:09:27,568 - basicLogger - INFO - Recieved event traffic request with a trace id of 4e58354c-a846-4584-afb6-fa1cceba8494)
+2024-03-17 11:09:28,172 - basicLogger - INFO - Returned event traffic response (Id: 0f592027-fd2f-4fc9-b209-6bbcfd12ed11) with status 201
+2024-03-17 11:09:28,172 - basicLogger - INFO - Returned event traffic response (Id: 4e58354c-a846-4584-afb6-fa1cceba8494) with status 201
+2024-03-17 11:09:28,172 - basicLogger - INFO - Returned event traffic response (Id: 1ae6d5ea-d7a0-40a6-a87b-af469ee8f90d) with status 201
+2024-03-17 11:09:28,174 - basicLogger - INFO - Returned event traffic response (Id: c0b59f2f-9f3f-4039-8281-a7d066035e69) with status 201
+2024-03-17 11:09:28,174 - basicLogger - INFO - Returned event traffic response (Id: 7c109fdd-d5fa-4a01-9500-373183d8a8dd) with status 201
+2024-03-17 11:09:33,253 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of bcf17213-b30b-4a0d-a2c3-a2bbd256ba5f)
+2024-03-17 11:09:33,255 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 43cdcb5a-c839-44e4-854e-6948680de90f)
+2024-03-17 11:09:33,256 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 8aed2dd8-bd78-4821-acef-067ec03c27d4)
+2024-03-17 11:09:33,256 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 8d21124f-bd76-43eb-aa2b-61bbf4b861c7)
+2024-03-17 11:09:33,257 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3aa2109d-1de5-4d93-a602-3a3595dfd609)
+2024-03-17 11:09:33,756 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: bcf17213-b30b-4a0d-a2c3-a2bbd256ba5f) with status 201
+2024-03-17 11:09:33,807 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 8aed2dd8-bd78-4821-acef-067ec03c27d4) with status 201
+2024-03-17 11:09:33,813 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 43cdcb5a-c839-44e4-854e-6948680de90f) with status 201
+2024-03-17 11:09:33,816 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 8d21124f-bd76-43eb-aa2b-61bbf4b861c7) with status 201
+2024-03-17 11:09:33,818 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3aa2109d-1de5-4d93-a602-3a3595dfd609) with status 201
+2024-03-17 11:09:38,778 - basicLogger - INFO - Recieved event traffic request with a trace id of d0e00e1e-25a5-40b8-8dc4-6d417fd15c36)
+2024-03-17 11:09:38,868 - basicLogger - INFO - Recieved event traffic request with a trace id of 36e4d22f-f4e6-4002-8786-2aeb8e15ac5e)
+2024-03-17 11:09:38,869 - basicLogger - INFO - Recieved event traffic request with a trace id of 9d7d8ac5-22ad-40e4-9dce-935c2337b00f)
+2024-03-17 11:09:38,871 - basicLogger - INFO - Recieved event traffic request with a trace id of ddbd3bd5-fed7-42a3-896b-ed0e20891fec)
+2024-03-17 11:09:38,871 - basicLogger - INFO - Recieved event traffic request with a trace id of ff6fcc6d-b955-4ca4-a8d8-ea6d149de29c)
+2024-03-17 11:09:39,318 - basicLogger - INFO - Returned event traffic response (Id: d0e00e1e-25a5-40b8-8dc4-6d417fd15c36) with status 201
+2024-03-17 11:09:39,384 - basicLogger - INFO - Returned event traffic response (Id: ff6fcc6d-b955-4ca4-a8d8-ea6d149de29c) with status 201
+2024-03-17 11:09:39,385 - basicLogger - INFO - Returned event traffic response (Id: 36e4d22f-f4e6-4002-8786-2aeb8e15ac5e) with status 201
+2024-03-17 11:09:39,404 - basicLogger - INFO - Returned event traffic response (Id: 9d7d8ac5-22ad-40e4-9dce-935c2337b00f) with status 201
+2024-03-17 11:09:39,408 - basicLogger - INFO - Returned event traffic response (Id: ddbd3bd5-fed7-42a3-896b-ed0e20891fec) with status 201
+2024-03-17 11:09:44,337 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of cbf2cc74-54d3-4eb6-af30-e56e5380d412)
+2024-03-17 11:09:44,424 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 1fcf3bd1-3b73-4630-b09c-c0db7a5e8553)
+2024-03-17 11:09:44,425 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3f68d4fa-2c32-4591-8e81-67d0c38db51e)
+2024-03-17 11:09:44,449 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 87e27ebe-fd4e-40ea-a781-5a7a2b6f1e47)
+2024-03-17 11:09:44,449 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3a725de8-f0db-49b0-a6df-11ae18547151)
+2024-03-17 11:09:44,872 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: cbf2cc74-54d3-4eb6-af30-e56e5380d412) with status 201
+2024-03-17 11:09:44,943 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3a725de8-f0db-49b0-a6df-11ae18547151) with status 201
+2024-03-17 11:09:44,952 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 87e27ebe-fd4e-40ea-a781-5a7a2b6f1e47) with status 201
+2024-03-17 11:09:44,955 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 1fcf3bd1-3b73-4630-b09c-c0db7a5e8553) with status 201
+2024-03-17 11:09:44,956 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3f68d4fa-2c32-4591-8e81-67d0c38db51e) with status 201
+2024-03-17 11:09:49,889 - basicLogger - INFO - Recieved event traffic request with a trace id of 457baed9-22ce-4da8-8926-fb97aac44245)
+2024-03-17 11:09:49,968 - basicLogger - INFO - Recieved event traffic request with a trace id of 2e575347-ed9a-4abf-ba41-38e1cb2ff8b0)
+2024-03-17 11:09:49,971 - basicLogger - INFO - Recieved event traffic request with a trace id of 43360c6c-deb6-4de8-bc92-373f0424cfa2)
+2024-03-17 11:09:49,993 - basicLogger - INFO - Recieved event traffic request with a trace id of 3804ca6c-e388-4e2f-b79e-af26af753310)
+2024-03-17 11:09:49,993 - basicLogger - INFO - Recieved event traffic request with a trace id of 3c2e4456-be30-4f63-bde5-48cf75d66948)
+2024-03-17 11:09:50,361 - basicLogger - INFO - Returned event traffic response (Id: 457baed9-22ce-4da8-8926-fb97aac44245) with status 201
+2024-03-17 11:09:50,438 - basicLogger - INFO - Returned event traffic response (Id: 2e575347-ed9a-4abf-ba41-38e1cb2ff8b0) with status 201
+2024-03-17 11:09:50,532 - basicLogger - INFO - Returned event traffic response (Id: 3804ca6c-e388-4e2f-b79e-af26af753310) with status 201
+2024-03-17 11:09:50,533 - basicLogger - INFO - Returned event traffic response (Id: 43360c6c-deb6-4de8-bc92-373f0424cfa2) with status 201
+2024-03-17 11:09:50,534 - basicLogger - INFO - Returned event traffic response (Id: 3c2e4456-be30-4f63-bde5-48cf75d66948) with status 201
+2024-03-17 11:09:55,377 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 397629cd-65c1-4833-9d3b-39ca1920c651)
+2024-03-17 11:09:55,455 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of a7babc13-6b8c-4174-96e1-cac1807c150e)
+2024-03-17 11:09:55,560 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of cc499e87-fd78-41f2-ba86-1170f484d288)
+2024-03-17 11:09:55,563 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of abe48770-7987-48f1-a585-cec99851a2f9)
+2024-03-17 11:09:55,583 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 8f86db6e-4367-49b7-8afb-3c9bfd99d886)
+2024-03-17 11:09:55,873 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 397629cd-65c1-4833-9d3b-39ca1920c651) with status 201
+2024-03-17 11:09:55,938 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: a7babc13-6b8c-4174-96e1-cac1807c150e) with status 201
+2024-03-17 11:09:56,075 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: abe48770-7987-48f1-a585-cec99851a2f9) with status 201
+2024-03-17 11:09:56,097 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 8f86db6e-4367-49b7-8afb-3c9bfd99d886) with status 201
+2024-03-17 11:09:56,099 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: cc499e87-fd78-41f2-ba86-1170f484d288) with status 201
+2024-03-17 11:10:00,892 - basicLogger - INFO - Recieved event traffic request with a trace id of c34a8509-0141-42b0-8804-fdc004ca38e5)
+2024-03-17 11:10:00,956 - basicLogger - INFO - Recieved event traffic request with a trace id of 7d910d79-227f-49a1-bb48-c3eee6ff335b)
+2024-03-17 11:10:01,105 - basicLogger - INFO - Recieved event traffic request with a trace id of cd56d4dd-3d07-4349-8d2c-790d90028da7)
+2024-03-17 11:10:01,121 - basicLogger - INFO - Recieved event traffic request with a trace id of 445ea196-57ab-426a-9fae-eb9e10830e8c)
+2024-03-17 11:10:01,135 - basicLogger - INFO - Recieved event traffic request with a trace id of 027b0291-3aaf-4bf4-a5b8-a06c6c76206e)
+2024-03-17 11:10:01,406 - basicLogger - INFO - Returned event traffic response (Id: c34a8509-0141-42b0-8804-fdc004ca38e5) with status 201
+2024-03-17 11:10:01,471 - basicLogger - INFO - Returned event traffic response (Id: 7d910d79-227f-49a1-bb48-c3eee6ff335b) with status 201
+2024-03-17 11:10:01,570 - basicLogger - INFO - Returned event traffic response (Id: cd56d4dd-3d07-4349-8d2c-790d90028da7) with status 201
+2024-03-17 11:10:01,631 - basicLogger - INFO - Returned event traffic response (Id: 445ea196-57ab-426a-9fae-eb9e10830e8c) with status 201
+2024-03-17 11:10:01,639 - basicLogger - INFO - Returned event traffic response (Id: 027b0291-3aaf-4bf4-a5b8-a06c6c76206e) with status 201
+2024-03-17 11:10:06,429 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of f1c28a02-e45b-460b-9e48-fe49bb6503a9)
+2024-03-17 11:10:06,486 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 4810753a-fea2-466d-845f-3d016e1b7414)
+2024-03-17 11:10:06,599 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 07a1acd6-d512-465a-96bc-af3bcfa4e95f)
+2024-03-17 11:10:06,648 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 35f272f8-778d-4440-a685-b048682d8ebd)
+2024-03-17 11:10:06,663 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 05290eb8-4891-4825-981f-76c826e1e81b)
+2024-03-17 11:10:06,905 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: f1c28a02-e45b-460b-9e48-fe49bb6503a9) with status 201
+2024-03-17 11:10:06,942 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 4810753a-fea2-466d-845f-3d016e1b7414) with status 201
+2024-03-17 11:10:07,068 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 07a1acd6-d512-465a-96bc-af3bcfa4e95f) with status 201
+2024-03-17 11:10:07,128 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 35f272f8-778d-4440-a685-b048682d8ebd) with status 201
+2024-03-17 11:10:07,161 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 05290eb8-4891-4825-981f-76c826e1e81b) with status 201
+2024-03-17 11:10:11,931 - basicLogger - INFO - Recieved event traffic request with a trace id of 0aaad21f-ea95-4abe-807e-16918550e468)
+2024-03-17 11:10:11,973 - basicLogger - INFO - Recieved event traffic request with a trace id of 6fb70784-a51a-4ffc-a634-b1f3b26438ca)
+2024-03-17 11:10:12,086 - basicLogger - INFO - Recieved event traffic request with a trace id of a425d3c6-9f8b-4346-8ffa-e8f8350c1d1d)
+2024-03-17 11:10:12,149 - basicLogger - INFO - Recieved event traffic request with a trace id of 49ce1c55-15fe-4765-ab20-5e21eafe039e)
+2024-03-17 11:10:12,177 - basicLogger - INFO - Recieved event traffic request with a trace id of 4e429ffd-57ce-4a0c-89fb-50cf616d5912)
+2024-03-17 11:10:12,424 - basicLogger - INFO - Returned event traffic response (Id: 0aaad21f-ea95-4abe-807e-16918550e468) with status 201
+2024-03-17 11:10:12,490 - basicLogger - INFO - Returned event traffic response (Id: 6fb70784-a51a-4ffc-a634-b1f3b26438ca) with status 201
+2024-03-17 11:10:12,583 - basicLogger - INFO - Returned event traffic response (Id: a425d3c6-9f8b-4346-8ffa-e8f8350c1d1d) with status 201
+2024-03-17 11:10:12,629 - basicLogger - INFO - Returned event traffic response (Id: 49ce1c55-15fe-4765-ab20-5e21eafe039e) with status 201
+2024-03-17 11:10:12,662 - basicLogger - INFO - Returned event traffic response (Id: 4e429ffd-57ce-4a0c-89fb-50cf616d5912) with status 201
+2024-03-17 11:10:17,447 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 0043842b-1127-4fc4-ba3a-0a7b3f875a7b)
+2024-03-17 11:10:17,508 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 3d823c3e-3ec5-4684-a50a-be9b5cb61d8a)
+2024-03-17 11:10:17,607 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 8e77a00a-f587-4b7b-b537-f7d50027c040)
+2024-03-17 11:10:17,646 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of d0dada5c-fc56-4277-a533-a7f48f1429c9)
+2024-03-17 11:10:17,677 - basicLogger - INFO - Recieved event {'url': 'http://localhost:8090/incident'} request with a trace id of 4bdaa32f-6321-4ffb-b3e8-f99533bf3c5b)
+2024-03-17 11:10:17,914 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 0043842b-1127-4fc4-ba3a-0a7b3f875a7b) with status 201
+2024-03-17 11:10:17,999 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 3d823c3e-3ec5-4684-a50a-be9b5cb61d8a) with status 201
+2024-03-17 11:10:18,080 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 8e77a00a-f587-4b7b-b537-f7d50027c040) with status 201
+2024-03-17 11:10:18,140 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: d0dada5c-fc56-4277-a533-a7f48f1429c9) with status 201
+2024-03-17 11:10:18,172 - basicLogger - INFO - Returned event {'url': 'http://localhost:8090/incident'} response (Id: 4bdaa32f-6321-4ffb-b3e8-f99533bf3c5b) with status 201

@@ -18,23 +18,23 @@ tags:
     description: Operations available to administrators
 paths:
   /traffic-flow:
-    post:
-      tags:
-        - cameras
-      summary: records traffic flow data
-      operationId: app.recordTrafficFlow
-      description: Adds a record for traffic flow data at a specific intersection
-      requestBody:
-        description: Record to add
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/TrafficFlowReading"
-      responses:
-        "201":
-          description: record created
-        "400":
-          description: invalid input, could not create record
+    # post:
+    #   tags:
+    #     - cameras
+    #   summary: records traffic flow data
+    #   operationId: app.recordTrafficFlow
+    #   description: Adds a record for traffic flow data at a specific intersection
+    #   requestBody:
+    #     description: Record to add
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: "#/components/schemas/TrafficFlowReading"
+    #   responses:
+    #     "201":
+    #       description: record created
+    #     "400":
+    #       description: invalid input, could not create record
     get:
       tags:
        - sensors
@@ -73,23 +73,23 @@ paths:
                     type: string
 
   /incident:
-    post:
-      tags:
-        - cameras
-      summary: reports an incident
-      operationId: app.reportIncident
-      description: Adds a record for a reported incident captured by monitoring devices
-      requestBody:
-        description: Incident report to add
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/IncidentReport"
-      responses:
-        "201":
-          description: record created
-        "400":
-          description: invalid input, could not create record
+    # post:
+    #   tags:
+    #     - cameras
+    #   summary: reports an incident
+    #   operationId: app.reportIncident
+    #   description: Adds a record for a reported incident captured by monitoring devices
+    #   requestBody:
+    #     description: Incident report to add
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: "#/components/schemas/IncidentReport"
+    #   responses:
+    #     "201":
+    #       description: record created
+    #     "400":
+    #       description: invalid input, could not create record
     get:
       tags:
        - sensors

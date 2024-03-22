@@ -4,8 +4,8 @@ from sqlalchemy.orm import sessionmaker
 import mysql.connector 
 
 
-# MYSQL_DATABASE_URI = 'mysql+pymysql://user:Password@acit3855-kafla.eastus2.cloudapp.azure.com:3306/events'
-MYSQL_DATABASE_URI = 'mysql+pymysql://root:Password@127.0.0.1:3306/storage'
+MYSQL_DATABASE_URI = 'mysql+pymysql://user:Password@acit3855-kafla.eastus2.cloudapp.azure.com:3306/events'
+# MYSQL_DATABASE_URI = 'mysql+pymysql://user:Password@127.0.0.1:3306/storage'
 # DB_PATH = "sqlite:///traffic.db"
 engine = create_engine(MYSQL_DATABASE_URI)
 

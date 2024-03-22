@@ -13,6 +13,7 @@ import logging.config
 from models import Stats
 import requests
 from apscheduler.schedulers.background import BackgroundScheduler
+from pytz import utc
 
 
 
@@ -94,7 +95,7 @@ def populate_state():
 
 
 def init_scheduler():
-    sched = BackgroundScheduler(daemon=True)
+    sched = BackgroundScheduler(daemon=True, timezone=utc)
     sched.add_job(populate_state, 
                     'interval',
                     seconds=app_config['scheduler']['period_sec'])
@@ -117,7 +118,7 @@ def get_stats():
     logger.info("Request for statistics completed")
     session.close()
 
-    return stats_dict, 200
+    return latest_stats, 200
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("trafficreport.yaml", strict_validation=True, validate_responses=True)

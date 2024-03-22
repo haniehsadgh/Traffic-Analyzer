@@ -1,0 +1,1283 @@
+
+2024-02-24 17:31:10,684 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:31:12,771 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:31:20,669 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:31:22,751 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:31:30,643 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:31:32,714 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:31:40,644 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:31:42,709 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:31:50,638 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:31:52,712 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:32:00,640 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:32:02,716 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:32:10,658 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:32:12,732 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:32:20,643 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:32:22,709 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:32:30,637 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:32:32,711 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:32:40,653 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:32:42,721 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:32:50,645 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:32:52,723 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-24 17:33:00,624 - basicLogger - INFO - Query for Traffic report after 2024-02-23 21:54:24.481054 returns 5 results
+2024-02-24 17:33:02,695 - basicLogger - INFO - Query for Incident report after 2024-02-23 21:54:24.481054 returns 0 results
+2024-02-25 18:17:51,361 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:17:39.293651 returns 0 results
+2024-02-25 18:17:53,436 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:17:39.293651 returns 0 results
+2024-02-25 18:18:01,347 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:17:49.295456 returns 0 results
+2024-02-25 18:18:03,414 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:17:49.295456 returns 0 results
+2024-02-25 18:18:11,332 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:17:59.290112 returns 0 results
+2024-02-25 18:18:13,398 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:17:59.290112 returns 0 results
+2024-02-25 18:18:21,362 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:18:09.285113 returns 0 results
+2024-02-25 18:18:23,426 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:18:09.285113 returns 0 results
+2024-02-25 18:18:31,369 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:18:19.295248 returns 0 results
+2024-02-25 18:18:33,432 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:18:19.295248 returns 0 results
+2024-02-25 18:18:41,363 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:18:29.296392 returns 0 results
+2024-02-25 18:18:43,426 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:18:29.296392 returns 0 results
+2024-02-25 18:18:51,366 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:18:39.282118 returns 0 results
+2024-02-25 18:18:53,444 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:18:39.282118 returns 0 results
+2024-02-25 18:19:01,357 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:18:49.292912 returns 0 results
+2024-02-25 18:19:03,426 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:18:49.292912 returns 0 results
+2024-02-25 18:19:06,428 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 07d68f51-2e0c-4456-8d0d-e2575aef0c44)
+2024-02-25 18:19:06,641 - basicLogger - DEBUG - Recieved event traffic request with a trace id of eccd7536-601a-4d40-a6f1-cc0cf3c55f99)
+2024-02-25 18:19:06,840 - basicLogger - DEBUG - Recieved event traffic request with a trace id of c7d58246-1c10-490d-9515-405e182376ed)
+2024-02-25 18:19:07,026 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 5847c042-3591-4253-bc9a-f315c79fd047)
+2024-02-25 18:19:07,229 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 3863e3c1-9ef4-4797-bda0-0a235e2a30b4)
+2024-02-25 18:19:08,535 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 7ca304d6-128a-40dc-a52b-e3f416843499)
+2024-02-25 18:19:08,740 - basicLogger - DEBUG - Recieved event traffic request with a trace id of ec101a40-9e93-4b38-9c90-2c558ae8ecfa)
+2024-02-25 18:19:08,922 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 61a4f990-88bf-4706-9388-e889f1be39c6)
+2024-02-25 18:19:09,113 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 761052fd-a0d4-4583-93f8-ae32fa55b9a0)
+2024-02-25 18:19:09,314 - basicLogger - DEBUG - Recieved event traffic request with a trace id of c44cb9c7-fd73-4915-a214-a794ae6c76a3)
+2024-02-25 18:19:11,354 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:18:59.287585 returns 10 results
+2024-02-25 18:19:13,433 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:18:59.287585 returns 0 results
+2024-02-25 18:19:21,360 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:19:09.290703 returns 0 results
+2024-02-25 18:19:21,743 - basicLogger - DEBUG - Recieved event traffic request with a trace id of fa220868-006d-45a9-820b-a196b68503f8)
+2024-02-25 18:19:21,952 - basicLogger - DEBUG - Recieved event traffic request with a trace id of cedf5646-44b3-4b5c-a63e-02d7be21c0df)
+2024-02-25 18:19:22,139 - basicLogger - DEBUG - Recieved event traffic request with a trace id of a49bf9fc-0f2a-4494-9b25-bd31445d8333)
+2024-02-25 18:19:22,339 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 2b68a108-f484-46f8-8646-018e8753898f)
+2024-02-25 18:19:22,541 - basicLogger - DEBUG - Recieved event traffic request with a trace id of e6ec68c3-64ad-4ddb-b788-d0cf70516752)
+2024-02-25 18:19:23,422 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:19:09.290703 returns 0 results
+2024-02-25 18:19:23,836 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 892789ae-a5a7-4fee-a4ff-0ed366b1b73e)
+2024-02-25 18:19:24,045 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 2db13835-c7cf-4005-8875-56559d8817f6)
+2024-02-25 18:19:24,234 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 0306e522-b565-4d5e-b6fd-8907bd9c11a2)
+2024-02-25 18:19:24,429 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 4752ecdb-4603-4330-a17e-501740b91310)
+2024-02-25 18:19:24,633 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 3284152e-57cf-48d8-bcf9-fade50cd1f28)
+2024-02-25 18:19:31,331 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:19:19.291907 returns 10 results
+2024-02-25 18:19:33,412 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:19:19.291907 returns 0 results
+2024-02-25 18:19:41,360 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:19:29.292222 returns 0 results
+2024-02-25 18:19:43,415 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:19:29.292222 returns 0 results
+2024-02-25 18:19:51,375 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:19:39.294789 returns 0 results
+2024-02-25 18:19:53,437 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:19:39.294789 returns 0 results
+2024-02-25 18:20:01,365 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:19:49.300338 returns 0 results
+2024-02-25 18:20:03,430 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:19:49.300338 returns 0 results
+2024-02-25 18:20:11,358 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:19:59.297437 returns 0 results
+2024-02-25 18:20:13,426 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:19:59.297437 returns 0 results
+2024-02-25 18:20:21,365 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:20:09.284594 returns 0 results
+2024-02-25 18:20:23,435 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:20:09.284594 returns 0 results
+2024-02-25 18:20:31,368 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:20:19.294405 returns 0 results
+2024-02-25 18:20:32,306 - basicLogger - DEBUG - Recieved event traffic request with a trace id of b2582e39-9d8b-4f45-8fc6-c6f8bba1f84f)
+2024-02-25 18:20:32,521 - basicLogger - DEBUG - Recieved event traffic request with a trace id of e9191d9f-6f76-41a6-a0f7-8c79183f9ce8)
+2024-02-25 18:20:32,722 - basicLogger - DEBUG - Recieved event traffic request with a trace id of e2d25656-a5da-4c91-b0b5-6fedb040f07f)
+2024-02-25 18:20:32,914 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 6ba7e057-4fa2-4ab2-87d3-9ae30c77a26f)
+2024-02-25 18:20:33,114 - basicLogger - DEBUG - Recieved event traffic request with a trace id of 710c8170-ae60-4b63-b4a0-6c4d5c3e65c8)
+2024-02-25 18:20:33,421 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:20:19.294405 returns 0 results
+2024-02-25 18:20:34,390 - basicLogger - DEBUG - Recieved event accident request with a trace id of d4955e64-58e7-464a-a97e-11b76ed06289)
+2024-02-25 18:20:34,598 - basicLogger - DEBUG - Recieved event accident request with a trace id of 7bdc6f15-2068-4f76-a1dc-f457e30e75cb)
+2024-02-25 18:20:34,796 - basicLogger - DEBUG - Recieved event accident request with a trace id of bd49a803-5544-412b-a6dc-4b3156e72505)
+2024-02-25 18:20:34,985 - basicLogger - DEBUG - Recieved event accident request with a trace id of 05879458-1627-4da2-9bfa-e3642c1a1f26)
+2024-02-25 18:20:35,187 - basicLogger - DEBUG - Recieved event accident request with a trace id of b5f154b9-c826-4124-80ea-1586b040c60c)
+2024-02-25 18:20:36,486 - basicLogger - DEBUG - Recieved event traffic request with a trace id of f1ce9903-22cc-4dc6-a3a9-b439f5c7f637)
+2024-02-25 18:20:36,686 - basicLogger - DEBUG - Recieved event traffic request with a trace id of e011ca3d-5236-407e-96f6-abef5b3065b1)
+2024-02-25 18:20:36,869 - basicLogger - DEBUG - Recieved event traffic request with a trace id of dc3102f8-a543-4dd6-b2c4-488579b51dee)
+2024-02-25 18:20:37,073 - basicLogger - DEBUG - Recieved event traffic request with a trace id of f51fa841-d8d3-4eea-ae2d-de4eb2ea434a)
+2024-02-25 18:20:37,271 - basicLogger - DEBUG - Recieved event traffic request with a trace id of b8402b11-ace7-4bb3-aa9e-19702a82ac5a)
+2024-02-25 18:20:38,566 - basicLogger - DEBUG - Recieved event accident request with a trace id of 7e3dcf4e-cee9-4602-b599-6e723a06a775)
+2024-02-25 18:20:38,776 - basicLogger - DEBUG - Recieved event accident request with a trace id of 3e57bedd-bba1-4ba6-a3fd-8adb29494e1c)
+2024-02-25 18:20:38,939 - basicLogger - DEBUG - Recieved event accident request with a trace id of b8a87884-5110-474d-9db7-6d59d67700cd)
+2024-02-25 18:20:39,165 - basicLogger - DEBUG - Recieved event accident request with a trace id of 247b52a9-1660-4bdf-9036-dc1d7af65d3d)
+2024-02-25 18:20:39,366 - basicLogger - DEBUG - Recieved event accident request with a trace id of 25d6bbd5-ecc3-4e31-b1e4-09ba0f9520bf)
+2024-02-25 18:20:41,353 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:20:29.302412 returns 10 results
+2024-02-25 18:20:43,441 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:20:29.302412 returns 10 results
+2024-02-25 18:20:51,372 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:20:39.293902 returns 0 results
+2024-02-25 18:20:53,437 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:20:39.293902 returns 0 results
+2024-02-25 18:21:01,350 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:20:49.299377 returns 0 results
+2024-02-25 18:21:03,411 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:20:49.299377 returns 0 results
+2024-02-25 18:45:05,829 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:20:59.288260 returns 0 results
+2024-02-25 18:45:07,901 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:20:59.288260 returns 0 results
+2024-02-25 18:45:15,774 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:45:03.715470 returns 0 results
+2024-02-25 18:45:17,854 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:45:03.715470 returns 0 results
+2024-02-25 20:27:26,248 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:27:26,389 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:38:17,084 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:38:17,225 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:44:59,943 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:45:00,084 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:51:58,129 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:51:58,253 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:54:09,921 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-25 20:54:10,037 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:18:47,906 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:18:48,092 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:29:15,546 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:29:15,717 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:34:18,153 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:34:18,299 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 14:35:01,139 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-02-28T14:35:00', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 2, 'trace_id': 'ef8e9f69-833b-43b8-a79d-5c711c0df331'}}
+2024-02-28 16:34:02,460 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 16:34:02,594 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 16:48:38,674 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 16:48:38,801 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 16:48:56,394 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-02-28T16:48:56', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 2, 'trace_id': 'd1105767-7ed5-435e-ad71-a9dadb116555'}}
+2024-02-28 16:58:11,573 - basicLogger - INFO - Message: {'type': 'record_library_info', 'datetime': '2024-02-28T16:58:09', 'payload': {'available_books': 15, 'library_id': 'parnian-123', 'location': 'como lake park', 'timestamp': '2024-01-1243', 'visits_per_day': 10, 'trace_id': '283891be-5b46-4821-8bc3-69b51d34fa0c'}}
+2024-02-28 16:58:31,871 - basicLogger - INFO - Message: {'type': 'record_social_media_post', 'datetime': '2024-02-28T16:58:29', 'payload': {'book_category': 'parnian', 'book_id': 'abc-123', 'post_id': 'pari_123', 'timestamp': '2024', 'views_or_rating': 15, 'trace_id': '69c67098-1f6d-4521-bf5d-f8cdb55b96f3'}}
+2024-02-28 17:09:15,072 - basicLogger - INFO - Message: {'type': 'record_social_media_post', 'datetime': '2024-02-28T17:09:13', 'payload': {'book_category': 'parnian', 'book_id': 'abc-123', 'post_id': 'pari_123', 'timestamp': '2024', 'views_or_rating': 15, 'trace_id': '9b0963e8-416d-48b9-81dd-e541602c4bdd'}}
+2024-02-28 17:09:46,393 - basicLogger - INFO - Message: {'type': 'record_social_media_post', 'datetime': '2024-02-28T17:09:44', 'payload': {'book_category': 'parnian1', 'book_id': 'abc-456', 'post_id': 'pari_123', 'timestamp': '2022', 'views_or_rating': 5, 'trace_id': '7771da39-85eb-434a-b64d-bb7269583866'}}
+2024-02-28 17:10:16,859 - basicLogger - INFO - Message: {'type': 'record_social_media_post', 'datetime': '2024-02-28T17:10:14', 'payload': {'book_category': 'parnian2', 'book_id': 'abc-789', 'post_id': 'pari_123', 'timestamp': '2023', 'views_or_rating': 10, 'trace_id': '1d3833a6-60d3-4461-823b-fe6a6477edfd'}}
+2024-02-28 17:10:35,891 - basicLogger - INFO - Message: {'type': 'record_library_info', 'datetime': '2024-02-28T17:10:33', 'payload': {'available_books': 5, 'library_id': 'parnian-123', 'location': 'como lake park', 'timestamp': '2024-01-1243', 'visits_per_day': 1, 'trace_id': 'a3849786-75e1-49c0-95f9-41ae7df73d2c'}}
+2024-02-28 17:10:56,124 - basicLogger - INFO - Message: {'type': 'record_library_info', 'datetime': '2024-02-28T17:10:54', 'payload': {'available_books': 10, 'library_id': 'parnian-456', 'location': 'como lake park', 'timestamp': '2024-01-1243', 'visits_per_day': 2, 'trace_id': '2be1bf19-8162-40f4-b9d7-69db4d7ec3fc'}}
+2024-02-28 17:11:22,548 - basicLogger - INFO - Message: {'type': 'record_library_info', 'datetime': '2024-02-28T17:11:20', 'payload': {'available_books': 15, 'library_id': 'parnian-789', 'location': 'bcit', 'timestamp': '2024-01-1243', 'visits_per_day': 10, 'trace_id': '5be8463b-d01a-4b4c-a4fb-4ef69fdd2110'}}
+2024-02-28 17:11:33,002 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-02-28T17:11:32', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 2, 'trace_id': '61bbb8d0-8657-4632-91ac-09ab927f372c'}}
+2024-02-28 17:22:31,853 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 17:22:31,982 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 17:22:57,842 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-02-28T17:22:57', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 2, 'trace_id': '675271d0-5866-4860-968c-3e9689d802ee'}}
+2024-02-28 17:24:38,179 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-02-28T17:24:38', 'payload': {'accident_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'cameraId': '12345', 'timestamp': '2023-02-21T09:12:33.001Z', 'incidentType': 'string', 'trace_id': 'ed244560-a82f-49d6-af44-b9746256195e'}}
+2024-02-28 17:39:10,690 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 17:39:10,807 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-02-28 17:44:53,854 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-02-28T17:44:53', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 3, 'trace_id': '1cd92b56-ad49-40bb-943a-e839daf56c8d'}}
+2024-02-28 17:45:07,768 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-02-28T17:45:07', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 4, 'trace_id': '85a7bc47-b9c7-48e6-ac08-493aa2e0712f'}}
+2024-02-28 18:08:49,421 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-02-28T18:08:49', 'payload': {'accident_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'cameraId': '12345', 'timestamp': '2023-02-21T09:12:33.001Z', 'incidentType': 'dava', 'trace_id': '4eb6c22b-5385-4e0a-9caf-33c076cc1407'}}
+2024-03-03 19:29:05,549 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-03 19:29:05,686 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-03 19:32:59,673 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-03 19:32:59,796 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-03 19:33:00,498 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:32:09', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 4, 'trace_id': '57441479-cb34-415e-b878-60f160f00a2a'}}
+2024-03-03 19:36:37,152 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:36:37', 'payload': {'accident_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'cameraId': '12345', 'timestamp': '2023-02-21T09:12:33.001Z', 'incidentType': 'dava', 'trace_id': '679fa4f5-041f-4127-a3c5-6b9c4fa9d818'}}
+2024-03-03 19:39:04,777 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:04', 'payload': {'traffic_id': 'be466db0-2d14-4674-adab-c4ba9d2ce0cf', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:04', 'vehicleCount': 59, 'trace_id': '3040e7cd-d591-4cad-b287-c807c4d152e4'}}
+2024-03-03 19:39:05,081 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:04', 'payload': {'traffic_id': 'fbac0202-566b-494d-991b-f422c285a0aa', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:04', 'vehicleCount': 50, 'trace_id': '50c6b886-e845-4302-98fe-ee93c0ab459a'}}
+2024-03-03 19:39:05,391 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:04', 'payload': {'traffic_id': '381a2d27-613e-4e43-af73-507f50facf27', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:04', 'vehicleCount': 29, 'trace_id': 'e04a129a-5588-45e9-b95b-0d72a352a1be'}}
+2024-03-03 19:39:05,687 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:04', 'payload': {'traffic_id': '48189a85-1761-4474-8c4a-51dc0ca1d6ba', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:04', 'vehicleCount': 14, 'trace_id': '19c69217-f81e-433b-879a-e384dc556474'}}
+2024-03-03 19:39:05,983 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:04', 'payload': {'traffic_id': 'b11136b7-4f0b-4a50-a5df-8b2cf0c0e630', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:04', 'vehicleCount': 11, 'trace_id': '4ee1a7fe-083b-4ab5-b50b-18df1a0f4050'}}
+2024-03-03 19:39:10,337 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:10', 'payload': {'accident_id': '2e5b991f-556a-4493-8e24-9b39080d55cb', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:09', 'incidentType': 'string', 'trace_id': '2154d74c-bca4-458c-96ae-460022c029d1'}}
+2024-03-03 19:39:10,637 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:10', 'payload': {'accident_id': '2007a776-abac-49cc-a7b9-bcdb7d75ac38', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:09', 'incidentType': 'string', 'trace_id': '85d02c3f-1730-4acd-b440-f4eb093a40d7'}}
+2024-03-03 19:39:10,939 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:10', 'payload': {'accident_id': '7f74b78b-0175-43ef-bc25-07d2d40523bd', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:09', 'incidentType': 'string', 'trace_id': '0b5ce848-31df-48fa-90d0-ae9db90f8496'}}
+2024-03-03 19:39:11,237 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:10', 'payload': {'accident_id': '5f1b5b09-f3e4-46d1-82d5-3d644edd21b1', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:09', 'incidentType': 'string', 'trace_id': 'c2e8167d-b93d-43fb-8e79-cc01622400e6'}}
+2024-03-03 19:39:11,538 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:10', 'payload': {'accident_id': '4028caa7-66ce-475d-bdb9-f60db35d6381', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:09', 'incidentType': 'string', 'trace_id': 'b8d94292-b256-4545-b7b4-6febeb7f3c1d'}}
+2024-03-03 19:39:15,992 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:15', 'payload': {'traffic_id': '35568924-2e52-44d2-b271-0dd6d52735b4', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:15', 'vehicleCount': 34, 'trace_id': '3880de75-fa09-4ca8-a21b-5731a1e70abe'}}
+2024-03-03 19:39:16,305 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:15', 'payload': {'traffic_id': 'c290c825-f097-49f5-8263-7608b10b331f', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:15', 'vehicleCount': 24, 'trace_id': '0fa0b808-9281-48af-b69d-049acf213256'}}
+2024-03-03 19:39:16,613 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:15', 'payload': {'traffic_id': '7d54290e-165e-4283-b41e-041455e6a491', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:15', 'vehicleCount': 18, 'trace_id': 'bc06a22a-19c5-4dda-a346-19e97d0ae9bb'}}
+2024-03-03 19:39:16,921 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:15', 'payload': {'traffic_id': '824323a9-c6e7-4420-8d1c-4e405e93764d', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:15', 'vehicleCount': 47, 'trace_id': 'a4e9d75c-9a6d-4769-a5be-881a170be5d6'}}
+2024-03-03 19:39:17,221 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-03T19:39:15', 'payload': {'traffic_id': 'fd0f65ad-ab35-4e97-9f4a-245711565967', 'intersectionId': 'string', 'dateRecorded': '2024 mars 03 19:39:15', 'vehicleCount': 63, 'trace_id': '68ff40a4-f700-42b8-8395-3939e51b88d2'}}
+2024-03-03 19:39:21,533 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:21', 'payload': {'accident_id': 'cf60b443-edb2-4150-a0ed-531efaee79c0', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:20', 'incidentType': 'string', 'trace_id': 'f19c6e2b-ec64-48f7-9930-bf206bdc21c3'}}
+2024-03-03 19:39:21,836 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:21', 'payload': {'accident_id': 'b07e6b5c-990f-4185-b80e-5f510c03f4ae', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:20', 'incidentType': 'string', 'trace_id': '435dad16-9ef6-462d-83e2-383c01eed83c'}}
+2024-03-03 19:39:22,134 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:21', 'payload': {'accident_id': 'f1d4140d-00ac-4b39-8144-2daec050340d', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:20', 'incidentType': 'string', 'trace_id': '66081dac-afc9-405e-9e53-0d7ddb6fa45d'}}
+2024-03-03 19:39:22,433 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:21', 'payload': {'accident_id': 'cf0735ca-4021-446c-a4fb-b023c4a7f1c4', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:20', 'incidentType': 'string', 'trace_id': 'ed7795c2-4021-4420-9f40-c6d9c9ad15e6'}}
+2024-03-03 19:39:22,742 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-03T19:39:21', 'payload': {'accident_id': '912ac1d3-bee0-433c-ae71-ad93e8538b20', 'cameraId': 'string', 'timestamp': '2024 mars 03 19:39:20', 'incidentType': 'string', 'trace_id': '23d179a2-5b34-4fa5-9cca-4723dfabf75d'}}
+2024-03-07 15:21:04,505 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-07 15:21:04,651 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-08 13:36:25,983 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-08 13:36:26,128 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-08 13:36:56,983 - basicLogger - INFO - Query for Traffic report after 2024-02-25 18:45:13.706166 returns 14 results
+2024-03-08 13:36:59,248 - basicLogger - INFO - Query for Incident report after 2024-02-25 18:45:13.706166 returns 11 results
+2024-03-08 13:37:06,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:36:53.819771 returns 0 results
+2024-03-08 13:37:08,373 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:36:53.819771 returns 0 results
+2024-03-08 13:37:16,066 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:37:03.816630 returns 0 results
+2024-03-08 13:37:18,345 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:37:03.816630 returns 0 results
+2024-03-08 13:37:26,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:37:13.807005 returns 0 results
+2024-03-08 13:37:28,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:37:13.807005 returns 0 results
+2024-03-08 13:37:36,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:37:23.803291 returns 0 results
+2024-03-08 13:37:38,326 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:37:23.803291 returns 0 results
+2024-03-08 13:37:46,060 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:37:33.808362 returns 0 results
+2024-03-08 13:37:48,330 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:37:33.808362 returns 0 results
+2024-03-08 13:37:56,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:37:43.808210 returns 0 results
+2024-03-08 13:37:58,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:37:43.808210 returns 0 results
+2024-03-08 13:38:01,248 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-08T13:38:01', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 20, 'trace_id': 'f88c866d-a5b9-46c2-8a6b-3b44a2bc0b8d'}}
+2024-03-08 13:38:06,060 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:37:53.813199 returns 0 results
+2024-03-08 13:38:08,349 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:37:53.813199 returns 0 results
+2024-03-08 13:38:16,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:38:03.806655 returns 0 results
+2024-03-08 13:38:18,334 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:38:03.806655 returns 0 results
+2024-03-08 13:38:26,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:38:13.813704 returns 0 results
+2024-03-08 13:38:28,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:38:13.813704 returns 0 results
+2024-03-08 13:38:36,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:38:23.813194 returns 0 results
+2024-03-08 13:38:38,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:38:23.813194 returns 0 results
+2024-03-08 13:38:46,053 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:38:33.819605 returns 0 results
+2024-03-08 13:38:48,323 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:38:33.819605 returns 0 results
+2024-03-08 13:38:56,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:38:43.810693 returns 0 results
+2024-03-08 13:38:58,346 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:38:43.810693 returns 0 results
+2024-03-08 13:39:06,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:38:53.816536 returns 0 results
+2024-03-08 13:39:08,313 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:38:53.816536 returns 0 results
+2024-03-08 13:39:16,070 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:39:03.812663 returns 0 results
+2024-03-08 13:39:18,323 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:39:03.812663 returns 0 results
+2024-03-08 13:39:26,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:39:13.811076 returns 0 results
+2024-03-08 13:39:28,336 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:39:13.811076 returns 0 results
+2024-03-08 13:39:36,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:39:23.805590 returns 0 results
+2024-03-08 13:39:38,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:39:23.805590 returns 0 results
+2024-03-08 13:39:46,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:39:33.815208 returns 0 results
+2024-03-08 13:39:48,335 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:39:33.815208 returns 0 results
+2024-03-08 13:39:56,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:39:43.818019 returns 0 results
+2024-03-08 13:39:58,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:39:43.818019 returns 0 results
+2024-03-08 13:40:06,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:39:53.808162 returns 0 results
+2024-03-08 13:40:08,325 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:39:53.808162 returns 0 results
+2024-03-08 13:40:16,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:40:03.812082 returns 0 results
+2024-03-08 13:40:18,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:40:03.812082 returns 0 results
+2024-03-08 13:40:26,064 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:40:13.813541 returns 0 results
+2024-03-08 13:40:28,325 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:40:13.813541 returns 0 results
+2024-03-08 13:40:36,067 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:40:23.812841 returns 0 results
+2024-03-08 13:40:38,323 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:40:23.812841 returns 0 results
+2024-03-08 13:40:46,084 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:40:33.812547 returns 0 results
+2024-03-08 13:40:48,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:40:33.812547 returns 0 results
+2024-03-08 13:40:56,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:40:43.805475 returns 0 results
+2024-03-08 13:40:58,380 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:40:43.805475 returns 0 results
+2024-03-08 13:41:06,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:40:53.816968 returns 0 results
+2024-03-08 13:41:08,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:40:53.816968 returns 0 results
+2024-03-08 13:41:16,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:41:03.813453 returns 0 results
+2024-03-08 13:41:18,348 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:41:03.813453 returns 0 results
+2024-03-08 13:41:26,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:41:13.824768 returns 0 results
+2024-03-08 13:41:28,365 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:41:13.824768 returns 0 results
+2024-03-08 13:41:36,046 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:41:23.809576 returns 0 results
+2024-03-08 13:41:38,300 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:41:23.809576 returns 0 results
+2024-03-08 13:41:46,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:41:33.805748 returns 0 results
+2024-03-08 13:41:48,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:41:33.805748 returns 0 results
+2024-03-08 13:41:56,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:41:43.820982 returns 0 results
+2024-03-08 13:41:58,357 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:41:43.820982 returns 0 results
+2024-03-08 13:42:06,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:41:53.807904 returns 0 results
+2024-03-08 13:42:08,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:41:53.807904 returns 0 results
+2024-03-08 13:42:16,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:42:03.813691 returns 0 results
+2024-03-08 13:42:18,363 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:42:03.813691 returns 0 results
+2024-03-08 13:42:26,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:42:13.820966 returns 0 results
+2024-03-08 13:42:28,341 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:42:13.820966 returns 0 results
+2024-03-08 13:42:36,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:42:23.809667 returns 0 results
+2024-03-08 13:42:38,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:42:23.809667 returns 0 results
+2024-03-08 13:42:46,053 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:42:33.814361 returns 0 results
+2024-03-08 13:42:48,323 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:42:33.814361 returns 0 results
+2024-03-08 13:42:56,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:42:43.817659 returns 0 results
+2024-03-08 13:42:58,345 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:42:43.817659 returns 0 results
+2024-03-08 13:43:06,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:42:53.818820 returns 0 results
+2024-03-08 13:43:08,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:42:53.818820 returns 0 results
+2024-03-08 13:43:16,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:43:03.806089 returns 0 results
+2024-03-08 13:43:18,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:43:03.806089 returns 0 results
+2024-03-08 13:43:26,054 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:43:13.806158 returns 0 results
+2024-03-08 13:43:28,323 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:43:13.806158 returns 0 results
+2024-03-08 13:43:36,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:43:23.816013 returns 0 results
+2024-03-08 13:43:38,335 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:43:23.816013 returns 0 results
+2024-03-08 13:43:46,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:43:33.816304 returns 0 results
+2024-03-08 13:43:48,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:43:33.816304 returns 0 results
+2024-03-08 13:43:56,068 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:43:43.809876 returns 0 results
+2024-03-08 13:43:58,303 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:43:43.809876 returns 0 results
+2024-03-08 13:44:06,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:43:53.807332 returns 0 results
+2024-03-08 13:44:08,337 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:43:53.807332 returns 0 results
+2024-03-08 13:44:16,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:44:03.819178 returns 0 results
+2024-03-08 13:44:18,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:44:03.819178 returns 0 results
+2024-03-08 13:44:26,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:44:13.821015 returns 0 results
+2024-03-08 13:44:28,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:44:13.821015 returns 0 results
+2024-03-08 13:44:36,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:44:23.816229 returns 0 results
+2024-03-08 13:44:38,345 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:44:23.816229 returns 0 results
+2024-03-08 13:44:46,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:44:33.815387 returns 0 results
+2024-03-08 13:44:48,355 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:44:33.815387 returns 0 results
+2024-03-08 13:44:56,059 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:44:43.810912 returns 0 results
+2024-03-08 13:44:58,322 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:44:43.810912 returns 0 results
+2024-03-08 13:45:06,065 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:44:53.803729 returns 0 results
+2024-03-08 13:45:08,334 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:44:53.803729 returns 0 results
+2024-03-08 13:45:16,066 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:45:03.810072 returns 0 results
+2024-03-08 13:45:18,342 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:45:03.810072 returns 0 results
+2024-03-08 13:45:26,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:45:13.810431 returns 0 results
+2024-03-08 13:45:28,334 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:45:13.810431 returns 0 results
+2024-03-08 13:45:36,060 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:45:23.806687 returns 0 results
+2024-03-08 13:45:38,318 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:45:23.806687 returns 0 results
+2024-03-08 13:45:46,070 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:45:33.813727 returns 0 results
+2024-03-08 13:45:48,327 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:45:33.813727 returns 0 results
+2024-03-08 13:45:56,076 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:45:43.814434 returns 0 results
+2024-03-08 13:45:58,334 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:45:43.814434 returns 0 results
+2024-03-08 13:46:06,079 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:45:53.813719 returns 0 results
+2024-03-08 13:46:08,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:45:53.813719 returns 0 results
+2024-03-08 13:46:16,043 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:46:03.809505 returns 0 results
+2024-03-08 13:46:18,303 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:46:03.809505 returns 0 results
+2024-03-08 13:46:26,080 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:46:13.805537 returns 0 results
+2024-03-08 13:46:28,365 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:46:13.805537 returns 0 results
+2024-03-08 13:46:36,072 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:46:23.810795 returns 0 results
+2024-03-08 13:46:38,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:46:23.810795 returns 0 results
+2024-03-08 13:46:46,128 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:46:33.817280 returns 0 results
+2024-03-08 13:46:48,432 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:46:33.817280 returns 0 results
+2024-03-08 13:46:56,103 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:46:43.817589 returns 0 results
+2024-03-08 13:46:58,414 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:46:43.817589 returns 0 results
+2024-03-08 13:47:06,112 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:46:53.812789 returns 0 results
+2024-03-08 13:47:08,385 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:46:53.812789 returns 0 results
+2024-03-08 13:47:16,114 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:47:03.810937 returns 0 results
+2024-03-08 13:47:18,432 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:47:03.810937 returns 0 results
+2024-03-08 13:47:26,065 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:47:13.811737 returns 0 results
+2024-03-08 13:47:28,403 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:47:13.811737 returns 0 results
+2024-03-08 13:47:36,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:47:23.807021 returns 0 results
+2024-03-08 13:47:38,375 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:47:23.807021 returns 0 results
+2024-03-08 13:47:46,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:47:33.824029 returns 0 results
+2024-03-08 13:47:48,379 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:47:33.824029 returns 0 results
+2024-03-08 13:47:56,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:47:43.825018 returns 0 results
+2024-03-08 13:47:58,344 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:47:43.825018 returns 0 results
+2024-03-08 13:48:06,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:47:53.805436 returns 0 results
+2024-03-08 13:48:08,336 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:47:53.805436 returns 0 results
+2024-03-08 13:48:16,107 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:48:03.813973 returns 0 results
+2024-03-08 13:48:18,352 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:48:03.813973 returns 0 results
+2024-03-08 13:48:26,092 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:48:13.816767 returns 0 results
+2024-03-08 13:48:28,398 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:48:13.816767 returns 0 results
+2024-03-08 13:48:36,095 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:48:23.806201 returns 0 results
+2024-03-08 13:48:38,363 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:48:23.806201 returns 0 results
+2024-03-08 13:48:46,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:48:33.808136 returns 0 results
+2024-03-08 13:48:48,382 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:48:33.808136 returns 0 results
+2024-03-08 13:48:56,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:48:43.807838 returns 0 results
+2024-03-08 13:48:58,368 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:48:43.807838 returns 0 results
+2024-03-08 13:49:06,057 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:48:53.806735 returns 0 results
+2024-03-08 13:49:08,333 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:48:53.806735 returns 0 results
+2024-03-08 13:49:16,065 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:49:03.809720 returns 0 results
+2024-03-08 13:49:18,340 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:49:03.809720 returns 0 results
+2024-03-08 13:49:26,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:49:13.809839 returns 0 results
+2024-03-08 13:49:28,389 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:49:13.809839 returns 0 results
+2024-03-08 13:49:36,133 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:49:23.815687 returns 0 results
+2024-03-08 13:49:38,438 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:49:23.815687 returns 0 results
+2024-03-08 13:49:46,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:49:33.815847 returns 0 results
+2024-03-08 13:49:48,327 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:49:33.815847 returns 0 results
+2024-03-08 13:49:56,094 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:49:43.807570 returns 0 results
+2024-03-08 13:49:58,385 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:49:43.807570 returns 0 results
+2024-03-08 13:50:06,085 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:49:53.806872 returns 0 results
+2024-03-08 13:50:08,342 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:49:53.806872 returns 0 results
+2024-03-08 13:50:16,132 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:50:03.812553 returns 0 results
+2024-03-08 13:50:18,384 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:50:03.812553 returns 0 results
+2024-03-08 13:50:26,209 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:50:13.817227 returns 0 results
+2024-03-08 13:50:28,543 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:50:13.817227 returns 0 results
+2024-03-08 13:50:36,105 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:50:23.809655 returns 0 results
+2024-03-08 13:50:38,373 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:50:23.809655 returns 0 results
+2024-03-08 13:50:46,085 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:50:33.810486 returns 0 results
+2024-03-08 13:50:48,348 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:50:33.810486 returns 0 results
+2024-03-08 13:50:56,133 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:50:43.819878 returns 0 results
+2024-03-08 13:50:58,462 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:50:43.819878 returns 0 results
+2024-03-08 13:51:06,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:50:53.803734 returns 0 results
+2024-03-08 13:51:08,401 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:50:53.803734 returns 0 results
+2024-03-08 13:51:16,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:51:03.812357 returns 0 results
+2024-03-08 13:51:18,455 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:51:03.812357 returns 0 results
+2024-03-08 13:51:26,107 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:51:13.818281 returns 0 results
+2024-03-08 13:51:28,415 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:51:13.818281 returns 0 results
+2024-03-08 13:51:36,115 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:51:23.815955 returns 0 results
+2024-03-08 13:51:38,395 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:51:23.815955 returns 0 results
+2024-03-08 13:51:46,105 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:51:33.816847 returns 0 results
+2024-03-08 13:51:48,410 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:51:33.816847 returns 0 results
+2024-03-08 13:51:56,072 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:51:43.811039 returns 0 results
+2024-03-08 13:51:58,367 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:51:43.811039 returns 0 results
+2024-03-08 13:52:06,079 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:51:53.813420 returns 0 results
+2024-03-08 13:52:08,343 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:51:53.813420 returns 0 results
+2024-03-08 13:52:16,133 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:52:03.812633 returns 0 results
+2024-03-08 13:52:18,434 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:52:03.812633 returns 0 results
+2024-03-08 13:52:26,053 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:52:13.815181 returns 0 results
+2024-03-08 13:52:28,348 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:52:13.815181 returns 0 results
+2024-03-08 13:52:36,072 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:52:23.806891 returns 0 results
+2024-03-08 13:52:38,385 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:52:23.806891 returns 0 results
+2024-03-08 13:52:46,085 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:52:33.811603 returns 0 results
+2024-03-08 13:52:48,363 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:52:33.811603 returns 0 results
+2024-03-08 13:52:56,064 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:52:43.811325 returns 0 results
+2024-03-08 13:52:58,465 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:52:43.811325 returns 0 results
+2024-03-08 13:53:06,105 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:52:53.806760 returns 0 results
+2024-03-08 13:53:08,377 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:52:53.806760 returns 0 results
+2024-03-08 13:53:16,146 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:53:03.812827 returns 0 results
+2024-03-08 13:53:18,463 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:53:03.812827 returns 0 results
+2024-03-08 13:53:26,103 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:53:13.816914 returns 0 results
+2024-03-08 13:53:28,403 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:53:13.816914 returns 0 results
+2024-03-08 13:53:36,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:53:23.806674 returns 0 results
+2024-03-08 13:53:38,392 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:53:23.806674 returns 0 results
+2024-03-08 13:53:46,155 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:53:33.816149 returns 0 results
+2024-03-08 13:53:48,433 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:53:33.816149 returns 0 results
+2024-03-08 13:53:56,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:53:43.812966 returns 0 results
+2024-03-08 13:53:58,403 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:53:43.812966 returns 0 results
+2024-03-08 13:54:06,110 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:53:53.803905 returns 0 results
+2024-03-08 14:03:06,556 - basicLogger - INFO - Query for Traffic report after 2024-03-08 13:54:03.815808 returns 0 results
+2024-03-08 14:03:08,848 - basicLogger - INFO - Query for Incident report after 2024-03-08 13:54:03.815808 returns 0 results
+2024-03-08 14:03:16,077 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:03:03.816455 returns 0 results
+2024-03-08 14:03:18,375 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:03:03.816455 returns 0 results
+2024-03-08 14:03:26,095 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:03:13.815057 returns 0 results
+2024-03-08 14:03:28,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:03:13.815057 returns 0 results
+2024-03-08 14:03:36,154 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:03:23.819527 returns 0 results
+2024-03-08 14:03:38,484 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:03:23.819527 returns 0 results
+2024-03-08 14:03:46,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:03:33.805671 returns 0 results
+2024-03-08 14:03:48,407 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:03:33.805671 returns 0 results
+2024-03-08 14:03:56,066 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:03:43.812259 returns 0 results
+2024-03-08 14:03:58,383 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:03:43.812259 returns 0 results
+2024-03-08 14:04:06,094 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:03:53.806217 returns 0 results
+2024-03-08 14:04:08,356 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:03:53.806217 returns 0 results
+2024-03-08 14:04:16,065 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:04:03.815064 returns 0 results
+2024-03-08 14:04:18,335 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:03.815064 returns 0 results
+2024-03-08 14:04:26,125 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:04:13.807613 returns 0 results
+2024-03-08 14:04:28,415 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:13.807613 returns 0 results
+2024-03-08 14:04:36,125 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:04:23.807712 returns 0 results
+2024-03-08 14:04:38,413 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:23.807712 returns 0 results
+2024-03-08 14:04:46,101 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:04:33.819198 returns 0 results
+2024-03-08 14:04:48,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:33.819198 returns 0 results
+2024-03-08 14:04:56,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:04:43.818623 returns 0 results
+2024-03-08 14:04:58,384 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:43.818623 returns 0 results
+2024-03-08 14:09:13,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:53.803693 returns 0 results
+2024-03-08 14:09:16,124 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:04:53.803693 returns 0 results
+2024-03-08 14:09:18,416 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:04:53.803693 returns 0 results
+2024-03-08 14:09:26,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:09:13.822591 returns 0 results
+2024-03-08 14:09:28,336 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:09:13.822591 returns 0 results
+2024-03-08 14:09:36,099 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:09:23.807338 returns 0 results
+2024-03-08 14:09:38,379 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:09:23.807338 returns 0 results
+2024-03-08 14:09:46,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:09:33.814860 returns 0 results
+2024-03-08 14:09:48,365 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:09:33.814860 returns 0 results
+2024-03-08 14:09:56,125 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:09:43.813932 returns 0 results
+2024-03-08 14:09:58,424 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:09:43.813932 returns 0 results
+2024-03-08 14:10:06,079 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:09:53.814043 returns 0 results
+2024-03-08 14:10:08,453 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:09:53.814043 returns 0 results
+2024-03-08 14:10:16,107 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:10:03.808770 returns 0 results
+2024-03-08 14:10:18,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:10:03.808770 returns 0 results
+2024-03-08 14:10:26,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:10:13.820339 returns 0 results
+2024-03-08 14:10:28,361 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:10:13.820339 returns 0 results
+2024-03-08 14:10:36,076 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:10:23.819555 returns 0 results
+2024-03-08 14:10:38,373 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:10:23.819555 returns 0 results
+2024-03-08 14:16:56,614 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:10:33.813196 returns 0 results
+2024-03-08 14:16:58,883 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:10:33.813196 returns 0 results
+2024-03-08 14:17:06,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:16:53.816949 returns 0 results
+2024-03-08 14:17:08,373 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:16:53.816949 returns 0 results
+2024-03-08 14:17:16,151 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:17:03.807799 returns 0 results
+2024-03-08 14:17:18,573 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:17:03.807799 returns 0 results
+2024-03-08 14:17:26,121 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:17:13.814511 returns 0 results
+2024-03-08 14:17:28,435 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:17:13.814511 returns 0 results
+2024-03-08 14:17:36,096 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:17:23.822391 returns 0 results
+2024-03-08 14:17:38,405 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:17:23.822391 returns 0 results
+2024-03-08 14:17:46,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:17:33.821680 returns 0 results
+2024-03-08 14:17:48,386 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:17:33.821680 returns 0 results
+2024-03-08 14:17:56,094 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:17:43.815789 returns 0 results
+2024-03-08 14:17:58,366 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:17:43.815789 returns 0 results
+2024-03-08 14:18:06,286 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:17:53.812139 returns 0 results
+2024-03-08 14:18:08,586 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:17:53.812139 returns 0 results
+2024-03-08 14:18:16,109 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:18:03.813295 returns 0 results
+2024-03-08 14:18:18,405 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:18:03.813295 returns 0 results
+2024-03-08 14:18:26,227 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:18:13.810614 returns 0 results
+2024-03-08 14:18:28,528 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:18:13.810614 returns 0 results
+2024-03-08 14:18:36,094 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:18:23.817824 returns 0 results
+2024-03-08 14:18:38,516 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:18:23.817824 returns 0 results
+2024-03-08 14:18:46,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:18:33.813867 returns 0 results
+2024-03-08 14:18:48,336 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:18:33.813867 returns 0 results
+2024-03-08 14:18:56,111 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:18:43.811840 returns 0 results
+2024-03-08 14:18:58,485 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:18:43.811840 returns 0 results
+2024-03-08 14:19:06,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:18:53.816215 returns 0 results
+2024-03-08 14:19:08,345 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:18:53.816215 returns 0 results
+2024-03-08 14:19:16,094 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:19:03.806199 returns 0 results
+2024-03-08 14:19:18,416 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:19:03.806199 returns 0 results
+2024-03-08 14:19:26,370 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:19:13.806438 returns 0 results
+2024-03-08 14:19:28,673 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:19:13.806438 returns 0 results
+2024-03-08 14:19:36,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:19:23.805782 returns 0 results
+2024-03-08 14:19:38,363 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:19:23.805782 returns 0 results
+2024-03-08 14:19:46,077 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:19:33.813788 returns 0 results
+2024-03-08 14:19:48,334 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:19:33.813788 returns 0 results
+2024-03-08 14:19:56,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:19:43.808852 returns 0 results
+2024-03-08 14:19:58,354 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:19:43.808852 returns 0 results
+2024-03-08 14:20:06,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:19:53.806767 returns 0 results
+2024-03-08 14:20:08,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:19:53.806767 returns 0 results
+2024-03-08 14:20:16,064 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:20:03.813841 returns 0 results
+2024-03-08 14:20:18,370 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:20:03.813841 returns 0 results
+2024-03-08 14:20:26,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:20:13.803800 returns 0 results
+2024-03-08 14:20:28,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:20:13.803800 returns 0 results
+2024-03-08 14:20:36,106 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:20:23.805359 returns 0 results
+2024-03-08 14:20:38,432 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:20:23.805359 returns 0 results
+2024-03-08 14:20:46,084 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:20:33.806097 returns 0 results
+2024-03-08 14:20:48,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:20:33.806097 returns 0 results
+2024-03-08 14:20:56,104 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:20:43.806577 returns 0 results
+2024-03-08 14:20:58,380 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:20:43.806577 returns 0 results
+2024-03-08 14:21:06,087 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:20:53.809269 returns 0 results
+2024-03-08 14:21:08,394 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:20:53.809269 returns 0 results
+2024-03-08 14:21:16,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:21:03.812941 returns 0 results
+2024-03-08 14:21:18,404 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:21:03.812941 returns 0 results
+2024-03-08 14:21:26,123 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:21:13.805720 returns 0 results
+2024-03-08 14:21:28,407 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:21:13.805720 returns 0 results
+2024-03-08 14:21:36,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:21:23.813694 returns 0 results
+2024-03-08 14:21:38,339 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:21:23.813694 returns 0 results
+2024-03-08 14:21:46,086 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:21:33.804188 returns 0 results
+2024-03-08 14:21:48,404 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:21:33.804188 returns 0 results
+2024-03-08 14:21:56,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:21:43.816346 returns 0 results
+2024-03-08 14:21:58,363 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:21:43.816346 returns 0 results
+2024-03-08 14:22:06,086 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:21:53.815206 returns 0 results
+2024-03-08 14:22:08,355 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:21:53.815206 returns 0 results
+2024-03-08 14:22:16,088 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:22:03.813869 returns 0 results
+2024-03-08 14:22:18,384 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:22:03.813869 returns 0 results
+2024-03-08 14:22:26,084 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:22:13.811787 returns 0 results
+2024-03-08 14:22:28,373 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:22:13.811787 returns 0 results
+2024-03-08 14:22:36,066 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:22:23.817200 returns 0 results
+2024-03-08 14:22:38,374 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:22:23.817200 returns 0 results
+2024-03-08 14:22:46,226 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:22:33.806084 returns 0 results
+2024-03-08 14:22:48,473 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:22:33.806084 returns 0 results
+2024-03-08 14:22:56,158 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:22:43.804872 returns 0 results
+2024-03-08 14:22:58,450 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:22:43.804872 returns 0 results
+2024-03-08 14:23:06,105 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:22:53.807016 returns 0 results
+2024-03-08 14:23:08,446 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:22:53.807016 returns 0 results
+2024-03-08 14:23:16,227 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:23:03.809189 returns 0 results
+2024-03-08 14:23:18,523 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:23:03.809189 returns 0 results
+2024-03-08 14:23:26,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:23:13.815681 returns 0 results
+2024-03-08 14:23:28,360 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:23:13.815681 returns 0 results
+2024-03-08 14:32:24,597 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:23:23.808704 returns 0 results
+2024-03-08 14:32:36,135 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:23:23.808704 returns 0 results
+2024-03-08 14:32:38,494 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:23:23.808704 returns 0 results
+2024-03-08 14:32:46,097 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:32:33.809483 returns 0 results
+2024-03-08 14:32:48,377 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:32:33.809483 returns 0 results
+2024-03-08 14:32:56,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:32:43.819078 returns 0 results
+2024-03-08 14:32:58,335 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:32:43.819078 returns 0 results
+2024-03-08 14:33:06,136 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:32:53.809659 returns 0 results
+2024-03-08 14:33:08,425 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:32:53.809659 returns 0 results
+2024-03-08 14:33:16,085 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:33:03.815358 returns 0 results
+2024-03-08 14:33:18,398 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:33:03.815358 returns 0 results
+2024-03-08 14:33:26,109 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:33:13.816817 returns 0 results
+2024-03-08 14:33:28,415 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:33:13.816817 returns 0 results
+2024-03-08 14:36:21,207 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:33:23.805918 returns 0 results
+2024-03-08 14:36:26,088 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:33:23.805918 returns 0 results
+2024-03-08 14:36:28,347 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:33:23.805918 returns 0 results
+2024-03-08 14:36:36,087 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:36:23.815910 returns 0 results
+2024-03-08 14:36:38,345 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:36:23.815910 returns 0 results
+2024-03-08 14:36:46,097 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:36:33.806302 returns 0 results
+2024-03-08 14:36:48,387 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:36:33.806302 returns 0 results
+2024-03-08 14:36:56,095 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:36:43.813603 returns 0 results
+2024-03-08 14:36:58,387 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:36:43.813603 returns 0 results
+2024-03-08 14:37:06,102 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:36:53.807234 returns 0 results
+2024-03-08 14:37:08,390 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:36:53.807234 returns 0 results
+2024-03-08 14:37:16,100 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:37:03.807577 returns 0 results
+2024-03-08 14:37:18,486 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:37:03.807577 returns 0 results
+2024-03-08 14:37:26,065 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:37:13.807316 returns 0 results
+2024-03-08 14:37:28,407 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:37:13.807316 returns 0 results
+2024-03-08 14:37:36,104 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:37:23.806569 returns 0 results
+2024-03-08 14:37:38,395 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:37:23.806569 returns 0 results
+2024-03-08 14:37:46,144 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:37:33.805545 returns 0 results
+2024-03-08 14:37:48,457 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:37:33.805545 returns 0 results
+2024-03-08 14:37:56,133 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:37:43.807265 returns 0 results
+2024-03-08 14:37:58,427 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:37:43.807265 returns 0 results
+2024-03-08 14:38:06,135 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:37:53.818260 returns 0 results
+2024-03-08 14:38:08,427 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:37:53.818260 returns 0 results
+2024-03-08 14:38:16,138 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:38:03.812616 returns 0 results
+2024-03-08 14:38:18,442 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:38:03.812616 returns 0 results
+2024-03-08 14:38:26,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:38:13.807611 returns 0 results
+2024-03-08 14:38:28,336 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:38:13.807611 returns 0 results
+2024-03-08 14:38:36,113 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:38:23.819352 returns 0 results
+2024-03-08 14:38:38,417 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:38:23.819352 returns 0 results
+2024-03-08 14:38:46,080 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:38:33.810605 returns 0 results
+2024-03-08 14:38:48,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:38:33.810605 returns 0 results
+2024-03-08 14:38:56,115 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:38:43.807527 returns 0 results
+2024-03-08 14:38:58,537 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:38:43.807527 returns 0 results
+2024-03-08 14:39:06,115 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:38:53.812527 returns 0 results
+2024-03-08 14:39:08,466 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:38:53.812527 returns 0 results
+2024-03-08 14:39:16,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:39:03.814505 returns 0 results
+2024-03-08 14:39:18,365 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:39:03.814505 returns 0 results
+2024-03-08 14:39:26,097 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:39:13.807232 returns 0 results
+2024-03-08 14:39:28,537 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:39:13.807232 returns 0 results
+2024-03-08 14:39:36,166 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:39:23.806177 returns 0 results
+2024-03-08 14:39:38,465 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:39:23.806177 returns 0 results
+2024-03-08 14:39:46,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:39:33.817684 returns 0 results
+2024-03-08 14:39:48,505 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:39:33.817684 returns 0 results
+2024-03-08 14:39:56,105 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:39:43.811365 returns 0 results
+2024-03-08 14:39:58,445 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:39:43.811365 returns 0 results
+2024-03-08 14:40:06,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:39:53.814855 returns 0 results
+2024-03-08 14:40:08,573 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:39:53.814855 returns 0 results
+2024-03-08 14:40:16,087 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:40:03.803657 returns 0 results
+2024-03-08 14:40:18,375 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:40:03.803657 returns 0 results
+2024-03-08 14:40:26,111 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:40:13.815803 returns 0 results
+2024-03-08 14:40:28,415 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:40:13.815803 returns 0 results
+2024-03-08 14:40:36,125 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:40:23.814808 returns 0 results
+2024-03-08 14:40:38,479 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:40:23.814808 returns 0 results
+2024-03-08 14:40:46,125 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:40:33.816906 returns 0 results
+2024-03-08 14:40:48,525 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:40:33.816906 returns 0 results
+2024-03-08 14:40:56,159 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:40:43.815763 returns 0 results
+2024-03-08 14:40:58,451 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:40:43.815763 returns 0 results
+2024-03-08 14:41:06,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:40:53.816325 returns 0 results
+2024-03-08 14:41:08,385 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:40:53.816325 returns 0 results
+2024-03-08 14:41:16,077 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:41:03.806646 returns 0 results
+2024-03-08 14:41:18,357 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:41:03.806646 returns 0 results
+2024-03-08 14:41:26,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:41:13.819831 returns 0 results
+2024-03-08 14:41:28,357 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:41:13.819831 returns 0 results
+2024-03-08 14:41:36,130 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:41:23.798603 returns 0 results
+2024-03-08 14:41:38,715 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:41:23.798603 returns 0 results
+2024-03-08 14:41:46,171 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:41:33.804640 returns 0 results
+2024-03-08 14:41:48,690 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:41:33.804640 returns 0 results
+2024-03-08 14:41:56,149 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:41:43.809682 returns 0 results
+2024-03-08 14:41:58,556 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:41:43.809682 returns 0 results
+2024-03-08 14:42:06,101 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:41:53.812089 returns 0 results
+2024-03-08 14:42:08,505 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:41:53.812089 returns 0 results
+2024-03-08 14:42:16,275 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:42:03.815691 returns 0 results
+2024-03-08 14:42:18,755 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:42:03.815691 returns 0 results
+2024-03-08 14:42:26,104 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:42:13.816522 returns 0 results
+2024-03-08 14:42:28,385 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:42:13.816522 returns 0 results
+2024-03-08 14:42:36,160 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:42:23.807420 returns 0 results
+2024-03-08 14:42:38,455 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:42:23.807420 returns 0 results
+2024-03-08 14:42:46,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:42:33.820189 returns 0 results
+2024-03-08 14:42:48,321 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:42:33.820189 returns 0 results
+2024-03-08 14:42:56,122 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:42:43.806114 returns 0 results
+2024-03-08 14:42:58,397 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:42:43.806114 returns 0 results
+2024-03-08 14:43:06,264 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:42:53.814910 returns 0 results
+2024-03-08 14:43:08,606 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:42:53.814910 returns 0 results
+2024-03-08 14:43:16,072 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:43:03.804704 returns 0 results
+2024-03-08 14:43:18,346 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:43:03.804704 returns 0 results
+2024-03-08 14:43:26,116 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:43:13.815674 returns 0 results
+2024-03-08 14:43:28,492 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:43:13.815674 returns 0 results
+2024-03-08 14:43:36,212 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:43:23.808088 returns 0 results
+2024-03-08 14:43:38,523 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:43:23.808088 returns 0 results
+2024-03-08 14:43:46,199 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:43:33.806481 returns 0 results
+2024-03-08 14:43:48,506 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:43:33.806481 returns 0 results
+2024-03-08 14:43:56,116 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:43:43.804719 returns 0 results
+2024-03-08 14:43:58,573 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:43:43.804719 returns 0 results
+2024-03-08 14:44:06,080 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:43:53.809727 returns 0 results
+2024-03-08 14:44:08,402 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:43:53.809727 returns 0 results
+2024-03-08 14:44:16,086 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:44:03.815726 returns 0 results
+2024-03-08 14:44:18,538 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:44:03.815726 returns 0 results
+2024-03-08 14:44:26,118 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:44:13.808226 returns 0 results
+2024-03-08 14:44:28,383 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:44:13.808226 returns 0 results
+2024-03-08 14:44:36,222 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:44:23.808006 returns 0 results
+2024-03-08 14:44:38,511 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:44:23.808006 returns 0 results
+2024-03-08 14:44:46,106 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:44:33.805611 returns 0 results
+2024-03-08 14:44:48,568 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:44:33.805611 returns 0 results
+2024-03-08 14:44:56,122 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:44:43.810136 returns 0 results
+2024-03-08 14:44:58,550 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:44:43.810136 returns 0 results
+2024-03-08 14:45:06,058 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:44:53.817756 returns 0 results
+2024-03-08 14:45:08,319 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:44:53.817756 returns 0 results
+2024-03-08 14:45:16,154 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:45:03.802705 returns 0 results
+2024-03-08 14:45:18,513 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:45:03.802705 returns 0 results
+2024-03-08 14:45:26,123 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:45:13.815207 returns 0 results
+2024-03-08 14:45:28,444 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:45:13.815207 returns 0 results
+2024-03-08 14:45:36,056 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:45:23.811298 returns 0 results
+2024-03-08 14:45:38,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:45:23.811298 returns 0 results
+2024-03-08 14:45:46,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:45:33.807621 returns 0 results
+2024-03-08 14:45:48,390 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:45:33.807621 returns 0 results
+2024-03-08 14:45:56,058 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:45:43.805461 returns 0 results
+2024-03-08 14:45:58,366 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:45:43.805461 returns 0 results
+2024-03-08 14:46:06,285 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:45:53.812509 returns 0 results
+2024-03-08 14:46:08,604 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:45:53.812509 returns 0 results
+2024-03-08 14:46:16,186 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:46:03.815330 returns 0 results
+2024-03-08 14:46:18,489 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:46:03.815330 returns 0 results
+2024-03-08 14:46:26,111 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:46:13.806603 returns 0 results
+2024-03-08 14:46:28,399 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:46:13.806603 returns 0 results
+2024-03-08 14:46:36,087 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:46:23.806205 returns 0 results
+2024-03-08 14:46:38,376 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:46:23.806205 returns 0 results
+2024-03-08 14:46:46,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:46:33.811887 returns 0 results
+2024-03-08 14:46:48,450 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:46:33.811887 returns 0 results
+2024-03-08 14:46:56,121 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:46:43.816630 returns 0 results
+2024-03-08 14:46:58,418 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:46:43.816630 returns 0 results
+2024-03-08 14:47:06,119 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:46:53.820291 returns 0 results
+2024-03-08 14:47:08,407 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:46:53.820291 returns 0 results
+2024-03-08 14:47:16,089 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:47:03.810063 returns 0 results
+2024-03-08 14:47:18,392 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:47:03.810063 returns 0 results
+2024-03-08 14:47:26,091 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:47:13.803841 returns 0 results
+2024-03-08 14:47:28,366 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:47:13.803841 returns 0 results
+2024-03-08 14:47:36,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:47:23.818036 returns 0 results
+2024-03-08 14:47:38,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:47:23.818036 returns 0 results
+2024-03-08 14:47:46,187 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:47:33.819121 returns 0 results
+2024-03-08 14:47:48,492 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:47:33.819121 returns 0 results
+2024-03-08 14:47:56,121 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:47:43.808460 returns 0 results
+2024-03-08 14:47:58,417 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:47:43.808460 returns 0 results
+2024-03-08 14:48:06,099 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:47:53.810228 returns 0 results
+2024-03-08 14:48:08,392 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:47:53.810228 returns 0 results
+2024-03-08 14:48:16,095 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:48:03.805869 returns 0 results
+2024-03-08 14:48:18,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:48:03.805869 returns 0 results
+2024-03-08 14:48:26,068 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:48:13.810764 returns 0 results
+2024-03-08 14:48:28,470 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:48:13.810764 returns 0 results
+2024-03-08 14:48:36,049 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:48:23.805689 returns 0 results
+2024-03-08 14:48:38,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:48:23.805689 returns 0 results
+2024-03-08 14:48:46,110 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:48:33.805243 returns 0 results
+2024-03-08 14:48:48,396 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:48:33.805243 returns 0 results
+2024-03-08 14:48:56,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:48:43.820945 returns 0 results
+2024-03-08 14:48:58,331 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:48:43.820945 returns 0 results
+2024-03-08 14:49:06,070 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:48:53.805394 returns 0 results
+2024-03-08 14:49:08,367 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:48:53.805394 returns 0 results
+2024-03-08 14:49:16,071 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:49:03.805798 returns 0 results
+2024-03-08 14:49:18,364 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:49:03.805798 returns 0 results
+2024-03-08 14:49:26,111 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:49:13.811437 returns 0 results
+2024-03-08 14:49:28,497 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:49:13.811437 returns 0 results
+2024-03-08 14:49:36,163 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:49:23.809130 returns 0 results
+2024-03-08 14:49:38,630 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:49:23.809130 returns 0 results
+2024-03-08 14:49:46,103 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:49:33.805890 returns 0 results
+2024-03-08 14:49:48,391 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:49:33.805890 returns 0 results
+2024-03-08 14:49:56,084 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:49:43.816510 returns 0 results
+2024-03-08 14:49:58,386 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:49:43.816510 returns 0 results
+2024-03-08 14:50:06,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:49:53.814963 returns 0 results
+2024-03-08 14:50:08,359 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:49:53.814963 returns 0 results
+2024-03-08 14:50:16,094 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:50:03.816717 returns 0 results
+2024-03-08 14:50:18,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:50:03.816717 returns 0 results
+2024-03-08 14:50:26,171 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:50:13.809682 returns 0 results
+2024-03-08 14:50:28,536 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:50:13.809682 returns 0 results
+2024-03-08 14:50:36,073 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:50:23.804878 returns 0 results
+2024-03-08 14:50:38,326 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:50:23.804878 returns 0 results
+2024-03-08 14:50:46,083 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:50:33.805626 returns 0 results
+2024-03-08 14:50:48,354 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:50:33.805626 returns 0 results
+2024-03-08 14:50:56,064 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:50:43.810187 returns 0 results
+2024-03-08 14:50:58,365 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:50:43.810187 returns 0 results
+2024-03-08 14:51:06,062 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:50:53.817750 returns 0 results
+2024-03-08 14:51:08,338 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:50:53.817750 returns 0 results
+2024-03-08 14:51:16,156 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:51:03.806562 returns 0 results
+2024-03-08 14:51:18,463 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:51:03.806562 returns 0 results
+2024-03-08 14:51:26,088 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:51:13.810288 returns 0 results
+2024-03-08 14:51:28,401 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:51:13.810288 returns 0 results
+2024-03-08 14:51:36,085 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:51:23.807248 returns 0 results
+2024-03-08 14:51:38,374 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:51:23.807248 returns 0 results
+2024-03-08 14:51:46,116 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:51:33.810657 returns 0 results
+2024-03-08 14:51:48,433 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:51:33.810657 returns 0 results
+2024-03-08 14:51:56,120 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:51:43.820973 returns 0 results
+2024-03-08 14:51:58,434 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:51:43.820973 returns 0 results
+2024-03-08 14:52:06,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:51:53.809888 returns 0 results
+2024-03-08 14:52:08,328 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:51:53.809888 returns 0 results
+2024-03-08 14:52:16,093 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:52:03.811068 returns 0 results
+2024-03-08 14:52:18,370 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:52:03.811068 returns 0 results
+2024-03-08 14:52:26,080 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:52:13.805793 returns 0 results
+2024-03-08 14:52:28,382 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:52:13.805793 returns 0 results
+2024-03-08 14:52:36,294 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:52:23.813729 returns 0 results
+2024-03-08 14:52:38,579 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:52:23.813729 returns 0 results
+2024-03-08 14:52:46,160 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:52:33.804220 returns 0 results
+2024-03-08 14:52:48,431 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:52:33.804220 returns 0 results
+2024-03-08 14:52:56,097 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:52:43.805910 returns 0 results
+2024-03-08 14:52:58,420 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:52:43.805910 returns 0 results
+2024-03-08 14:53:06,092 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:52:53.811815 returns 0 results
+2024-03-08 14:53:08,451 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:52:53.811815 returns 0 results
+2024-03-08 14:53:16,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:53:03.810118 returns 0 results
+2024-03-08 14:53:18,421 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:53:03.810118 returns 0 results
+2024-03-08 14:53:26,186 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:53:13.806552 returns 0 results
+2024-03-08 14:53:28,519 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:53:13.806552 returns 0 results
+2024-03-08 14:53:36,095 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:53:23.813034 returns 0 results
+2024-03-08 14:53:38,349 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:53:23.813034 returns 0 results
+2024-03-08 14:53:46,172 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:53:33.811597 returns 0 results
+2024-03-08 14:53:48,524 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:53:33.811597 returns 0 results
+2024-03-08 14:53:56,080 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:53:43.809171 returns 0 results
+2024-03-08 14:53:58,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:53:43.809171 returns 0 results
+2024-03-08 14:54:06,065 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:53:53.810714 returns 0 results
+2024-03-08 14:54:08,348 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:53:53.810714 returns 0 results
+2024-03-08 14:54:16,059 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:54:03.805524 returns 0 results
+2024-03-08 14:54:18,338 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:54:03.805524 returns 0 results
+2024-03-08 14:54:26,167 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:54:13.811015 returns 0 results
+2024-03-08 14:54:28,463 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:54:13.811015 returns 0 results
+2024-03-08 14:54:36,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:54:23.805395 returns 0 results
+2024-03-08 14:54:38,324 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:54:23.805395 returns 0 results
+2024-03-08 14:54:46,075 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:54:33.808824 returns 0 results
+2024-03-08 14:54:48,434 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:54:33.808824 returns 0 results
+2024-03-08 14:54:56,054 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:54:43.805745 returns 0 results
+2024-03-08 14:54:58,349 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:54:43.805745 returns 0 results
+2024-03-08 14:55:06,109 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:54:53.808281 returns 0 results
+2024-03-08 14:55:08,410 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:54:53.808281 returns 0 results
+2024-03-08 14:55:16,166 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:55:03.807421 returns 0 results
+2024-03-08 14:55:18,536 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:55:03.807421 returns 0 results
+2024-03-08 14:55:26,067 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:55:13.809775 returns 0 results
+2024-03-08 14:55:28,542 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:55:13.809775 returns 0 results
+2024-03-08 14:55:36,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:55:23.807077 returns 0 results
+2024-03-08 14:55:38,359 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:55:23.807077 returns 0 results
+2024-03-08 14:55:46,186 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:55:33.813817 returns 0 results
+2024-03-08 14:55:48,441 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:55:33.813817 returns 0 results
+2024-03-08 14:55:56,103 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:55:43.816274 returns 0 results
+2024-03-08 14:55:58,416 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:55:43.816274 returns 0 results
+2024-03-08 14:56:06,108 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:55:53.809057 returns 0 results
+2024-03-08 14:56:08,454 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:55:53.809057 returns 0 results
+2024-03-08 14:56:16,085 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:56:03.810500 returns 0 results
+2024-03-08 14:56:18,439 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:56:03.810500 returns 0 results
+2024-03-08 14:56:26,078 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:56:13.817327 returns 0 results
+2024-03-08 14:56:28,371 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:56:13.817327 returns 0 results
+2024-03-08 14:56:36,068 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:56:23.811282 returns 0 results
+2024-03-08 14:56:38,368 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:56:23.811282 returns 0 results
+2024-03-08 14:56:46,180 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:56:33.806298 returns 0 results
+2024-03-08 14:56:48,510 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:56:33.806298 returns 0 results
+2024-03-08 14:56:56,077 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:56:43.809050 returns 0 results
+2024-03-08 14:56:58,337 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:56:43.809050 returns 0 results
+2024-03-08 14:57:06,091 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:56:53.810175 returns 0 results
+2024-03-08 14:57:08,384 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:56:53.810175 returns 0 results
+2024-03-08 14:57:16,050 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:57:03.815836 returns 0 results
+2024-03-08 14:57:18,440 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:57:03.815836 returns 0 results
+2024-03-08 15:04:41,029 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-08 15:04:41,144 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-08 15:05:01,999 - basicLogger - INFO - Query for Traffic report after 2024-03-08 14:57:13.806561 returns 0 results
+2024-03-08 15:05:04,309 - basicLogger - INFO - Query for Incident report after 2024-03-08 14:57:13.806561 returns 0 results
+2024-03-08 15:05:11,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:04:58.745761 returns 0 results
+2024-03-08 15:05:13,293 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:04:58.745761 returns 0 results
+2024-03-08 15:05:20,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:05:08.745701 returns 0 results
+2024-03-08 15:05:23,268 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:05:08.745701 returns 0 results
+2024-03-08 15:05:31,010 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:05:18.734103 returns 0 results
+2024-03-08 15:05:33,329 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:05:18.734103 returns 0 results
+2024-03-08 15:05:41,002 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:05:28.735885 returns 0 results
+2024-03-08 15:05:43,274 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:05:28.735885 returns 0 results
+2024-03-08 15:05:51,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:05:38.733649 returns 0 results
+2024-03-08 15:05:53,323 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:05:38.733649 returns 0 results
+2024-03-08 15:06:00,992 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:05:48.741332 returns 0 results
+2024-03-08 15:06:03,295 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:05:48.741332 returns 0 results
+2024-03-08 15:06:10,999 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:05:58.738890 returns 0 results
+2024-03-08 15:06:13,263 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:05:58.738890 returns 0 results
+2024-03-08 15:06:21,019 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:06:08.745788 returns 0 results
+2024-03-08 15:06:23,279 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:06:08.745788 returns 0 results
+2024-03-08 15:06:31,019 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:06:18.737559 returns 0 results
+2024-03-08 15:06:33,309 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:06:18.737559 returns 0 results
+2024-03-08 15:06:41,010 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:06:28.730975 returns 0 results
+2024-03-08 15:06:43,303 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:06:28.730975 returns 0 results
+2024-03-08 15:06:50,997 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:06:38.745664 returns 0 results
+2024-03-08 15:06:53,274 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:06:38.745664 returns 0 results
+2024-03-08 15:07:01,051 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:06:48.739692 returns 0 results
+2024-03-08 15:07:03,339 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:06:48.739692 returns 0 results
+2024-03-08 15:07:11,031 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:06:58.745575 returns 0 results
+2024-03-08 15:07:13,339 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:06:58.745575 returns 0 results
+2024-03-08 15:07:21,019 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:07:08.735027 returns 0 results
+2024-03-08 15:07:23,272 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:07:08.735027 returns 0 results
+2024-03-08 15:07:31,004 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:07:18.731020 returns 0 results
+2024-03-08 15:07:33,309 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:07:18.731020 returns 0 results
+2024-03-08 15:07:40,991 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:07:28.737899 returns 0 results
+2024-03-08 15:07:43,275 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:07:28.737899 returns 0 results
+2024-03-08 15:07:51,039 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:07:38.736829 returns 0 results
+2024-03-08 15:07:53,341 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:07:38.736829 returns 0 results
+2024-03-08 15:08:01,021 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:07:48.733727 returns 0 results
+2024-03-08 15:08:03,272 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:07:48.733727 returns 0 results
+2024-03-08 15:08:10,997 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:07:58.735860 returns 0 results
+2024-03-08 15:08:13,245 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:07:58.735860 returns 0 results
+2024-03-08 15:08:20,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:08:08.739003 returns 0 results
+2024-03-08 15:08:23,291 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:08:08.739003 returns 0 results
+2024-03-08 15:08:30,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:08:18.732509 returns 0 results
+2024-03-08 15:08:33,279 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:08:18.732509 returns 0 results
+2024-03-08 15:08:40,991 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:08:28.738737 returns 0 results
+2024-03-08 15:08:43,260 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:08:28.738737 returns 0 results
+2024-03-08 15:08:51,033 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:08:38.731851 returns 0 results
+2024-03-08 15:08:53,324 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:08:38.731851 returns 0 results
+2024-03-08 15:09:01,002 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:08:48.732194 returns 0 results
+2024-03-08 15:09:03,259 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:08:48.732194 returns 0 results
+2024-03-08 15:09:11,000 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:08:58.734489 returns 0 results
+2024-03-08 15:09:13,292 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:08:58.734489 returns 0 results
+2024-03-08 15:09:21,041 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:09:08.730795 returns 0 results
+2024-03-08 15:09:23,292 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:09:08.730795 returns 0 results
+2024-03-08 15:09:31,039 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:09:18.733560 returns 0 results
+2024-03-08 15:09:33,330 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:09:18.733560 returns 0 results
+2024-03-08 15:09:41,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:09:28.736343 returns 0 results
+2024-03-08 15:09:43,321 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:09:28.736343 returns 0 results
+2024-03-08 15:09:51,006 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:09:38.737891 returns 0 results
+2024-03-08 15:09:53,250 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:09:38.737891 returns 0 results
+2024-03-08 15:10:00,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:09:48.734623 returns 0 results
+2024-03-08 15:10:03,289 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:09:48.734623 returns 0 results
+2024-03-08 15:10:10,999 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:09:58.739850 returns 0 results
+2024-03-08 15:10:13,264 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:09:58.739850 returns 0 results
+2024-03-08 15:10:20,979 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:10:08.738109 returns 0 results
+2024-03-08 15:10:23,259 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:10:08.738109 returns 0 results
+2024-03-08 15:10:31,011 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:10:18.738632 returns 0 results
+2024-03-08 15:10:33,299 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:10:18.738632 returns 0 results
+2024-03-08 15:10:41,013 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:10:28.735212 returns 0 results
+2024-03-08 15:10:43,304 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:10:28.735212 returns 0 results
+2024-03-08 15:10:50,994 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:10:38.742848 returns 0 results
+2024-03-08 15:10:53,308 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:10:38.742848 returns 0 results
+2024-03-08 15:11:01,043 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:10:48.733844 returns 0 results
+2024-03-08 15:11:03,340 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:10:48.733844 returns 0 results
+2024-03-08 15:11:10,973 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:10:58.742198 returns 0 results
+2024-03-08 15:11:13,264 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:10:58.742198 returns 0 results
+2024-03-08 15:11:21,014 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:11:08.741989 returns 0 results
+2024-03-08 15:11:23,309 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:11:08.741989 returns 0 results
+2024-03-08 15:11:30,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:11:18.737580 returns 0 results
+2024-03-08 15:11:33,234 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:11:18.737580 returns 0 results
+2024-03-08 15:11:40,988 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:11:28.732560 returns 0 results
+2024-03-08 15:11:43,276 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:11:28.732560 returns 0 results
+2024-03-08 15:11:51,022 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:11:38.736191 returns 0 results
+2024-03-08 15:11:53,309 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:11:38.736191 returns 0 results
+2024-03-08 15:12:01,027 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:11:48.743698 returns 0 results
+2024-03-08 15:12:03,346 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:11:48.743698 returns 0 results
+2024-03-08 15:12:10,994 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:11:58.737752 returns 0 results
+2024-03-08 15:12:13,257 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:11:58.737752 returns 0 results
+2024-03-08 15:12:20,997 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:12:08.738753 returns 0 results
+2024-03-08 15:12:23,250 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:12:08.738753 returns 0 results
+2024-03-08 15:12:30,990 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:12:18.732618 returns 0 results
+2024-03-08 15:12:33,279 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:12:18.732618 returns 0 results
+2024-03-08 15:12:40,969 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:12:28.729446 returns 0 results
+2024-03-08 15:12:43,252 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:12:28.729446 returns 0 results
+2024-03-08 15:12:51,029 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:12:38.737665 returns 0 results
+2024-03-08 15:12:53,319 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:12:38.737665 returns 0 results
+2024-03-08 15:14:21,482 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:12:48.732378 returns 0 results
+2024-03-08 15:14:23,741 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:12:48.732378 returns 0 results
+2024-03-08 15:14:31,021 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:14:18.736097 returns 0 results
+2024-03-08 15:14:33,324 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:14:18.736097 returns 0 results
+2024-03-08 15:14:41,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:14:28.736109 returns 0 results
+2024-03-08 15:14:43,300 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:14:28.736109 returns 0 results
+2024-03-08 15:14:43,529 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-08T23:14:43', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 0, 'trace_id': 'ba8b3d41-d3ea-4aae-979c-62aa87011685'}}
+2024-03-08 15:14:51,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:14:38.740867 returns 0 results
+2024-03-08 15:14:53,263 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:14:38.740867 returns 0 results
+2024-03-08 15:15:01,000 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:14:48.739590 returns 0 results
+2024-03-08 15:15:03,259 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:14:48.739590 returns 0 results
+2024-03-08 15:15:11,029 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:14:58.741407 returns 0 results
+2024-03-08 15:15:13,301 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:14:58.741407 returns 0 results
+2024-03-08 15:15:21,014 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:15:08.746128 returns 0 results
+2024-03-08 15:15:23,335 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:15:08.746128 returns 0 results
+2024-03-08 15:15:26,773 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-08T23:15:26', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 2, 'trace_id': '5421d54a-a6b2-40db-bbf3-8c54345f8b82'}}
+2024-03-08 15:15:31,048 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:15:18.735548 returns 0 results
+2024-03-08 15:15:33,304 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:15:18.735548 returns 0 results
+2024-03-08 15:15:40,995 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:15:28.746170 returns 0 results
+2024-03-08 15:15:43,292 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:15:28.746170 returns 0 results
+2024-03-08 15:15:43,931 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-08T23:15:43', 'payload': {'accident_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'cameraId': '12345', 'timestamp': '2023-02-21T09:12:33.001Z', 'incidentType': 'test2', 'trace_id': '6c704a1b-d597-4db0-a164-af4bd1117205'}}
+2024-03-08 15:15:51,492 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:15:38.737988 returns 0 results
+2024-03-08 15:15:53,748 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:15:38.737988 returns 0 results
+2024-03-08 15:16:01,017 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:15:48.732876 returns 0 results
+2024-03-08 15:16:03,405 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:15:48.732876 returns 0 results
+2024-03-08 15:16:11,052 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:15:58.733610 returns 0 results
+2024-03-08 15:16:13,304 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:15:58.733610 returns 0 results
+2024-03-08 15:16:21,020 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:16:08.740372 returns 0 results
+2024-03-08 15:16:23,303 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:16:08.740372 returns 0 results
+2024-03-08 15:16:31,019 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:16:18.731600 returns 0 results
+2024-03-08 15:16:33,283 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:16:18.731600 returns 0 results
+2024-03-08 15:16:40,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:16:28.733089 returns 0 results
+2024-03-08 15:16:43,309 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:16:28.733089 returns 0 results
+2024-03-08 15:16:50,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:16:38.736243 returns 0 results
+2024-03-08 15:16:53,311 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:16:38.736243 returns 0 results
+2024-03-08 15:17:01,019 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:16:48.732440 returns 0 results
+2024-03-08 15:17:03,314 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:16:48.732440 returns 0 results
+2024-03-08 15:17:10,993 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:16:58.732866 returns 0 results
+2024-03-08 15:17:13,271 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:16:58.732866 returns 0 results
+2024-03-08 15:17:21,049 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:17:08.732983 returns 0 results
+2024-03-08 15:17:23,310 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:17:08.732983 returns 0 results
+2024-03-08 15:17:30,992 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:17:18.735660 returns 0 results
+2024-03-08 15:17:33,279 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:17:18.735660 returns 0 results
+2024-03-08 15:17:41,029 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:17:28.740180 returns 0 results
+2024-03-08 15:17:43,315 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:17:28.740180 returns 0 results
+2024-03-08 15:17:50,992 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:17:38.739098 returns 0 results
+2024-03-08 15:17:53,279 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:17:38.739098 returns 0 results
+2024-03-08 15:18:00,998 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:17:48.731819 returns 0 results
+2024-03-08 15:18:03,281 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:17:48.731819 returns 0 results
+2024-03-08 15:18:10,989 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:17:58.735498 returns 0 results
+2024-03-08 15:18:13,281 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:17:58.735498 returns 0 results
+2024-03-08 15:18:21,031 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:18:08.733074 returns 0 results
+2024-03-08 15:18:23,286 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:18:08.733074 returns 0 results
+2024-03-08 15:18:30,998 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:18:18.746297 returns 0 results
+2024-03-08 15:18:33,283 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:18:18.746297 returns 0 results
+2024-03-08 15:18:41,102 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:18:28.744023 returns 0 results
+2024-03-08 15:18:43,391 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:18:28.744023 returns 0 results
+2024-03-08 15:18:43,479 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-08T23:18:43', 'payload': {'traffic_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'intersectionId': 'DouglasRd', 'dateRecorded': '2023-02-21T09:12:33.001Z', 'vehicleCount': 10, 'trace_id': '5475cc6f-4be5-41c5-b62a-7abb57026265'}}
+2024-03-08 15:18:51,001 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:18:38.738654 returns 0 results
+2024-03-08 15:18:53,269 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:18:38.738654 returns 0 results
+2024-03-08 15:19:01,048 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:18:48.735888 returns 0 results
+2024-03-08 15:19:03,350 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:18:48.735888 returns 0 results
+2024-03-08 15:19:11,074 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:18:58.736270 returns 0 results
+2024-03-08 15:19:13,459 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:18:58.736270 returns 0 results
+2024-03-08 15:19:21,001 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:19:08.739436 returns 0 results
+2024-03-08 15:19:23,289 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:19:08.739436 returns 0 results
+2024-03-08 15:19:31,043 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:19:18.733765 returns 0 results
+2024-03-08 15:19:33,360 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:19:18.733765 returns 0 results
+2024-03-08 15:19:41,070 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:19:28.742130 returns 0 results
+2024-03-08 15:19:43,361 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:19:28.742130 returns 0 results
+2024-03-08 15:19:51,041 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:19:38.743836 returns 0 results
+2024-03-08 15:19:53,363 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:19:38.743836 returns 0 results
+2024-03-08 15:20:01,041 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:19:48.740674 returns 0 results
+2024-03-08 15:20:03,399 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:19:48.740674 returns 0 results
+2024-03-08 15:20:11,081 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:19:58.743290 returns 0 results
+2024-03-08 15:20:13,341 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:19:58.743290 returns 0 results
+2024-03-08 15:20:21,013 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:20:08.733718 returns 0 results
+2024-03-08 15:20:23,299 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:20:08.733718 returns 0 results
+2024-03-08 15:20:31,082 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:20:18.740375 returns 0 results
+2024-03-08 15:20:33,401 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:20:18.740375 returns 0 results
+2024-03-08 15:20:41,010 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:20:28.735781 returns 0 results
+2024-03-08 15:20:43,269 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:20:28.735781 returns 0 results
+2024-03-08 15:20:51,049 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:20:38.735723 returns 0 results
+2024-03-08 15:20:53,399 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:20:38.735723 returns 0 results
+2024-03-08 15:21:00,986 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:20:48.735781 returns 0 results
+2024-03-08 15:21:03,239 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:20:48.735781 returns 0 results
+2024-03-08 15:21:11,016 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:20:58.735743 returns 0 results
+2024-03-08 15:21:13,301 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:20:58.735743 returns 0 results
+2024-03-08 15:21:21,024 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:21:08.734147 returns 0 results
+2024-03-08 15:21:23,278 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:21:08.734147 returns 0 results
+2024-03-08 15:21:31,019 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:21:18.733419 returns 0 results
+2024-03-08 15:21:33,305 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:21:18.733419 returns 0 results
+2024-03-08 15:21:41,024 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:21:28.744117 returns 0 results
+2024-03-08 15:21:43,338 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:21:28.744117 returns 0 results
+2024-03-08 15:21:51,020 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:21:38.739848 returns 0 results
+2024-03-08 15:21:53,378 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:21:38.739848 returns 0 results
+2024-03-08 15:22:01,058 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:21:48.736104 returns 0 results
+2024-03-08 15:22:03,379 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:21:48.736104 returns 0 results
+2024-03-08 15:22:11,091 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:21:58.737882 returns 0 results
+2024-03-08 15:22:13,412 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:21:58.737882 returns 0 results
+2024-03-08 15:22:21,027 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:22:08.747353 returns 0 results
+2024-03-08 15:22:23,313 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:22:08.747353 returns 0 results
+2024-03-08 15:22:31,059 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:22:18.742557 returns 0 results
+2024-03-08 15:22:33,415 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:22:18.742557 returns 0 results
+2024-03-08 15:22:40,992 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:22:28.739512 returns 0 results
+2024-03-08 15:22:43,283 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:22:28.739512 returns 0 results
+2024-03-08 15:22:51,059 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:22:38.733137 returns 0 results
+2024-03-08 15:22:53,319 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:22:38.733137 returns 0 results
+2024-03-08 15:23:00,993 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:22:48.736776 returns 0 results
+2024-03-08 15:23:03,317 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:22:48.736776 returns 0 results
+2024-03-08 15:23:11,029 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:22:58.734014 returns 0 results
+2024-03-08 15:23:13,384 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:22:58.734014 returns 0 results
+2024-03-08 15:23:21,063 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:23:08.735833 returns 0 results
+2024-03-08 15:23:23,388 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:23:08.735833 returns 0 results
+2024-03-08 15:23:31,062 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:23:18.744602 returns 0 results
+2024-03-08 15:23:33,353 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:23:18.744602 returns 0 results
+2024-03-08 15:23:41,031 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:23:28.741412 returns 0 results
+2024-03-08 15:23:43,389 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:23:28.741412 returns 0 results
+2024-03-08 15:23:51,034 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:23:38.737190 returns 0 results
+2024-03-08 15:23:53,289 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:23:38.737190 returns 0 results
+2024-03-08 15:24:01,006 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:23:48.734291 returns 0 results
+2024-03-08 15:24:03,293 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:23:48.734291 returns 0 results
+2024-03-08 15:24:11,029 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:23:58.735804 returns 0 results
+2024-03-08 15:24:13,319 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:23:58.735804 returns 0 results
+2024-03-08 15:24:21,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:24:08.739988 returns 0 results
+2024-03-08 15:24:23,319 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:24:08.739988 returns 0 results
+2024-03-08 15:24:31,009 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:24:18.739940 returns 0 results
+2024-03-08 15:24:33,290 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:24:18.739940 returns 0 results
+2024-03-16 23:37:46,088 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-16 23:37:46,293 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-16 23:38:34,445 - basicLogger - INFO - Query for Traffic report after 2024-03-08 15:24:28.733504 returns 3 results
+2024-03-16 23:38:36,762 - basicLogger - INFO - Query for Incident report after 2024-03-08 15:24:28.733504 returns 1 results
+2024-03-16 23:38:43,301 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:38:31.030810 returns 0 results
+2024-03-16 23:38:45,799 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:38:31.030810 returns 0 results
+2024-03-16 23:38:51,680 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T06:38:40', 'payload': {'accident_id': '3fa85f64-5717-4562-b3fc-2c963f66afa6', 'cameraId': '12345', 'timestamp': '2023-02-21T09:12:33.001Z', 'incidentType': 'test2', 'trace_id': '56fc1764-d7c4-4e04-a86a-a6a1e10178d2'}}
+2024-03-16 23:38:53,675 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:38:41.006700 returns 0 results
+2024-03-16 23:38:56,343 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:38:41.006700 returns 0 results
+2024-03-16 23:39:03,328 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:38:51.005801 returns 0 results
+2024-03-16 23:39:05,838 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:38:51.005801 returns 0 results
+2024-03-16 23:39:13,309 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:39:01.018151 returns 0 results
+2024-03-16 23:39:15,599 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:39:01.018151 returns 0 results
+2024-03-16 23:39:23,332 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:39:11.008096 returns 0 results
+2024-03-16 23:39:25,640 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:39:11.008096 returns 0 results
+2024-03-16 23:39:33,332 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:39:21.006172 returns 0 results
+2024-03-16 23:39:35,654 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:39:21.006172 returns 0 results
+2024-03-16 23:39:43,331 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:39:31.011526 returns 0 results
+2024-03-16 23:39:45,710 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:39:31.011526 returns 0 results
+2024-03-16 23:39:53,312 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:39:41.009823 returns 0 results
+2024-03-16 23:39:55,623 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:39:41.009823 returns 0 results
+2024-03-16 23:40:03,392 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:39:51.011408 returns 0 results
+2024-03-16 23:40:05,728 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:39:51.011408 returns 0 results
+2024-03-16 23:40:13,366 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:40:01.008781 returns 0 results
+2024-03-16 23:40:15,693 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:40:01.008781 returns 0 results
+2024-03-16 23:40:23,338 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:40:11.019838 returns 0 results
+2024-03-16 23:40:25,634 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:40:11.019838 returns 0 results
+2024-03-16 23:40:33,374 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:40:21.016419 returns 0 results
+2024-03-16 23:40:35,701 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:40:21.016419 returns 0 results
+2024-03-16 23:40:43,328 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:40:31.015201 returns 0 results
+2024-03-16 23:40:45,683 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:40:31.015201 returns 0 results
+2024-03-16 23:40:53,321 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:40:41.010975 returns 0 results
+2024-03-16 23:40:55,648 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:40:41.010975 returns 0 results
+2024-03-16 23:41:03,336 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:40:51.020902 returns 0 results
+2024-03-16 23:41:05,644 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:40:51.020902 returns 0 results
+2024-03-16 23:41:13,585 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:41:01.008348 returns 0 results
+2024-03-16 23:41:15,908 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:41:01.008348 returns 0 results
+2024-03-16 23:41:23,325 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:41:11.015245 returns 0 results
+2024-03-16 23:41:25,642 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:41:11.015245 returns 0 results
+2024-03-16 23:41:33,361 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:41:21.015901 returns 0 results
+2024-03-16 23:41:35,679 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:41:21.015901 returns 0 results
+2024-03-16 23:41:43,353 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:41:31.015074 returns 0 results
+2024-03-16 23:41:45,742 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:41:31.015074 returns 0 results
+2024-03-16 23:41:53,335 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:41:41.023039 returns 0 results
+2024-03-16 23:41:55,662 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:41:41.023039 returns 0 results
+2024-03-16 23:42:03,322 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:41:51.015778 returns 0 results
+2024-03-16 23:42:05,636 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:41:51.015778 returns 0 results
+2024-03-16 23:42:13,344 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:42:01.013295 returns 0 results
+2024-03-16 23:42:15,735 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:42:01.013295 returns 0 results
+2024-03-16 23:42:23,349 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:42:11.019285 returns 0 results
+2024-03-16 23:42:25,691 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:42:11.019285 returns 0 results
+2024-03-16 23:42:33,373 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:42:21.017418 returns 0 results
+2024-03-16 23:42:35,803 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:42:21.017418 returns 0 results
+2024-03-16 23:42:43,341 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:42:31.019519 returns 0 results
+2024-03-16 23:42:45,682 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:42:31.019519 returns 0 results
+2024-03-16 23:42:53,362 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:42:41.009663 returns 0 results
+2024-03-16 23:42:55,670 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:42:41.009663 returns 0 results
+2024-03-16 23:43:03,327 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:42:51.010380 returns 0 results
+2024-03-16 23:43:05,666 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:42:51.010380 returns 0 results
+2024-03-16 23:43:13,337 - basicLogger - INFO - Query for Traffic report after 2024-03-16 23:43:01.007382 returns 0 results
+2024-03-16 23:43:15,644 - basicLogger - INFO - Query for Incident report after 2024-03-16 23:43:01.007382 returns 0 results
+2024-03-17 11:05:40,730 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-17 11:05:40,876 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-17 11:06:41,937 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-17 11:06:42,077 - basicLogger - INFO - Connecting to events. Hostname:acit3855-kafla.eastus2.cloudapp.azure.com, Port:3306
+2024-03-17 11:08:21,038 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:08:17.832649 returns 0 results
+2024-03-17 11:08:23,335 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:08:17.832649 returns 0 results
+2024-03-17 11:08:30,078 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:08:17.833954 returns 0 results
+2024-03-17 11:08:32,333 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:08:17.833954 returns 0 results
+2024-03-17 11:08:40,101 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:08:27.810967 returns 0 results
+2024-03-17 11:08:42,386 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:08:27.810967 returns 0 results
+2024-03-17 11:08:50,055 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:08:37.818111 returns 0 results
+2024-03-17 11:08:52,321 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:08:37.818111 returns 0 results
+2024-03-17 11:09:00,096 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:08:47.815598 returns 0 results
+2024-03-17 11:09:02,381 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:08:47.815598 returns 0 results
+2024-03-17 11:09:10,082 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:08:57.826840 returns 0 results
+2024-03-17 11:09:12,417 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:08:57.826840 returns 0 results
+2024-03-17 11:09:20,090 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:09:07.828250 returns 0 results
+2024-03-17 11:09:22,366 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:09:07.828250 returns 0 results
+2024-03-17 11:09:28,207 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:28', 'payload': {'traffic_id': 'f3f79ed4-4946-4654-a4d5-f81c427662f3', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:27', 'vehicleCount': 13, 'trace_id': '7c109fdd-d5fa-4a01-9500-373183d8a8dd'}}
+2024-03-17 11:09:28,503 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:28', 'payload': {'traffic_id': '02f5c914-486b-4e86-878d-28f0879569d0', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:27', 'vehicleCount': 34, 'trace_id': '0f592027-fd2f-4fc9-b209-6bbcfd12ed11'}}
+2024-03-17 11:09:28,795 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:28', 'payload': {'traffic_id': 'a1b729c5-4f56-4c69-972b-02508239b378', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:27', 'vehicleCount': 67, 'trace_id': 'c0b59f2f-9f3f-4039-8281-a7d066035e69'}}
+2024-03-17 11:09:29,090 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:28', 'payload': {'traffic_id': 'b9b023cf-8362-47d4-b5a2-81d713dd5852', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:27', 'vehicleCount': 93, 'trace_id': '1ae6d5ea-d7a0-40a6-a87b-af469ee8f90d'}}
+2024-03-17 11:09:29,377 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:28', 'payload': {'traffic_id': '2acad097-6089-4ed9-8eab-d6beef2addb2', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:27', 'vehicleCount': 30, 'trace_id': '4e58354c-a846-4584-afb6-fa1cceba8494'}}
+2024-03-17 11:09:30,086 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:09:17.823583 returns 0 results
+2024-03-17 11:09:32,357 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:09:17.823583 returns 0 results
+2024-03-17 11:09:33,754 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:33', 'payload': {'accident_id': '28b640ff-6d1e-4a0e-925f-25de6fd3aaa9', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:33', 'incidentType': 'string', 'trace_id': 'bcf17213-b30b-4a0d-a2c3-a2bbd256ba5f'}}
+2024-03-17 11:09:34,050 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:33', 'payload': {'accident_id': '40d7fc45-ad59-495c-a94a-3246ae3c95c3', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:33', 'incidentType': 'string', 'trace_id': '8aed2dd8-bd78-4821-acef-067ec03c27d4'}}
+2024-03-17 11:09:34,345 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:33', 'payload': {'accident_id': '85bbc62e-a276-41fb-b01a-aa2fb1b89db4', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:33', 'incidentType': 'string', 'trace_id': '43cdcb5a-c839-44e4-854e-6948680de90f'}}
+2024-03-17 11:09:34,633 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:33', 'payload': {'accident_id': '38c29a67-0358-4593-86e5-b58f7efb43ae', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:33', 'incidentType': 'string', 'trace_id': '8d21124f-bd76-43eb-aa2b-61bbf4b861c7'}}
+2024-03-17 11:09:34,925 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:33', 'payload': {'accident_id': 'e3a858c4-637d-48d1-ad1e-afaa84687a5e', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:33', 'incidentType': 'string', 'trace_id': '3aa2109d-1de5-4d93-a602-3a3595dfd609'}}
+2024-03-17 11:09:39,398 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:39', 'payload': {'traffic_id': 'd824dd84-6327-4915-a957-9cef9a83f6fa', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:38', 'vehicleCount': 33, 'trace_id': 'd0e00e1e-25a5-40b8-8dc4-6d417fd15c36'}}
+2024-03-17 11:09:39,692 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:39', 'payload': {'traffic_id': '9ea7935c-a126-408e-bf42-51a02ffb5913', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:38', 'vehicleCount': 68, 'trace_id': 'ff6fcc6d-b955-4ca4-a8d8-ea6d149de29c'}}
+2024-03-17 11:09:39,980 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:39', 'payload': {'traffic_id': 'ff1518df-d7c0-4d51-8f83-17de338f4322', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:38', 'vehicleCount': 36, 'trace_id': '36e4d22f-f4e6-4002-8786-2aeb8e15ac5e'}}
+2024-03-17 11:09:40,276 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:39', 'payload': {'traffic_id': '6bd83ea5-db9b-4aa5-8986-e492b46a5bb7', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:38', 'vehicleCount': 56, 'trace_id': '9d7d8ac5-22ad-40e4-9dce-935c2337b00f'}}
+2024-03-17 11:09:40,532 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:09:27.820218 returns 0 results
+2024-03-17 11:09:40,566 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:39', 'payload': {'traffic_id': 'e661368a-e32b-4402-9343-975e970aa4e4', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:38', 'vehicleCount': 69, 'trace_id': 'ddbd3bd5-fed7-42a3-896b-ed0e20891fec'}}
+2024-03-17 11:09:42,811 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:09:27.820218 returns 0 results
+2024-03-17 11:09:44,877 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:44', 'payload': {'accident_id': 'e73ca093-97d9-4c8a-9f6e-61e403740117', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:44', 'incidentType': 'string', 'trace_id': 'cbf2cc74-54d3-4eb6-af30-e56e5380d412'}}
+2024-03-17 11:09:45,197 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:44', 'payload': {'accident_id': '2b10bcbc-e6d3-407c-bf16-3a8331ab987b', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:44', 'incidentType': 'string', 'trace_id': '3a725de8-f0db-49b0-a6df-11ae18547151'}}
+2024-03-17 11:09:45,487 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:44', 'payload': {'accident_id': 'd576a264-543c-42e2-8be0-2c07ac12ab68', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:44', 'incidentType': 'string', 'trace_id': '87e27ebe-fd4e-40ea-a781-5a7a2b6f1e47'}}
+2024-03-17 11:09:45,780 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:44', 'payload': {'accident_id': 'd9a9c48f-3e13-4330-962c-b20506176230', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:44', 'incidentType': 'string', 'trace_id': '1fcf3bd1-3b73-4630-b09c-c0db7a5e8553'}}
+2024-03-17 11:09:46,071 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:44', 'payload': {'accident_id': '35a5db1f-6381-4f27-aa4f-38ff16b309f3', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:44', 'incidentType': 'string', 'trace_id': '3f68d4fa-2c32-4591-8e81-67d0c38db51e'}}
+2024-03-17 11:09:50,102 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:09:37.825042 returns 0 results
+2024-03-17 11:09:50,363 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:50', 'payload': {'traffic_id': '2ed073b8-dbd8-431e-abb8-14c8474a1003', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:49', 'vehicleCount': 1, 'trace_id': '457baed9-22ce-4da8-8926-fb97aac44245'}}
+2024-03-17 11:09:50,652 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:50', 'payload': {'traffic_id': 'f3a27431-2262-4680-bb47-a988ba993ed0', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:49', 'vehicleCount': 93, 'trace_id': '2e575347-ed9a-4abf-ba41-38e1cb2ff8b0'}}
+2024-03-17 11:09:50,947 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:50', 'payload': {'traffic_id': 'de679bcd-df9a-430b-97e3-7ba1760a7335', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:49', 'vehicleCount': 24, 'trace_id': '3804ca6c-e388-4e2f-b79e-af26af753310'}}
+2024-03-17 11:09:51,237 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:50', 'payload': {'traffic_id': '2cde63ea-25bd-41fd-89fc-0a0a4ed2da9e', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:49', 'vehicleCount': 50, 'trace_id': '43360c6c-deb6-4de8-bc92-373f0424cfa2'}}
+2024-03-17 11:09:51,527 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:09:50', 'payload': {'traffic_id': '70f9f101-7580-44a7-a606-7987485cd336', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:09:49', 'vehicleCount': 3, 'trace_id': '3c2e4456-be30-4f63-bde5-48cf75d66948'}}
+2024-03-17 11:09:52,377 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:09:37.825042 returns 0 results
+2024-03-17 11:09:55,954 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:55', 'payload': {'accident_id': 'a7060362-7b93-429a-864b-bda7c5de27fc', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:55', 'incidentType': 'string', 'trace_id': '397629cd-65c1-4833-9d3b-39ca1920c651'}}
+2024-03-17 11:09:56,246 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:55', 'payload': {'accident_id': '8b10360c-7bbc-49c9-bd9c-ea32695d0728', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:55', 'incidentType': 'string', 'trace_id': 'a7babc13-6b8c-4174-96e1-cac1807c150e'}}
+2024-03-17 11:09:56,534 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:56', 'payload': {'accident_id': 'd33bff1f-6cd1-47bb-83ec-f62d20079326', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:55', 'incidentType': 'string', 'trace_id': 'abe48770-7987-48f1-a585-cec99851a2f9'}}
+2024-03-17 11:09:56,824 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:56', 'payload': {'accident_id': 'b55fee82-a510-4de2-a706-dca42b278e75', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:55', 'incidentType': 'string', 'trace_id': '8f86db6e-4367-49b7-8afb-3c9bfd99d886'}}
+2024-03-17 11:09:57,115 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:09:56', 'payload': {'accident_id': '14a920f3-b5dc-4814-b7bf-1992aa1981cb', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:09:55', 'incidentType': 'string', 'trace_id': 'cc499e87-fd78-41f2-ba86-1170f484d288'}}
+2024-03-17 11:10:00,110 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:09:47.822312 returns 0 results
+2024-03-17 11:10:01,408 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:01', 'payload': {'traffic_id': '7b29bf57-08a0-4522-b83a-99e372feb668', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:00', 'vehicleCount': 2, 'trace_id': 'c34a8509-0141-42b0-8804-fdc004ca38e5'}}
+2024-03-17 11:10:01,699 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:01', 'payload': {'traffic_id': 'c8b2af38-c725-4a20-ad37-697309ee098d', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:00', 'vehicleCount': 13, 'trace_id': '7d910d79-227f-49a1-bb48-c3eee6ff335b'}}
+2024-03-17 11:10:01,990 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:01', 'payload': {'traffic_id': 'cf276f54-4f29-4fc7-8e5c-e561f2443931', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:01', 'vehicleCount': 83, 'trace_id': 'cd56d4dd-3d07-4349-8d2c-790d90028da7'}}
+2024-03-17 11:10:02,280 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:01', 'payload': {'traffic_id': '0b150025-bbb6-4564-a41c-30da2f968be4', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:01', 'vehicleCount': 5, 'trace_id': '445ea196-57ab-426a-9fae-eb9e10830e8c'}}
+2024-03-17 11:10:02,391 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:09:47.822312 returns 0 results
+2024-03-17 11:10:02,567 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:01', 'payload': {'traffic_id': 'ec081a3e-c42b-4c8c-9e91-386892d5165c', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:01', 'vehicleCount': 33, 'trace_id': '027b0291-3aaf-4bf4-a5b8-a06c6c76206e'}}
+2024-03-17 11:10:06,909 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:06', 'payload': {'accident_id': '62fc4003-7e44-41cb-b82f-6c0d3c8a26e7', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:06', 'incidentType': 'string', 'trace_id': 'f1c28a02-e45b-460b-9e48-fe49bb6503a9'}}
+2024-03-17 11:10:07,195 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:06', 'payload': {'accident_id': '2a1a526d-673f-4a23-854f-dfcba3707b74', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:06', 'incidentType': 'string', 'trace_id': '4810753a-fea2-466d-845f-3d016e1b7414'}}
+2024-03-17 11:10:07,486 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:06', 'payload': {'accident_id': '9f28fe91-8249-4dcc-8744-8c19cdc9233b', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:06', 'incidentType': 'string', 'trace_id': '07a1acd6-d512-465a-96bc-af3bcfa4e95f'}}
+2024-03-17 11:10:07,776 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:07', 'payload': {'accident_id': 'c68f7f23-dad6-4129-8269-bd1c6d2c432a', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:06', 'incidentType': 'string', 'trace_id': '35f272f8-778d-4440-a685-b048682d8ebd'}}
+2024-03-17 11:10:08,068 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:07', 'payload': {'accident_id': 'e44e9410-c59d-4ab8-8bd0-0da2462de980', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:06', 'incidentType': 'string', 'trace_id': '05290eb8-4891-4825-981f-76c826e1e81b'}}
+2024-03-17 11:10:10,108 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:09:57.827505 returns 0 results
+2024-03-17 11:10:12,390 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:09:57.827505 returns 0 results
+2024-03-17 11:10:12,443 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:12', 'payload': {'traffic_id': '969d14b4-e17e-4167-a27b-0ce0bc729d0e', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:11', 'vehicleCount': 19, 'trace_id': '0aaad21f-ea95-4abe-807e-16918550e468'}}
+2024-03-17 11:10:12,735 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:12', 'payload': {'traffic_id': '69be7265-36fa-42c2-96c1-1cce05e35c6c', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:11', 'vehicleCount': 99, 'trace_id': '6fb70784-a51a-4ffc-a634-b1f3b26438ca'}}
+2024-03-17 11:10:13,029 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:12', 'payload': {'traffic_id': '39c2cef0-5d5f-4b29-9f7f-72e2fd255d56', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:12', 'vehicleCount': 18, 'trace_id': 'a425d3c6-9f8b-4346-8ffa-e8f8350c1d1d'}}
+2024-03-17 11:10:13,322 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:12', 'payload': {'traffic_id': 'a809270e-28b2-4a4d-9a03-b69fa91a1e77', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:12', 'vehicleCount': 30, 'trace_id': '49ce1c55-15fe-4765-ab20-5e21eafe039e'}}
+2024-03-17 11:10:13,611 - basicLogger - INFO - Message: {'type': 'TrafficFlow', 'datetime': '2024-03-17T11:10:12', 'payload': {'traffic_id': '5e664a8f-13ac-4a72-bb4e-904f68dc11b9', 'intersectionId': 'string', 'dateRecorded': '2024 mars 17 11:10:12', 'vehicleCount': 100, 'trace_id': '4e429ffd-57ce-4a0c-89fb-50cf616d5912'}}
+2024-03-17 11:10:17,914 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:17', 'payload': {'accident_id': '526340bb-c58b-410f-9d07-8e3e05672c81', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:17', 'incidentType': 'string', 'trace_id': '0043842b-1127-4fc4-ba3a-0a7b3f875a7b'}}
+2024-03-17 11:10:18,203 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:17', 'payload': {'accident_id': '5409fc49-b821-4f4b-801b-e55ec571d188', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:17', 'incidentType': 'string', 'trace_id': '3d823c3e-3ec5-4684-a50a-be9b5cb61d8a'}}
+2024-03-17 11:10:18,504 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:18', 'payload': {'accident_id': 'f86fd833-213d-43e8-b6c3-a3fb51b77d1a', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:17', 'incidentType': 'string', 'trace_id': '8e77a00a-f587-4b7b-b537-f7d50027c040'}}
+2024-03-17 11:10:18,801 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:18', 'payload': {'accident_id': '356c4495-9b76-4ab0-9fe1-7b04a603e74b', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:17', 'incidentType': 'string', 'trace_id': 'd0dada5c-fc56-4277-a533-a7f48f1429c9'}}
+2024-03-17 11:10:19,091 - basicLogger - INFO - Message: {'type': 'reportIncident', 'datetime': '2024-03-17T11:10:18', 'payload': {'accident_id': 'a3a3a5ad-c8f3-4882-90c9-209800ca77d1', 'cameraId': 'string', 'timestamp': '2024 mars 17 11:10:17', 'incidentType': 'string', 'trace_id': '4bdaa32f-6321-4ffb-b3e8-f99533bf3c5b'}}
+2024-03-17 11:10:20,080 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:10:07.825197 returns 0 results
+2024-03-17 11:10:22,363 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:10:07.825197 returns 0 results
+2024-03-17 11:10:30,100 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:10:17.811462 returns 0 results
+2024-03-17 11:10:32,374 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:10:17.811462 returns 0 results
+2024-03-17 11:10:40,091 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:10:27.815291 returns 0 results
+2024-03-17 11:10:42,374 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:10:27.815291 returns 0 results
+2024-03-17 11:10:50,095 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:10:37.817689 returns 0 results
+2024-03-17 11:10:52,379 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:10:37.817689 returns 0 results
+2024-03-17 11:11:00,091 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:10:47.815519 returns 0 results
+2024-03-17 11:11:02,377 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:10:47.815519 returns 0 results
+2024-03-17 11:11:10,096 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:10:57.814991 returns 0 results
+2024-03-17 11:11:12,361 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:10:57.814991 returns 0 results
+2024-03-17 11:11:20,102 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:11:07.818108 returns 0 results
+2024-03-17 11:11:22,369 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:11:07.818108 returns 0 results
+2024-03-17 11:11:30,100 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:11:17.818426 returns 0 results
+2024-03-17 11:11:32,393 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:11:17.818426 returns 0 results
+2024-03-17 11:11:40,082 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:11:27.818854 returns 0 results
+2024-03-17 11:11:42,352 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:11:27.818854 returns 0 results
+2024-03-17 11:11:50,084 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:11:37.819225 returns 0 results
+2024-03-17 11:11:52,362 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:11:37.819225 returns 0 results
+2024-03-17 11:12:00,094 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:11:47.815331 returns 0 results
+2024-03-17 11:12:02,375 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:11:47.815331 returns 0 results
+2024-03-17 11:12:10,101 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:11:57.818294 returns 0 results
+2024-03-17 11:12:12,367 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:11:57.818294 returns 0 results
+2024-03-17 11:12:20,106 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:12:07.826160 returns 0 results
+2024-03-17 11:12:22,380 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:12:07.826160 returns 0 results
+2024-03-17 11:12:30,100 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:12:17.819750 returns 0 results
+2024-03-17 11:12:32,393 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:12:17.819750 returns 0 results
+2024-03-17 11:12:40,086 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:12:27.827574 returns 0 results
+2024-03-17 11:12:42,374 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:12:27.827574 returns 0 results
+2024-03-17 11:12:50,088 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:12:37.823574 returns 0 results
+2024-03-17 11:12:52,363 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:12:37.823574 returns 0 results
+2024-03-17 11:13:00,104 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:12:47.816778 returns 0 results
+2024-03-17 11:13:02,393 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:12:47.816778 returns 0 results
+2024-03-17 11:13:10,071 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:12:57.830356 returns 0 results
+2024-03-17 11:13:12,340 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:12:57.830356 returns 0 results
+2024-03-17 11:13:20,111 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:13:07.824119 returns 0 results
+2024-03-17 11:13:22,387 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:13:07.824119 returns 0 results
+2024-03-17 11:13:30,086 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:13:17.825192 returns 0 results
+2024-03-17 11:13:32,355 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:13:17.825192 returns 0 results
+2024-03-17 11:13:40,085 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:13:27.822051 returns 0 results
+2024-03-17 11:13:42,370 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:13:27.822051 returns 0 results
+2024-03-17 11:13:50,098 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:13:37.812486 returns 0 results
+2024-03-17 11:13:52,357 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:13:37.812486 returns 0 results
+2024-03-17 11:14:00,095 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:13:47.824951 returns 0 results
+2024-03-17 11:14:02,364 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:13:47.824951 returns 0 results
+2024-03-17 11:14:10,072 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:13:57.824509 returns 0 results
+2024-03-17 11:14:12,327 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:13:57.824509 returns 0 results
+2024-03-17 11:14:20,106 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:14:07.821741 returns 0 results
+2024-03-17 11:14:22,366 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:14:07.821741 returns 0 results
+2024-03-17 11:14:30,092 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:14:17.823734 returns 0 results
+2024-03-17 11:14:32,350 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:14:17.823734 returns 0 results
+2024-03-17 11:14:40,097 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:14:27.814998 returns 0 results
+2024-03-17 11:14:42,351 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:14:27.814998 returns 0 results
+2024-03-17 11:14:50,084 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:14:37.822731 returns 0 results
+2024-03-17 11:14:52,358 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:14:37.822731 returns 0 results
+2024-03-17 11:15:00,092 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:14:47.815907 returns 0 results
+2024-03-17 11:15:02,374 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:14:47.815907 returns 0 results
+2024-03-17 11:15:10,085 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:14:57.812892 returns 0 results
+2024-03-17 11:15:12,342 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:14:57.812892 returns 0 results
+2024-03-17 11:15:20,107 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:15:07.821262 returns 0 results
+2024-03-17 11:15:22,383 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:15:07.821262 returns 0 results
+2024-03-17 11:15:30,078 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:15:17.830198 returns 0 results
+2024-03-17 11:15:32,333 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:15:17.830198 returns 0 results
+2024-03-17 11:15:40,109 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:15:27.822360 returns 0 results
+2024-03-17 11:15:42,378 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:15:27.822360 returns 0 results
+2024-03-17 11:15:50,097 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:15:37.824141 returns 0 results
+2024-03-17 11:15:52,374 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:15:37.824141 returns 0 results
+2024-03-17 11:16:00,095 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:15:47.820608 returns 0 results
+2024-03-17 11:16:02,362 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:15:47.820608 returns 0 results
+2024-03-17 11:16:10,086 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:15:57.816046 returns 0 results
+2024-03-17 11:16:12,358 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:15:57.816046 returns 0 results
+2024-03-17 11:16:20,084 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:16:07.813044 returns 0 results
+2024-03-17 11:16:22,395 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:16:07.813044 returns 0 results
+2024-03-17 11:16:30,082 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:16:17.813144 returns 0 results
+2024-03-17 11:16:32,357 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:16:17.813144 returns 0 results
+2024-03-17 11:16:40,304 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:16:27.818287 returns 0 results
+2024-03-17 11:16:42,559 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:16:27.818287 returns 0 results
+2024-03-17 11:16:50,085 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:16:37.824094 returns 0 results
+2024-03-17 11:16:52,372 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:16:37.824094 returns 0 results
+2024-03-17 11:17:00,080 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:16:47.819664 returns 0 results
+2024-03-17 11:17:02,354 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:16:47.819664 returns 0 results
+2024-03-17 11:17:10,101 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:16:57.827982 returns 0 results
+2024-03-17 11:17:12,383 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:16:57.827982 returns 0 results
+2024-03-17 11:17:20,161 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:17:07.819126 returns 0 results
+2024-03-17 11:17:22,449 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:17:07.819126 returns 0 results
+2024-03-17 11:17:30,077 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:17:17.824478 returns 0 results
+2024-03-17 11:17:32,360 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:17:17.824478 returns 0 results
+2024-03-17 11:17:40,061 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:17:27.812117 returns 0 results
+2024-03-17 11:17:42,344 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:17:27.812117 returns 0 results
+2024-03-17 11:17:50,093 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:17:37.815315 returns 0 results
+2024-03-17 11:17:52,373 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:17:37.815315 returns 0 results
+2024-03-17 11:18:00,100 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:17:47.815322 returns 0 results
+2024-03-17 11:18:02,384 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:17:47.815322 returns 0 results
+2024-03-17 11:18:10,102 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:17:57.823737 returns 0 results
+2024-03-17 11:18:12,377 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:17:57.823737 returns 0 results
+2024-03-17 11:18:20,085 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:18:07.825470 returns 0 results
+2024-03-17 11:18:22,353 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:18:07.825470 returns 0 results
+2024-03-17 11:18:30,097 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:18:17.818794 returns 0 results
+2024-03-17 11:18:32,376 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:18:17.818794 returns 0 results
+2024-03-17 11:18:40,088 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:18:27.826289 returns 0 results
+2024-03-17 11:18:42,369 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:18:27.826289 returns 0 results
+2024-03-17 11:18:50,116 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:18:37.814456 returns 0 results
+2024-03-17 11:18:52,402 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:18:37.814456 returns 0 results
+2024-03-17 11:19:00,086 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:18:47.820435 returns 0 results
+2024-03-17 11:19:02,380 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:18:47.820435 returns 0 results
+2024-03-17 11:19:10,102 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:18:57.828195 returns 0 results
+2024-03-17 11:19:12,385 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:18:57.828195 returns 0 results
+2024-03-17 11:19:20,092 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:19:07.823071 returns 0 results
+2024-03-17 11:19:22,344 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:19:07.823071 returns 0 results
+2024-03-17 11:19:30,090 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:19:17.816631 returns 0 results
+2024-03-17 11:19:32,366 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:19:17.816631 returns 0 results
+2024-03-17 11:19:40,097 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:19:27.819850 returns 0 results
+2024-03-17 11:19:42,358 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:19:27.819850 returns 0 results
+2024-03-17 11:19:50,075 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:19:37.824070 returns 0 results
+2024-03-17 11:19:52,352 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:19:37.824070 returns 0 results
+2024-03-17 11:20:00,107 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:19:47.816385 returns 0 results
+2024-03-17 11:20:02,378 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:19:47.816385 returns 0 results
+2024-03-17 11:20:10,076 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:19:57.820686 returns 0 results
+2024-03-17 11:20:12,338 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:19:57.820686 returns 0 results
+2024-03-17 11:20:20,082 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:20:07.811160 returns 0 results
+2024-03-17 11:20:22,353 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:20:07.811160 returns 0 results
+2024-03-17 11:20:30,093 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:20:17.820937 returns 0 results
+2024-03-17 11:20:32,342 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:20:17.820937 returns 0 results
+2024-03-17 11:20:40,097 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:20:27.816470 returns 0 results
+2024-03-17 11:20:42,368 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:20:27.816470 returns 0 results
+2024-03-17 11:20:50,084 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:20:37.823901 returns 0 results
+2024-03-17 11:20:52,370 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:20:37.823901 returns 0 results
+2024-03-17 11:21:00,104 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:20:47.814242 returns 0 results
+2024-03-17 11:21:02,371 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:20:47.814242 returns 0 results
+2024-03-17 11:21:10,093 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:20:57.819803 returns 0 results
+2024-03-17 11:21:12,394 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:20:57.819803 returns 0 results
+2024-03-17 11:21:20,099 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:21:07.826373 returns 0 results
+2024-03-17 11:21:22,374 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:21:07.826373 returns 0 results
+2024-03-17 11:21:30,100 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:21:17.828888 returns 0 results
+2024-03-17 11:21:32,375 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:21:17.828888 returns 0 results
+2024-03-17 11:21:40,073 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:21:27.815430 returns 0 results
+2024-03-17 11:21:42,358 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:21:27.815430 returns 0 results
+2024-03-17 11:21:50,089 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:21:37.814240 returns 0 results
+2024-03-17 11:21:52,377 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:21:37.814240 returns 0 results
+2024-03-17 11:22:00,090 - basicLogger - INFO - Query for Traffic report after 2024-03-17 11:21:47.813843 returns 0 results
+2024-03-17 11:22:02,380 - basicLogger - INFO - Query for Incident report after 2024-03-17 11:21:47.813843 returns 0 results

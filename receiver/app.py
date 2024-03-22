@@ -10,6 +10,7 @@ import yaml
 import logging
 import uuid
 import logging.config
+from pykafka import KafkaClient
 
 MAX_EVENTS = 5
 EVENT_FILE = 'events.json'
@@ -69,11 +70,22 @@ def recordTrafficFlow(body):
     #     "received_timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f"),
     # }
     body['trace_id'] = trace_id
-    req = requests.post(app_config['traffic_condition']['url'], json=body, headers={'Content-Type': 'application/json'})
+    # req = requests.post(app_config['traffic_condition']['url'], json=body, headers={'Content-Type': 'application/json'})
+    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+    topic = client.topics[str.encode(app_config['events']['topic'])]
+    producer = topic.get_sync_producer()
+    msg = { "type": "TrafficFlow", 
+            "datetime" : 
+                datetime.now().strftime(
+                    "%Y-%m-%dT%H:%M:%S"), 
+            "payload": body }
+    msg_str = json.dumps(msg)
+    producer.produce(msg_str.encode('utf-8'))
+
     # write_data("Traffic Flow", msg)
     # return NoContent, 201
-    logger.info(f"Returned event traffic response (Id: {trace_id}) with status {req.status_code}")
-    return NoContent, req.status_code
+    logger.info(f"Returned event traffic response (Id: {trace_id}) with status 201")
+    return NoContent, 201
 
     
 
@@ -86,11 +98,22 @@ def reportIncident(body):
     #     "received_timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f"),
     # }
     body['trace_id'] = trace_id
-    req = requests.post(app_config['accident']['url'], json=body, headers={'Content-Type': 'application/json'})
+    #req = requests.post(app_config['accident']['url'], json=body, headers={'Content-Type': 'application/json'})
+    client = KafkaClient(hosts='acit3855-kafla.eastus2.cloudapp.azure.com:9092')
+    topic = client.topics[str.encode('events')]
+    producer = topic.get_sync_producer()
+    msg = { "type": "reportIncident", 
+            "datetime" : 
+                datetime.now().strftime(
+                    "%Y-%m-%dT%H:%M:%S"), 
+            "payload": body }
+    msg_str = json.dumps(msg)
+    producer.produce(msg_str.encode('utf-8'))
+    
     # write_data("Incident report", msg)
     # return NoContent, 201
-    logger.info(f"Returned event {app_config['accident']} response (Id: {trace_id}) with status {req.status_code}")
-    return NoContent, req.status_code
+    logger.info(f"Returned event {app_config['accident']} response (Id: {trace_id}) with status 201")
+    return NoContent, 201
 
 
 

@@ -1,0 +1,48 @@
+{
+	"num_traffic flow": 171,
+	"recent_traffic flow": [
+		{
+			"msg_data": "3fa85f64-5717-4562-b3fc-2c963f66afa6, aircraft ID: 0, recorded 2023-02-21T09:12:33.001Z vehicle count: 0",
+			"received_timestamp": "2024-01-25 16:40:04.838888"
+		},
+		{
+			"msg_data": "3fa85f64-5717-4562-b3fc-2c963f66afa6, aircraft ID: 0, recorded 2023-02-21T09:12:33.001Z vehicle count: 0",
+			"received_timestamp": "2024-01-25 16:40:04.826043"
+		},
+		{
+			"msg_data": "3fa85f64-5717-4562-b3fc-2c963f66afa6, aircraft ID: 0, recorded 2023-02-21T09:12:33.001Z vehicle count: 0",
+			"received_timestamp": "2024-01-25 16:40:04.811520"
+		},
+		{
+			"msg_data": "3fa85f64-5717-4562-b3fc-2c963f66afa6, aircraft ID: 0, recorded 2023-02-21T09:12:33.001Z vehicle count: 0",
+			"received_timestamp": "2024-01-25 16:40:04.793883"
+		},
+		{
+			"msg_data": "3fa85f64-5717-4562-b3fc-2c963f66afa6, aircraft ID: 0, recorded 2023-02-21T09:12:33.001Z vehicle count: 0",
+			"received_timestamp": "2024-01-25 16:40:04.745007"
+		}
+	],
+	"num_incident report": 172,
+	"recent_incident report": [
+		{
+			"msg_data": "Confirmation incident for 3fa85f64-5717-4562-b3fc-2c963f66afa6. Your camera ID: 0",
+			"received_timestamp": "2024-01-25 16:40:04.844787"
+		},
+		{
+			"msg_data": "Confirmation incident for 3fa85f64-5717-4562-b3fc-2c963f66afa6. Your camera ID: 0",
+			"received_timestamp": "2024-01-25 16:40:04.832041"
+		},
+		{
+			"msg_data": "Confirmation incident for 3fa85f64-5717-4562-b3fc-2c963f66afa6. Your camera ID: 0",
+			"received_timestamp": "2024-01-25 16:40:04.819254"
+		},
+		{
+			"msg_data": "Confirmation incident for 3fa85f64-5717-4562-b3fc-2c963f66afa6. Your camera ID: 0",
+			"received_timestamp": "2024-01-25 16:40:04.804081"
+		},
+		{
+			"msg_data": "Confirmation incident for 3fa85f64-5717-4562-b3fc-2c963f66afa6. Your camera ID: 0",
+			"received_timestamp": "2024-01-25 16:40:04.751898"
+		}
+	]
+}
