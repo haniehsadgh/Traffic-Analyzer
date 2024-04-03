@@ -1,18 +1,20 @@
 from sqlalchemy.orm import DeclarativeBase, mapped_column
-from sqlalchemy import Integer, String, DateTime, func
+from sqlalchemy import Integer, String, DateTime, func, Column
+from sqlalchemy.ext.declarative import declarative_base
 from datetime import datetime
 
-class Base(DeclarativeBase):
-    pass
+Base = declarative_base()
+# class Base(DeclarativeBase):
+#     pass
 
 class Stats(Base):
     __tablename__ = 'stats'
 
-    id = mapped_column(Integer, primary_key=True)
-    num_traffic_report = mapped_column(Integer, nullable=False)
-    num_incident_report = mapped_column(Integer, nullable=False)
-    max_vehicle_count = mapped_column(Integer, nullable=False)
-    last_updated = mapped_column(DateTime, nullable=False, default=func.now())
+    id = Column(Integer, primary_key=True)
+    num_traffic_report = Column(Integer, nullable=False)
+    num_incident_report = Column(Integer, nullable=False)
+    max_vehicle_count = Column(Integer, nullable=False)
+    last_updated = Column(DateTime, nullable=False, default=func.now())
 
 
     # def __init__(self, num_traffic_report, num_incident_report, max_vehicle_count, last_updated):
