@@ -1,4 +1,4 @@
-@Library('ci_functions@main') _
+@Library('https://github.com/haniehsadgh/ci_functions@main') _
 python_build('my-receiver', 'receiver', 8080)
 
 
