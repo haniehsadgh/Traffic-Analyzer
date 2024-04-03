@@ -1,4 +1,4 @@
-@Library('ci_function@main') _
+@Library('shared_lib@main') _
 python_build('my-receiver', 'receiver', 8080)
 
 
