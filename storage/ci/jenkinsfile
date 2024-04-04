@@ -1,2 +1,2 @@
-@Library('ci_function@main') _
+@Library('shared_lib@main') _
 python_build('storage', 'storage', 8090)
