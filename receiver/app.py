@@ -44,7 +44,7 @@ def recordTrafficFlow(body):
     client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
     topic = client.topics[str.encode(app_config['events']['topic'])]
     producer = topic.get_sync_producer()
-    msg = { 
+    msg = {
         "type": "TrafficFlow", 
         "datetime" : datetime.now().strftime("%Y-%m-%dT%H:%M:%S"), 
         "payload": body
@@ -55,7 +55,7 @@ def recordTrafficFlow(body):
     logger.info("Returned event traffic response (Id: %s) with status 201", trace_id)
     return NoContent, 201
 
-    
+
 def reportIncident(body):
     """Report incident event."""
     trace_id = generate_trace_id()
@@ -66,7 +66,7 @@ def reportIncident(body):
     client = KafkaClient(hosts='acit3855-kafla.eastus2.cloudapp.azure.com:9092')
     topic = client.topics[str.encode('events')]
     producer = topic.get_sync_producer()
-    msg = { 
+    msg = {
         "type": "reportIncident", 
         "datetime" : datetime.now().strftime("%Y-%m-%dT%H:%M:%S"), 
         "payload": body
