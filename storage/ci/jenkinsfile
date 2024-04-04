@@ -1,2 +1,2 @@
 @Library('shared_lib@main') _
-python_build('storage', 'storage', 8090, storage)
+python_build('storage', 'storage', 8090)
