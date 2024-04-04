@@ -72,7 +72,8 @@ def reportIncident(body):
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
 
-    logger.info("Returned event %s response (Id: %s) with status 201", app_config['accident'], trace_id)
+    logger.info("Returned event %s response (Id: %s) with status 201",
+                app_config['accident'], trace_id)
     return NoContent, 201
 
 
