@@ -29,10 +29,12 @@ with open('log_conf.yml', 'r') as f:
 logger = logging.getLogger('basicLogger')
 
 def generate_trace_id():
+    """Generate a unique trace ID."""
     return str(uuid.uuid4())
 
 
 def recordTrafficFlow(body):
+    """Record traffic flow event."""
     trace_id = generate_trace_id()
     logger.info(f"Recieved event traffic request with a trace id of {trace_id})")
 
@@ -55,6 +57,7 @@ def recordTrafficFlow(body):
 
     
 def reportIncident(body):
+    """Report incident event."""
     trace_id = generate_trace_id()
     logger.info(f"Recieved event {app_config['accident']} request with a trace id of {trace_id})")
 
