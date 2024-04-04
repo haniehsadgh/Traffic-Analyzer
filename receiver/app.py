@@ -19,11 +19,11 @@ MAX_EVENTS = 5
 EVENT_FILE = 'events.json'
 
 
-with open('app_conf.yml', 'r') as f:
+with open('app_conf.yml', 'r', encoding='utf-8') as f:
     app_config = yaml.safe_load(f.read())
 
 
-with open('log_conf.yml', 'r') as f:
+with open('log_conf.yml', 'r', encoding='utf-8') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
