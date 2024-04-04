@@ -1,3 +1,9 @@
+"""
+Receiver Application Module
+
+This module defines endpoints for receiving and processing traffic events and incident reports.
+"""
+
 import json
 import logging
 import logging.config
