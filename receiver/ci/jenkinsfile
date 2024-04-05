@@ -1,4 +1,4 @@
 @Library('shared_lib@main') _
-python_build('my-receiver', 'receiver', 8080)
+python_build('my-receiver', 'receiver1', 8080)
 
 
