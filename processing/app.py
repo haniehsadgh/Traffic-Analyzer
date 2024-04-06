@@ -33,6 +33,9 @@ logger = logging.getLogger('basicLogger')
 
 
 def populate_state():
+    """ 
+    get data for /stats
+    """
     session = db.make_session()
     logger.info("Predict processing has started")
     latest_state = session.query(Stats).order_by(Stats.last_updated.desc()).first()
@@ -83,7 +86,8 @@ def populate_state():
     for report in traffic_report_res_json:
         if report["vehicleCount"] > latest_state.max_vehicle_count:
             max_vehicle_count = report["vehicleCount"]
-            logger.debug(f"Processing traffic report for vehicle count with trace_id: {report['trace_id']}")
+            logger.debug(f"Processing traffic report for vehicle count with trace_id:
+            {report['trace_id']}")
 
 
 
@@ -100,7 +104,8 @@ def populate_state():
 
 def init_scheduler():
     """
-    Initialize and start a background scheduler to run the populate_state function at specified intervals.
+    Initialize and start a background scheduler to run 
+    the populate_state function at specified intervals.
     """
     sched = BackgroundScheduler(daemon=True, timezone=utc)
     sched.add_job(populate_state,
@@ -109,6 +114,9 @@ def init_scheduler():
     sched.start()
 
 def get_stats():
+    """
+    generate data as a dict
+    """
     logger.info("Request for statistics started")
 
     session = db.make_session()
