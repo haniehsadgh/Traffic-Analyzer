@@ -104,6 +104,9 @@ logger = logging.getLogger('basicLogger')
 
 
 def get_traffic_report(start_timestamp, end_timestamp):
+    """
+    Retrieve traffic reports from the database based on the specified time range.
+    """
     session = db_mysql.make_session()
     start_timestamp_dt = datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
     end_timestamp_dt = datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
@@ -123,6 +126,9 @@ def get_traffic_report(start_timestamp, end_timestamp):
     return result_list, 200
 
 def get_incident_report(start_timestamp, end_timestamp):
+    """
+    Retrieve incident reports from the database based on the specified time range.
+    """
     session = db_mysql.make_session()
     start_timestamp_dt = datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
     end_timestamp_dt = datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
