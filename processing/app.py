@@ -109,9 +109,6 @@ def init_scheduler():
     sched.start()
 
 def get_stats():
- """
- Get the payload dictionary
- """
     logger.info("Request for statistics started")
 
     session = db.make_session()
