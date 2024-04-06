@@ -33,9 +33,6 @@ logger = logging.getLogger('basicLogger')
 
 
 def populate_state():
-     """
-     Generate data for /stats
-     """
     session = db.make_session()
     logger.info("Predict processing has started")
     latest_state = session.query(Stats).order_by(Stats.last_updated.desc()).first()
