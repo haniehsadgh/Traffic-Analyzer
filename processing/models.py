@@ -1,3 +1,7 @@
+"""
+Module to define database models.
+"""
+
 from sqlalchemy.orm import DeclarativeBase, mapped_column
 from sqlalchemy import Integer, String, DateTime, func, Column
 from sqlalchemy.ext.declarative import declarative_base
@@ -8,6 +12,9 @@ Base = declarative_base()
 #     pass
 
 class Stats(Base):
+    """
+    Model class for 'stats' table.
+    """
     __tablename__ = 'stats'
 
     id = Column(Integer, primary_key=True)
