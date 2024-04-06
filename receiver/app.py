@@ -29,6 +29,37 @@ with open('log_conf.yml', 'r', encoding='utf-8') as f:
 
 logger = logging.getLogger('basicLogger')
 
+# Initialize KafkaClient on startup
+client = None
+topic = None
+
+def connect_to_kafka():
+    """ Connect to Kafka and return the client and topic """
+    global client, topic
+    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
+    client = KafkaClient(hosts=hostname)
+    topic = client.topics[str.encode(app_config["events"]["topic"])]
+
+# Retry logic for connecting to Kafka
+def retry_connect_to_kafka():
+    max_retries = 3  # Maximum number of retries
+    current_retry = 0
+    while current_retry < max_retries:
+        try:
+            connect_to_kafka()
+            logger.info("Connected to Kafka")
+            return True
+        except Exception as e:
+            logger.error(f"Error connecting to Kafka: {e}")
+            logger.info(f"Retrying connection to Kafka ({current_retry + 1}/{max_retries})")
+            current_retry += 1
+            time.sleep(5)  # Wait for a few seconds before retrying
+    logger.error("Failed to connect to Kafka after multiple attempts")
+    return False
+
+# Initial connection to Kafka
+retry_connect_to_kafka()
+
 def generate_trace_id():
     """Generate a unique trace ID."""
     return str(uuid.uuid4())
@@ -41,8 +72,8 @@ def recordTrafficFlow(body):
 
     body['trace_id'] = trace_id
 
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
+    # client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+    # topic = client.topics[str.encode(app_config['events']['topic'])]
     producer = topic.get_sync_producer()
     msg = {
         "type": "TrafficFlow", 
@@ -63,8 +94,8 @@ def reportIncident(body):
 
     body['trace_id'] = trace_id
 
-    client = KafkaClient(hosts='acit3855-kafla.eastus2.cloudapp.azure.com:9092')
-    topic = client.topics[str.encode('events')]
+    # client = KafkaClient(hosts='acit3855-kafla.eastus2.cloudapp.azure.com:9092')
+    # topic = client.topics[str.encode('events')]
     producer = topic.get_sync_producer()
     msg = {
         "type": "reportIncident", 
