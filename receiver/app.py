@@ -18,7 +18,6 @@ import yaml
 MAX_EVENTS = 5
 EVENT_FILE = 'events.json'
 
-
 with open('app_conf.yml', 'r', encoding='utf-8') as f:
     app_config = yaml.safe_load(f.read())
 
