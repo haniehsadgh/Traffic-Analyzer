@@ -1,15 +1,19 @@
-import time
-from datetime import datetime 
+"""
+Processing Application Module
+
+This module defines endpoints for receiving and processing traffic events and incident reports.
+"""
+
+from datetime import datetime
 import json
+import logging.config
+import logging
 import connexion
 from connexion import NoContent
-from flask import Flask, request, jsonify
-from os import path
+from flask import Flask
 import db
 # import processing.db as db
 import yaml
-import logging
-import logging.config
 from models import Stats
 import requests
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -17,18 +21,21 @@ from pytz import utc
 
 
 
-with open('app_conf.yml', 'r') as f:
- app_config = yaml.safe_load(f.read())
+with open('app_conf.yml', 'r', encoding='utf-8') as f:
+    app_config = yaml.safe_load(f.read())
 
 
-with open('log_conf.yml', 'r') as f:
- log_config = yaml.safe_load(f.read())
- logging.config.dictConfig(log_config)
+with open('log_conf.yml', 'r', encoding='utf-8') as f:
+    log_config = yaml.safe_load(f.read())
+    logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
 
 
 def populate_state():
+ """
+ Generate data for /stats
+ """
     session = db.make_session()
     logger.info("Predict processing has started")
     latest_state = session.query(Stats).order_by(Stats.last_updated.desc()).first()
@@ -41,26 +48,26 @@ def populate_state():
                     num_traffic_report=0,
                     num_incident_report=0,
                     last_updated=datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f"))
-       
+
     else:
-       logger.debug("Latest statistics: %s" % latest_state)
+        logger.debug("Latest statistics: %s" % latest_state)
     session.close()
 
 
     url = app_config["eventstore"]["url"]
     current_datetime_obj = datetime.now()
     current_datetime = current_datetime_obj.strftime("%Y-%m-%d %H:%M:%S.%f")
-    traffic_report_response = requests.get(f"{app_config['eventstore']['url']}/traffic-flow", 
+    traffic_report_response = requests.get(f"{app_config['eventstore']['url']}/traffic-flow",
                                            params={"start_timestamp": latest_state.last_updated,
                                                 "end_timestamp": current_datetime})
-    
-    incident_report_response = requests.get(f"{app_config['eventstore']['url']}/incident", 
+
+    incident_report_response = requests.get(f"{app_config['eventstore']['url']}/incident",
                                            params={"start_timestamp": latest_state.last_updated,
                                                 "end_timestamp": current_datetime})
-    
+
     logger.info(f"Received {len(traffic_report_response.json())} traffic info events")
     logger.info(f"Received {len(incident_report_response.json())} incident events")
-    
+
     if traffic_report_response.status_code != 200 or incident_report_response.status_code != 200:
         logger.error("Failed to fetch events from Data Store Service")
         # return
@@ -77,8 +84,8 @@ def populate_state():
     max_vehicle_count = latest_state.max_vehicle_count
 
     for report in traffic_report_res_json:
-       if report["vehicleCount"] > latest_state.max_vehicle_count:
-          max_vehicle_count = report["vehicleCount"]
+        if report["vehicleCount"] > latest_state.max_vehicle_count:
+            max_vehicle_count = report["vehicleCount"]
           logger.debug(f"Processing traffic report for vehicle count with trace_id: {report['trace_id']}")
 
 
@@ -95,13 +102,19 @@ def populate_state():
 
 
 def init_scheduler():
+    """
+    Initialize and start a background scheduler to run the populate_state function at specified intervals.
+    """
     sched = BackgroundScheduler(daemon=True, timezone=utc)
-    sched.add_job(populate_state, 
+    sched.add_job(populate_state,
                     'interval',
                     seconds=app_config['scheduler']['period_sec'])
     sched.start()
 
 def get_stats():
+ """
+ Get the payload dictionary
+ """
     logger.info("Request for statistics started")
 
     session = db.make_session()
@@ -126,4 +139,3 @@ app.add_api("trafficreport.yaml", strict_validation=True, validate_responses=Tru
 if __name__ == "__main__":
     init_scheduler()
     app.run(port=8100)
-
