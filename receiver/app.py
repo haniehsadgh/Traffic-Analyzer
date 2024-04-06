@@ -42,6 +42,7 @@ def connect_to_kafka():
 
 # Retry logic for connecting to Kafka
 def retry_connect_to_kafka():
+    """ retry Connection to Kafka """
     max_retries = 3  # Maximum number of retries
     current_retry = 0
     while current_retry < max_retries:
@@ -50,8 +51,9 @@ def retry_connect_to_kafka():
             logger.info("Connected to Kafka")
             return True
         except Exception as e:
-            logger.error(f"Error connecting to Kafka: {e}")
-            logger.info(f"Retrying connection to Kafka ({current_retry + 1}/{max_retries})")
+            logger.error("Error connecting to Kafka: %s", e)
+            logger.info("Retrying connection to Kafka (%d/%d)", current_retry + 1, max_retries)
+            
             current_retry += 1
             time.sleep(5)  # Wait for a few seconds before retrying
     logger.error("Failed to connect to Kafka after multiple attempts")
