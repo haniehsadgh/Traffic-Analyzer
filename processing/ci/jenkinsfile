@@ -1,2 +1,2 @@
 @Library('shared_lib@main') _
-python_build('my-processor', 'processing1', 8100)
+python_build('my-processor', 'latest', 8100)
