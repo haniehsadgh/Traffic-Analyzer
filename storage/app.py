@@ -111,22 +111,22 @@ def get_traffic_report(start_timestamp, end_timestamp):
     results = session.query(TrafficFlow).filter(
         and_(TrafficFlow.date_created >= start_timestamp_dt,
              TrafficFlow.date_created < end_timestamp_dt))
- 
+
     result_list = []
     for result in results:
         result_list.append(result.to_dict())
 
     session.close()
-    logger.info("Query for Traffic report after %s returns %d results" 
+    logger.info("Query for Traffic report after %s returns %d results"
                 % (start_timestamp, len(result_list)))
- 
+
     return result_list, 200
 
 def get_incident_report(start_timestamp, end_timestamp):
     session = db_mysql.make_session()
     start_timestamp_dt = datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
     end_timestamp_dt = datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
- 
+
     results = session.query(IncidentReport).filter(
     and_(IncidentReport.date_created >= start_timestamp_dt,
          IncidentReport.date_created < end_timestamp_dt))
@@ -136,7 +136,7 @@ def get_incident_report(start_timestamp, end_timestamp):
         result_list.append(result.to_dict())
 
     session.close()
-    logger.info("Query for Incident report after %s returns %d results" 
+    logger.info("Query for Incident report after %s returns %d results"
                 % (start_timestamp, len(result_list)))
 
     return result_list, 200
@@ -151,13 +151,13 @@ logger.info(f"Connecting to {database_name}. Hostname:{hostname}, Port:{port}")
 
 def process_messages():
     """ Process event messages """
-    hostname = "%s:%d" % (app_config["events"]["hostname"], 
+    hostname = "%s:%d" % (app_config["events"]["hostname"],
     app_config["events"]["port"])
     client = KafkaClient(hosts=hostname)
     topic = client.topics[str.encode(app_config["events"]["topic"])]
 
-    # Create a consume on a consumer group, that only reads new messages 
-    # (uncommitted messages) when the service re-starts (i.e., it doesn't 
+    # Create a consume on a consumer group, that only reads new messages
+    # (uncommitted messages) when the service re-starts (i.e., it doesn't
     # read all the old messages from the history in the message queue).
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
     reset_offset_on_start=False,
@@ -169,7 +169,7 @@ def process_messages():
         logger.info("Message: %s" % msg)
 
         payload = msg["payload"]
-        
+
         if msg["type"] == "TrafficFlow": # Change this to your event type
             new_event = TrafficFlow(
                 trace_id=payload["trace_id"],
@@ -182,7 +182,7 @@ def process_messages():
             session.add(new_event)
             session.commit()
             session.close()
-           
+
         # Store the event1 (i.e., the payload) to the DB
         elif msg["type"] == "reportIncident": # Change this to your event type
         # Store the event2 (i.e., the payload) to the DB
@@ -211,5 +211,3 @@ if __name__ == "__main__":
     t1.setDaemon(True)
     t1.start()
     app.run(port=8090)
-
-
