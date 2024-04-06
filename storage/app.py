@@ -8,19 +8,18 @@ This module defines endpoints for receiving and processing traffic events and in
 import json
 from datetime import datetime
 from threading import Thread
-from os import path
 import logging.config
+import logging
 import yaml
 import connexion
 from connexion import NoContent
-from flask import Flask, request, jsonify
-from models_mysql import TrafficFlow, IncidentReport, Base
+from flask import Flask
+from models_mysql import TrafficFlow, IncidentReport
 import db_mysql
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
-import logging
 from sqlalchemy import and_
-import time
+
 
 
 with open('app_conf.yml', 'r', encoding='utf-8') as f:
