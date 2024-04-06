@@ -2,10 +2,10 @@
 Module to define database models.
 """
 
-from sqlalchemy.orm import DeclarativeBase, mapped_column
-from sqlalchemy import Integer, String, DateTime, func, Column
+#from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy import Integer, DateTime, func, Column
 from sqlalchemy.ext.declarative import declarative_base
-from datetime import datetime
+# from datetime import datetime
 
 Base = declarative_base()
 # class Base(DeclarativeBase):
