@@ -1,29 +1,35 @@
-import time
-from datetime import datetime 
+"""
+Receiver Application Module
+
+This module defines endpoints for receiving and processing traffic events and incident reports.
+"""
+
+
 import json
+from datetime import datetime
+from threading import Thread
+from os import path
+import logging.config
+import yaml
 import connexion
 from connexion import NoContent
 from flask import Flask, request, jsonify
-from os import path
 from models_mysql import TrafficFlow, IncidentReport, Base
-import db_mysql 
-import yaml
-import logging
-import logging.config
-from sqlalchemy import and_
+import db_mysql
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
-from threading import Thread
-
+import logging
+from sqlalchemy import and_
+import time
 
 
 with open('app_conf.yml', 'r') as f:
- app_config = yaml.safe_load(f.read())
+    app_config = yaml.safe_load(f.read())
 
 
 with open('log_conf.yml', 'r') as f:
- log_config = yaml.safe_load(f.read())
- logging.config.dictConfig(log_config)
+    log_config = yaml.safe_load(f.read())
+    logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
 
@@ -31,7 +37,7 @@ logger = logging.getLogger('basicLogger')
 # def log_to_db(session, body, type):
 #     if type not in ("traffic", "incident"):
 #         raise  ValueError("Invalid event type: {}".format(type))
-    
+
 #     if type == "traffic":
 #         new_event = TrafficFlow(
 #             trace_id=body["trace_id"],
@@ -48,7 +54,7 @@ logger = logging.getLogger('basicLogger')
 #             timestamp=body["timestamp"],
 #             incidentType=body["incidentType"]
 #         )
-    
+
 #     session.add(new_event)
 #     session.commit()
 #     session.close()
@@ -79,7 +85,7 @@ logger = logging.getLogger('basicLogger')
 #     # file_content_dict[recent_key].append(req)
 #     file_content_dict[recent_key].insert(0, req)
 #     file_content_dict[recent_key] = file_content_dict[recent_key][:MAX_EVENTS]
-    
+
 #     with open(EVENT_FILE, "w") as write_file:
 #         json.dump(file_content_dict, write_file, indent='\t')
 
@@ -103,31 +109,35 @@ def get_traffic_report(start_timestamp, end_timestamp):
     end_timestamp_dt = datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
 
     results = session.query(TrafficFlow).filter(
-        and_(TrafficFlow.date_created >= start_timestamp_dt,TrafficFlow.date_created < end_timestamp_dt))
-    
+        and_(TrafficFlow.date_created >= start_timestamp_dt,
+             TrafficFlow.date_created < end_timestamp_dt))
+ 
     result_list = []
     for result in results:
-       result_list.append(result.to_dict())
+        result_list.append(result.to_dict())
 
     session.close()
-    logger.info("Query for Traffic report after %s returns %d results" % (start_timestamp, len(result_list)))
-
+    logger.info("Query for Traffic report after %s returns %d results" 
+                % (start_timestamp, len(result_list)))
+ 
     return result_list, 200
 
 def get_incident_report(start_timestamp, end_timestamp):
     session = db_mysql.make_session()
     start_timestamp_dt = datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
     end_timestamp_dt = datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
-
+ 
     results = session.query(IncidentReport).filter(
-    and_(IncidentReport.date_created >= start_timestamp_dt,IncidentReport.date_created < end_timestamp_dt))
-    
+    and_(IncidentReport.date_created >= start_timestamp_dt,
+         IncidentReport.date_created < end_timestamp_dt))
+
     result_list = []
     for result in results:
-       result_list.append(result.to_dict())
+        result_list.append(result.to_dict())
 
     session.close()
-    logger.info("Query for Incident report after %s returns %d results" % (start_timestamp, len(result_list)))
+    logger.info("Query for Incident report after %s returns %d results" 
+                % (start_timestamp, len(result_list)))
 
     return result_list, 200
 
