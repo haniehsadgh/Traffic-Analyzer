@@ -19,7 +19,7 @@ import requests
 from apscheduler.schedulers.background import BackgroundScheduler
 from pytz import utc
 
-
+TIMEOUT = 10
 
 with open('app_conf.yml', 'r', encoding='utf-8') as f:
     app_config = yaml.safe_load(f.read())
@@ -56,11 +56,13 @@ def populate_state():
     current_datetime = current_datetime_obj.strftime("%Y-%m-%d %H:%M:%S.%f")
     traffic_report_response = requests.get(f"{app_config['eventstore']['url']}/traffic-flow",
                                            params={"start_timestamp": latest_state.last_updated,
-                                                "end_timestamp": current_datetime})
+                                                "end_timestamp": current_datetime},
+                                          timeout=TIMEOUT)
 
     incident_report_response = requests.get(f"{app_config['eventstore']['url']}/incident",
                                            params={"start_timestamp": latest_state.last_updated,
-                                                "end_timestamp": current_datetime})
+                                                "end_timestamp": current_datetime},
+                                           timeout=TIMEOUT)
 
     logger.info(f"Received {len(traffic_report_response.json())} traffic info events")
     logger.info(f"Received {len(incident_report_response.json())} incident events")
