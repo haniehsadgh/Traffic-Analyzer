@@ -83,7 +83,7 @@ def populate_state():
     for report in traffic_report_res_json:
         if report["vehicleCount"] > latest_state.max_vehicle_count:
             max_vehicle_count = report["vehicleCount"]
-          logger.debug(f"Processing traffic report for vehicle count with trace_id: {report['trace_id']}")
+            logger.debug(f"Processing traffic report for vehicle count with trace_id: {report['trace_id']}")
 
 
 
