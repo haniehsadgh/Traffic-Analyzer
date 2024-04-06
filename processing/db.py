@@ -1,3 +1,7 @@
+"""
+Module to make session and write data to db.
+"""
+
 import functools
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -12,9 +16,15 @@ DB_PATH = "sqlite:///stats.db"
 engine = create_engine(DB_PATH)
 
 def make_session():
+    """
+    Create a new database session.
+    """
     return sessionmaker(bind=engine) ()
 
 def use_db_session(func):
+    """
+    Decorator to use a database session in a function.
+    """
     @functools.wraps(func)
     def wrapper(*args, **kwargs):
         session = make_session()
@@ -22,5 +32,5 @@ def use_db_session(func):
             return func(session, *args, **kwargs)
         finally:
             session.close()
-    
+
     return wrapper
