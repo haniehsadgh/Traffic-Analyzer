@@ -33,9 +33,6 @@ logger = logging.getLogger('basicLogger')
 
 
 def populate_state():
-    """ 
-    get data for /stats
-    """
     session = db.make_session()
     logger.info("Predict processing has started")
     latest_state = session.query(Stats).order_by(Stats.last_updated.desc()).first()
@@ -114,9 +111,6 @@ def init_scheduler():
     sched.start()
 
 def get_stats():
-    """
-    generate data as a dict
-    """
     logger.info("Request for statistics started")
 
     session = db.make_session()
