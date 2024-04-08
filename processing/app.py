@@ -35,6 +35,7 @@ logger = logging.getLogger('basicLogger')
 def populate_state():
     session = db.make_session()
     logger.info("Predict processing has started")
+    logger.info("Enterprise Demo")
     latest_state = session.query(Stats).order_by(Stats.last_updated.desc()).first()
     print("latest state:", latest_state)
     logger.debug(f"latest state: {latest_state}")
